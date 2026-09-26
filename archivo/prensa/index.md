@@ -12,11 +12,11 @@ Este archivo está deliberadamente separado del README del perfil. La unidad de 
 | 2025 | 50 | 50 | Completo |
 | 2024 | 36 | 36 | Completo |
 | 2023 | 30 | 30 | Completo |
-| 2022 | 11 | — | Reconstrucción parcial desde medios originales |
+| 2022 | 30 | 24 | Completo en blog + 6 hallazgos externos |
 | 2021 | 19 | 14 | Completo en blog + 5 hallazgos externos |
 | 2020 | 46 | 46 | Completo |
 
-**Total registrado: 280 apariciones (264 documentadas y curadas desde los índices del blog + 11 reconstruidas de 2022 + 5 hallazgos externos de 2021).**
+**Total registrado: 299 apariciones (288 documentadas y curadas desde los índices del blog + 11 hallazgos externos).**
 
 Los años 2021 y 2022 siguen sin poder verificarse de forma exhaustiva contra sus páginas anuales, porque Medium actualmente no expone el cuerpo de esos artículos. Sin embargo, se reconstruyó una parte del archivo a partir de publicaciones originales conservadas por los medios. Estos registros se marcan como `reconstruido` y no se presentan como un inventario completo de esos dos años.
 
@@ -264,23 +264,52 @@ Fuente anual: [En la prensa 2023](https://blog.ariellopez.cl/en-la-prensa-e39e77
 
 ## 2022
 
-Fuente anual: [En la prensa 2022](https://blog.ariellopez.cl/en-la-prensa-2022-aebe4412f9d5). La página anual no expone actualmente su cuerpo completo; los siguientes registros fueron reconstruidos desde publicaciones originales, copias institucionales o archivos audiovisuales verificables.
+Fuente anual: [En la prensa 2022](https://blog.ariellopez.cl/en-la-prensa-2022-aebe4412f9d5). El contenido fue recuperado directamente desde una copia Markdown suministrada por el autor. El índice del blog contiene 24 apariciones.
+
+### Documentadas en el blog
+
+| Fecha | Medio | Título | Enlace |
+|---|---|---|---|
+| 2022-11-30 | El Mercurio | Panel de Expertos sugiere alza de $30 en el Transantiago, pero Gobierno mantiene tarifa | [copia](https://www.infraestructurapublica.cl/panel-de-expertos-sugiere-alza-de-30-en-el-transantiago-pero-gobierno-mantiene-tarifa/) |
+| 2022-11-18 | El Mercurio | Mandatario hace llamado de atención a parlamentarios de su coalición tras presión para congelar la tarifa de transporte | [original](https://digital.elmercurio.com/2022/11/18/C/K946UC7N) |
+| 2022-11-09 | LUN | Así funciona la bicicleta que en cuatro pasos se convierte en su propio candado | [original](https://www.lun.com/Pages/NewsDetail.aspx?dt=2022-11-10&EsAviso=0&PaginaId=20&bodyid=0) |
+| 2022-10-16 | CNN Chile | Buses con sensor de ciclistas y peatones | [video](https://www.youtube.com/watch?v=A-H6sjBomWo&t=11s) |
+| 2022-09-29 | LUN | Detectan los puntos donde más costalazos se dan los ciclistas en el Cerro San Cristóbal | [copia](https://fing.utem.cl/2022/09/30/detectan-los-puntos-donde-mas-costalazos-se-dan-los-ciclistas-en-el-cerro-san-cristobal/) |
+| 2022-08-19 | El Mercurio | Municipios alistan servicio de transporte gratuito para el plebiscito, a la espera de instrucciones de Contraloría | [original](https://digital.elmercurio.com/2022/08/19/N) |
+| 2022-08-18 | El Mercurio | Metro: Critican falta de personal tras falla que obligó a cierre de estaciones | [original](https://digital.elmercurio.com/2022/08/18/C) |
+| 2022-07-21 | Chilevisión | Conductor ebrio manejó contra el tránsito y mató a padre con su pequeño hijo y otra menor | [original](https://www.chilevision.cl/contigo-en-directo/mejores-momentos/conductor-ebrio-manejo-contra-el-transito-y-mato-a-padre-con-su-pequeno) |
+| 2022-06-02 | LUN | ¿Cómo elegir un casco seguro para andar en bici? Tres especialistas cuentan sus datos | [original](https://www.lun.com/Pages/NewsDetail.aspx?dt=2022-06-02&EsAviso=0&PaginaId=30&bodyid=0) |
+| 2022-05-22 | Chilevisión | Proyecto Alameda Providencia busca cambiar la cara de la Alameda | Sin URL original/video verificable |
+| 2022-05-05 | Radio Bío Bío | Ocupa la vereda y complica a peatones: experto denuncia instalación de reja del Mall Plaza Vespucio | [original](https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2022/05/05/ocupa-la-vereda-y-complica-a-peatones-experto-denuncia-instalacion-de-reja-del-mall-plaza-vespucio.shtml) |
+| 2022-05-01 | El Mercurio | Encuesta revela empeoramiento de la percepción ciudadana sobre las ciclovías y el transporte público | [copia](https://noticiasrepositorio.unab.cl/el-mercurio-encuesta-revela-el-empeoramiento-de-la-percepcion-ciudadana-sobre-las-ciclovias-y-el-transporte-publico/) |
+| 2022-04-22 | Chilevisión | Mal estado de buses alcanza nivel peligroso | Sin URL original/video verificable |
+| 2022-04-22 | El Mercurio | Mal estado de las micros, especialmente en la periferia, alcanza niveles “peligrosos” | Sin URL original/video verificable |
+| 2022-04-15 | Chilevisión | Caida de mujer alerta por estado de micros | Sin URL original/video verificable |
+| 2022-04-14 | Chilevisión | Kilométrico taco duró más de 12 horas | Sin URL original/video verificable |
+| 2022-03-26 | El Mercurio | Propuesta del ministro de Transporte que busca aumentar impuesto a los combustibles abre debate en el sector | Sin URL original/video verificable |
+| 2022-03-09 | LUN | Ciclista muere en accidente en céntrica esquina de Santiago | Sin URL original/video verificable |
+| 2022-03-07 | Chilevisión | Polémica por mal uso de ciclovía | Sin URL original/video verificable |
+| 2022-03-04 | LUN | ¿Por qué hay una larga fila de autosen una ciclovía de Ñuña? | [copia](https://isci.cl/por-que-hay-una-larga-fila-de-autos-en-una-ciclovia-de-nunoa/) |
+| 2022-02-11 | Cooperativa | 15 años de Transantiago | Sin URL original/video verificable |
+| 2022-02-07 | Revista Pedalea | El bot que evidencia que el transporte público excede la velocidad máxima | [original](https://revistapedalea.com/el-bot-que-evidencia-que-el-transporte-publico-excede-la-velocidad-maxima/) |
+| 2022-02-05 | El Mercurio | Plataforma detecta que más de 4 mil micros circularon a exceso de velovidad la última semana | Sin URL original/video verificable |
+| 2022-02-04 | The Clinic | Qué ciudad busca el gobierno de Boric: Expertos evalúan a los nuevos ministros Montes, Muñoz y García | [original](https://www.theclinic.cl/2022/02/04/ciudad-boric-expertos-evaluan-ministros-montes-munoz-garcia/) |
+
+### Hallazgos externos no incluidos en el blog 2022
+
+Estas seis apariciones se encontraron durante la reconstrucción web y no figuran en la copia Markdown del índice anual. Se conservan por separado para ampliar el archivo sin alterar el inventario original del blog.
 
 | Fecha | Medio | Título | Enlace |
 |---|---|---|---|
 | 2022-11-25 | The Clinic | Cuenta de diseños hostiles armó polémica por los asientos del Metro de Santiago | [original](https://www.theclinic.cl/2022/11/25/disenos-hostiles-asientos-metro-de-santiago/amp/) |
-| 2022-08-20 | El Mercurio / Emol | Municipios alistan servicio de transporte gratuito para el plebiscito, a la espera de instrucciones de Contraloría | [original](https://www.emol.com/noticias/Nacional/2022/08/20/1070362/cronica-constitucional-el-mercurio.html) |
 | 2022-07-20 | Chilevisión | Acusan a la falta de limitación de las vías como una de las causas de un fatal accidente de tránsito en Quillota | [video](https://noticias.utem.cl/wp-content/uploads/2022/10/Ariel_Lopez-CHV-20-07.mp4) |
-| 2022-05-05 | Radio Bío Bío | Ocupa la vereda y complica a peatones: experto denuncia instalación de reja del mall Plaza Vespucio | [original](https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2022/05/05/amp/ocupa-la-vereda-y-complica-a-peatones-experto-denuncia-instalacion-de-reja-del-mall-plaza-vespucio.shtml) |
 | 2022-04-25 | The Clinic | VIDEO. Acusan que Muni de La Florida liderada por Carter decidió cerrar vereda con rejas: adjuntaron metraje del peligroso camino que quedó | [original](https://www.theclinic.cl/2022/04/25/muni-la-florida-liderada-carter-vereda-rejas/) |
 | 2022-03-15 | Revista Pedalea | El ministro de las ciudades intermodales | [original](https://revistapedalea.com/el-ministro-de-las-ciudades-intermodales/) |
-| 2022-03-07 | LUN | ¿Por qué hay una larga fila de autos en una ciclovía de Ñuñoa? | [copia](https://isci.cl/por-que-hay-una-larga-fila-de-autos-en-una-ciclovia-de-nunoa/) |
-| 2022-02-07 | Revista Pedalea | El bot que evidencia que el transporte público excede la velocidad máxima | [original](https://revistapedalea.com/el-bot-que-evidencia-que-el-transporte-publico-excede-la-velocidad-maxima/) |
 | 2022-02-05 | Cooperativa | El 65% de buses del Transantiago excedió el límite de velocidad la última semana | [original](https://www.cooperativa.cl/noticias/site/artic/20220205/pags-amp/20220205105711.html) |
-| 2022-02-04 | The Clinic | Qué ciudad busca el gobierno de Boric: Expertos evalúan a los nuevos ministros Montes, Muñoz y García | [original](https://www.theclinic.cl/2022/02/04/ciudad-boric-expertos-evaluan-ministros-montes-munoz-garcia/) |
 | 2022-01-10 | Revista Pedalea | Ariel López: “Los automovilistas saben que no los están fiscalizando” | [original](https://revistapedalea.com/ariel-lopez-mientras-mas-personas-usan-la-bicicleta-la-calle-se-vuelve-mas-segura-para-todos/) |
 
-> Estado: reconstrucción parcial. Puede haber otras apariciones aún no recuperadas del índice anual. Cuando el enlace original no está disponible, se intenta primero recuperar el video de YouTube asociado; si tampoco existe una copia verificable en YouTube, se conserva una copia institucional o espejo documental identificado.
+> Estado: 2022 queda cerrado respecto del índice del blog (24/24 entradas recuperadas). Los hallazgos externos se etiquetan por separado como `hallazgo_externo`. La política de enlaces es: original del medio → video exacto de YouTube → copia institucional verificable → sin enlace.
+
 
 ## 2021
 
@@ -377,4 +406,4 @@ Fuente anual: [En la prensa 2020](https://blog.ariellopez.cl/en-la-prensa-2020-e
 
 El catálogo distingue el registro documental de la interpretación. En particular, algunos años contienen errores tipográficos de fecha o títulos, y algunos encabezados reúnen varias coberturas. Esos casos se normalizan sin ocultarlos: la versión CSV conserva una columna `nota` para documentar la decisión.
 
-La actualización automática desde Medium quedó desactivada porque los runners de GitHub reciben respuestas 403. El workflow sólo valida el catálogo. El año 2021 fue reconciliado contra una copia Markdown aportada por el autor; 2022 sigue como reconstrucción parcial. El estado `hallazgo_externo` identifica apariciones verificadas que no figuran en el índice anual del blog.
+La actualización automática desde Medium quedó desactivada porque los runners de GitHub reciben respuestas 403. El workflow sólo valida el catálogo. Los años 2021 y 2022 fueron reconciliados contra copias Markdown aportadas por el autor. El estado `hallazgo_externo` identifica apariciones verificadas que no figuran en el índice anual del blog.
