@@ -6,7 +6,7 @@ I work at the intersection of **urban mobility, public transport, metro and rail
 
 I have nearly two decades of professional experience and have studied and visited **40+ metro systems in 22 countries across four continents**. I hold a **Master's degree in Urban Planning** and I am a **PhD(c) in Territory, Space and Society at Universidad de Chile**, researching mobility and transport systems.
 
-[Website](https://ariellopez.cl) · [Articles](https://blog.ariellopez.cl) · [LinkedIn](https://www.linkedin.com/in/arielopez/) · [X](https://x.com/arieIIopez) · [ResearchGate](https://www.researchgate.net/profile/Ariel-Lopez-4) · [GitHub](https://github.com/arieIIopez) · [Email](mailto:ariellopez@ug.uchile.cl)
+[Website](https://ariellopez.cl) · [Articles](https://blog.ariellopez.cl) · [LinkedIn](https://www.linkedin.com/in/arielopez/) · [Twitter](https://x.com/arieIIopez) · [ResearchGate](https://www.researchgate.net/profile/Ariel-Lopez-4) · [GitHub](https://github.com/arieIIopez) · [Email](mailto:ariellopez@ug.uchile.cl)
 
 ## Current focus
 
@@ -19,13 +19,13 @@ I have nearly two decades of professional experience and have studied and visite
 
 ## Selected experience
 
-- Transport and mobility consultant for public and private institutions, including **ECLAC/CEPAL and UNDP/PNUD**.
-- Former lecturer in Transport Engineering at **UTEM, UNAB and PUCV**.
-- Specialized training in **urban development and transport infrastructure in Beijing** and **CBTC railway control systems in Shanghai**.
+- Transport and mobility consultant for public and private institutions, including ECLAC/CEPAL and UNDP/PNUD.
+- Former lecturer in Transport Engineering at UTEM, UNAB and PUCV.
+- Specialized training in urban development and transport infrastructure in Beijing and CBTC railway control systems in Shanghai.
 - Research and professional work on Metro systems, public transport, urban accessibility, cycling and road safety.
-- **Co-author of Chilean Ministry of Transport manuals for the design of cycleways and traffic-calmed zones**, contributing technical criteria used in the planning and design of cycling infrastructure and low-speed urban environments.
-- Lecturer in the **Diploma in Cycleway Design at Pontificia Universidad Católica de Valparaíso (PUCV)** — [diplomado.ciclovias.cl](https://diplomado.ciclovias.cl).
-- **SOCHITRAN 2021 Award** for the emergency cycleway project developed with Map8 and Muévete.
+- Co-author of Chilean Ministry of Transport manuals for the design of cycleways and traffic-calmed zones, contributing technical criteria used in the planning and design of cycling infrastructure and low-speed urban environments.
+- Lecturer in the Diploma in Cycleway Design at Pontificia Universidad Católica de Valparaíso (PUCV)
+- SOCHITRAN 2021 Award for the emergency cycleway project developed with NGO's.
 - Technical and judicial expert work in transport engineering and road crash analysis.
 
 ## Research & applied work
@@ -34,7 +34,7 @@ My research interests are centered on how people actually experience transport s
 
 A significant part of my work focuses on **Metro stations and passenger experience**, including platforms, escalators, accessibility, pedestrian behaviour, boarding and alighting processes, and the relationship between technical design and everyday mobility.
 
-I also work on **cycling mobility as both a researcher and an engineer**, linking empirical research with the design and implementation of cycling infrastructure, traffic-calmed environments and public policy. I am co-author of Chilean Ministry of Transport manuals used to guide and regulate the design of cycleways and traffic-calmed zones, and I teach in the **Diploma in Cycleway Design at Pontificia Universidad Católica de Valparaíso (PUCV)** ([diplomado.ciclovias.cl](https://diplomado.ciclovias.cl)).
+I also work on cycling mobility as both a researcher and an engineer, linking empirical research with the design and implementation of cycling infrastructure, traffic-calmed environments and public policy. I am co-author of Chilean Ministry of Transport manuals used to guide and regulate the design of cycleways and traffic-calmed zones, and I teach in the ([Diploma in Cycleway Design](https://diplomado.ciclovias.cl)) at Pontificia Universidad Católica de Valparaíso (PUCV).
 
 I also develop computational tools and knowledge infrastructures to observe and understand mobility using **geospatial data, simulation, computer vision, real-time transport data and reproducible research workflows**.
 
@@ -42,17 +42,17 @@ I also develop computational tools and knowledge infrastructures to observe and 
 
 ### [EVA — Evaluador de Ciclovías Proyectadas](https://github.com/GobiernodeSantiago/eva)
 
-Decision-support tool developed by the Infrastructure and Transport Division of the **Metropolitan Regional Government of Santiago** to evaluate and prioritize cycling infrastructure as part of a network rather than as isolated projects.
+Decision-support tool developed by the Infrastructure and Transport Division of the Metropolitan Regional Government of Santiago to evaluate and prioritize cycling infrastructure as part of a network rather than as isolated projects.
 
 EVA integrates connectivity, accessibility, territorial equity, road safety, intermodality and other criteria in a sequential multicriteria model. As each project is incorporated, the network changes and the remaining portfolio is evaluated again.
 
-The project combines **transport engineering, spatial analysis, reproducible computation and public-sector decision support**.
+The project combines transport engineering, spatial analysis, reproducible computation and public-sector decision support.
 
 ### [konta2r](https://github.com/arieIIopez/konta2r)
 
 Open computer-vision platform for observing, measuring and auditing mobility and the use of public space.
 
-Its objective is to transform video into **reproducible trajectories and mobility events**, moving beyond simple object detection. The project emphasizes privacy by design, traceability, multi-object tracking, spatial rules and scientific validation against manual observations.
+Its objective is to transform video into reproducible trajectories and mobility events, moving beyond simple object detection. The project emphasizes privacy by design, traceability, multi-object tracking, spatial rules and scientific validation against manual observations.
 
 ### CIFU — Ciudad Futura
 
