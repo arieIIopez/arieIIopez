@@ -24,7 +24,7 @@ REQUIRED_FIELDS = {
     "fuente_blog","estado","nota",
 }
 EXPECTED_COMPLETE = {2026:88, 2025:50, 2024:36, 2023:30, 2020:46}
-RECONSTRUCTED_MINIMUM = {2022:9, 2021:6}
+RECONSTRUCTED_MINIMUM = {2022:11, 2021:10}
 ALLOWED_CATEGORIES = {"entrevista","cobertura","columna_opinion"}
 ALLOWED_STATES = {"curado","reconstruido"}
 
