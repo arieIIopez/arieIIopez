@@ -13,10 +13,10 @@ Este archivo está deliberadamente separado del README del perfil. La unidad de 
 | 2024 | 36 | 36 | Completo |
 | 2023 | 30 | 30 | Completo |
 | 2022 | 11 | — | Reconstrucción parcial desde medios originales |
-| 2021 | 10 | — | Reconstrucción parcial desde medios originales |
+| 2021 | 19 | 14 | Completo en blog + 5 hallazgos externos |
 | 2020 | 46 | 46 | Completo |
 
-**Total registrado: 271 apariciones (250 curadas desde los índices anuales + 21 reconstruidas desde fuentes originales).**
+**Total registrado: 280 apariciones (264 documentadas y curadas desde los índices del blog + 11 reconstruidas de 2022 + 5 hallazgos externos de 2021).**
 
 Los años 2021 y 2022 siguen sin poder verificarse de forma exhaustiva contra sus páginas anuales, porque Medium actualmente no expone el cuerpo de esos artículos. Sin embargo, se reconstruyó una parte del archivo a partir de publicaciones originales conservadas por los medios. Estos registros se marcan como `reconstruido` y no se presentan como un inventario completo de esos dos años.
 
@@ -284,22 +284,41 @@ Fuente anual: [En la prensa 2022](https://blog.ariellopez.cl/en-la-prensa-2022-a
 
 ## 2021
 
-Fuente anual: [En la prensa 2021](https://blog.ariellopez.cl/en-la-prensa-2021-7192a2541e1e). La página anual no expone actualmente su cuerpo completo; los siguientes registros fueron reconstruidos desde publicaciones originales, copias institucionales o archivos audiovisuales verificables.
+Fuente anual: [En la prensa 2021](https://blog.ariellopez.cl/en-la-prensa-2021-7192a2541e1e). El contenido fue recuperado directamente desde una copia Markdown suministrada por el autor. El índice del blog contiene 14 apariciones.
+
+### Documentadas en el blog
 
 | Fecha | Medio | Título | Enlace |
 |---|---|---|---|
 | 2021-12-30 | Universidad de Chile | La ley está pensada desde la perspectiva que las calles son para los vehículos y los peatones ni siquiera se consideran | [original](https://uchile.cl/noticias/182993/la-convivencia-vial-en-ciudades-pensadas-prioritariamente-para-autos) |
+| 2021-12-25 | Canal 13 | Reversibilidad de Andrés Bello | Sin URL original/video verificable |
+| 2021-11-11 | Radio Pauta | Ciclosendas de Emergencia, Premio Sochitran 2021 | [original](https://www.pauta.cl/actualidad/2021/11/13/la-solucion-de-emergencia-para-ciclistas-con-falta-de-ciclovias.html) |
+| 2021-11-09 | LUN | Ciclovía de Lyon tendrá sólo un sentido | Sin URL original/video verificable |
+| 2021-11-07 | El Mercurio | Urbanistas proponen soluciones por Línea 7 en Parque Forestal: apuntan a usar calzada en obras de ventilación | [copia](https://www.infraestructurapublica.cl/urbanistas-proponen-soluciones-por-linea-7-en-parque-forestal-apuntan-a-usar-calzada-en-obras-de-ventilacion/) |
+| 2021-09-27 | Revista Pedalea | Conoce los beneficios y desventajas del nuevo “modo bicicleta” de Google Maps en Chile | [original](https://revistapedalea.com/conoce-los-beneficios-y-desventajas-del-nuevo-modo-bicicleta-de-google-maps-en-chile/) |
+| 2021-08-14 | El Mercurio | Expertos debaten sobre el impacto del proyecto de Autopista Costanera Central | [copia](https://www.dii.uchile.cl/wp-content/uploads/2021/08/14-EL-MERCURIO-Expertos-debaten-sobre-el-impacto-del-proyecto-de-autopista-Costanera-Central.pdf) |
+| 2021-07-14 | LUN | La historia del hombre que se pasea por Santiago en este biciclo de 1879 | [original](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-07-14&PaginaId=23&SupplementId=0&BodyId=0) |
+| 2021-03-22 | Radio Concierto | Ariel López, Magister en Urbanismo: “mientras menos ciclistas, más accidentes” | [original](https://www.concierto.cl/2021/03/ariel-lopez-magister-en-urbanismo-mientras-menos-ciclistas-mas-accidentes/) |
+| 2021-03-17 | El Ciudadano | Muertes de ciclistas en Chile alcanza su cifra más alta en 5 años | [original](https://www.elciudadano.com/chile/nomasciclistasmuertos-muertes-de-ciclistas-en-chile-alcanza-su-cifra-mas-alta-en-5-anos/03/17/) |
+| 2021-03-11 | LUN | En Las Condes y Providencia ya debutaron algunas de las nuevas señales de tránsito | [original](https://www.lun.com/Pages/NewsDetail.aspx?dt=2021-03-11&PaginaId=27&bodyid=0) |
+| 2021-01-14 | LUN | Video captó a un hombre circulando en scooter al interior de una autopista | Sin URL original/video verificable |
+| 2021-01-12 | La Tercera | Muertes en accidentes muestran baja histórica, pero suben ciclistas fallecidos | [original](https://www.latercera.com/nacional/noticia/muertes-en-accidentes-muestran-baja-historica-pero-suben-ciclistas-fallecidos/ZUIR7DYZ25BENGEYVCRND4VCEA/) |
+| 2021-01-07 | La Tercera | Nueve mil partes por exceso de velocidad se cursaron en cuatro meses | [original](https://www.latercera.com/nacional/noticia/nueve-mil-partes-por-exceso-de-velocidad-se-cursaron-en-cuatro-meses/MJVXX6AIA5BNFOZDZF745C6SE4/) |
+
+### Hallazgos externos no incluidos en el blog 2021
+
+Estas cinco apariciones se encontraron durante la reconstrucción web y no figuran en la copia Markdown del índice anual. Se conservan por separado para ampliar el archivo sin alterar el inventario original del blog.
+
+| Fecha | Medio | Título | Enlace |
+|---|---|---|---|
 | 2021-12-23 | Radio Bío Bío | Experto en transportes advierte que Andrés Bello se ha vuelto una vía peligrosa desde hace décadas | [original](https://www.biobiochile.cl/noticias/opinion/entrevistas/2021/12/23/expero-en-transportes-advierte-que-andres-bello-se-ha-vuelto-una-via-peligrosa-desde-hace-decadas.shtml) |
 | 2021-12-22 | Vergara 240 / UDP | Muertes de ciclistas: Los puntos críticos de la Ley de Convivencia Vial | [original](https://vergara240.udp.cl/muertes-ciclistas-chile-ley-de-convivencia-vial/) |
-| 2021-11-13 | Radio Pauta | Las ciclosendas: la solución de emergencia para abordar la falta de ciclovías | [original](https://www.pauta.cl/actualidad/2021/11/13/la-solucion-de-emergencia-para-ciclistas-con-falta-de-ciclovias.html) |
 | 2021-10-22 | Meganoticias | Semáforo con luz verde en Las Condes apenas duraba 10 segundos: Ingeniero logró que lo reprogramaran | [original](https://www.meganoticias.cl/nacional/355894-semaforo-verde-10-segundos-las-condes-ingeniero-logro-un-cambio-22-10-2021.html) |
-| 2021-09-27 | Revista Pedalea | Conoce los beneficios y desventajas del nuevo “modo bicicleta” de Google Maps en Chile | [original](https://revistapedalea.com/conoce-los-beneficios-y-desventajas-del-nuevo-modo-bicicleta-de-google-maps-en-chile/) |
-| 2021-08-14 | El Mercurio | Expertos debaten sobre el impacto del proyecto de autopista Costanera Central | [copia](https://www.dii.uchile.cl/wp-content/uploads/2021/08/14-EL-MERCURIO-Expertos-debaten-sobre-el-impacto-del-proyecto-de-autopista-Costanera-Central.pdf) |
 | 2021-06-27 | Revista Pedalea | #VeredaNoEsCiclovia: Ciudadanía organizada dice no a la infraestructura deficiente | [original](https://revistapedalea.com/veredanoesciclovia-ciudadania-organizada-dice-no-a-la-infraestructura-deficiente/) |
 | 2021-06-25 | La Tercera | Metro reanuda servicio tras interrupción de Línea 4A por falla en estación La Cisterna | [original](https://www.latercera.com/nacional/noticia/metro-presenta-servicio-interrumpido-en-linea-4a-por-falla-en-estacion-la-cisterna/TZRBHJ253NAPXIHMFRV63FXYBU/) |
-| 2021-01-12 | La Tercera | Muertes en accidentes muestran baja histórica, pero suben ciclistas fallecidos | [original](https://www.latercera.com/nacional/noticia/muertes-en-accidentes-muestran-baja-historica-pero-suben-ciclistas-fallecidos/ZUIR7DYZ25BENGEYVCRND4VCEA/) |
 
-> Estado: reconstrucción parcial. Puede haber otras apariciones aún no recuperadas del índice anual. Cuando el enlace original no está disponible, se intenta primero recuperar el video de YouTube asociado; si tampoco existe una copia verificable en YouTube, se conserva una copia institucional o espejo documental identificado.
+> Estado: 2021 queda cerrado respecto del índice del blog (14/14 entradas recuperadas). Los hallazgos externos se etiquetan por separado como `hallazgo_externo`.
+
 
 ## 2020
 
@@ -358,4 +377,4 @@ Fuente anual: [En la prensa 2020](https://blog.ariellopez.cl/en-la-prensa-2020-e
 
 El catálogo distingue el registro documental de la interpretación. En particular, algunos años contienen errores tipográficos de fecha o títulos, y algunos encabezados reúnen varias coberturas. Esos casos se normalizan sin ocultarlos: la versión CSV conserva una columna `nota` para documentar la decisión.
 
-La actualización automática desde Medium quedó desactivada porque los runners de GitHub reciben respuestas 403. El workflow sólo valida el catálogo. Para 2021 y 2022 se admite el estado `reconstruido`: indica que el registro fue recuperado desde el medio original o un archivo audiovisual verificable, pero que todavía no ha podido reconciliarse uno a uno contra la página anual de Medium.
+La actualización automática desde Medium quedó desactivada porque los runners de GitHub reciben respuestas 403. El workflow sólo valida el catálogo. El año 2021 fue reconciliado contra una copia Markdown aportada por el autor; 2022 sigue como reconstrucción parcial. El estado `hallazgo_externo` identifica apariciones verificadas que no figuran en el índice anual del blog.
