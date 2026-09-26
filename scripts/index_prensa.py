@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
 """
-Genera el archivo histórico de apariciones en prensa de Ariel López a partir de
-las páginas anuales publicadas en blog.ariellopez.cl.
+Construye un archivo histórico de entrevistas y apariciones en prensa de
+Ariel López desde las páginas anuales publicadas en blog.ariellopez.cl.
 
-Medium bloquea algunas lecturas automatizadas directas; por eso se usa Jina
-Reader como capa de lectura pública y reproducible. Jina renderiza la URL y
-devuelve Markdown, sin modificar la fuente original.
+La vía primaria usa el modelo JSON estructurado de cada publicación de Medium
+a partir de su ID estable. Esto evita depender del HTML renderizado del blog y
+permite recuperar fechas, títulos y enlaces embebidos de forma reproducible.
 
-Salida:
+Salidas:
   archivo/prensa/index.md
   archivo/prensa/prensa.csv
   archivo/prensa/estado.json
 
-El README del perfil NO se modifica.
+El README del perfil no se modifica.
 """
 from __future__ import annotations
 
@@ -43,8 +43,6 @@ PAGES = {
     2020: "https://blog.ariellopez.cl/en-la-prensa-2020-e95ebbc5518c",
 }
 
-# Conteos conocidos a partir de las propias páginas. Los restantes se detectan
-# automáticamente desde la frase "N Recortes de prensa...".
 EXPECTED_KNOWN = {2026: 88, 2024: 36, 2023: 30, 2020: 46}
 
 MONTHS = {
@@ -87,32 +85,35 @@ MEDIA_BY_DOMAIN = {
     "cooperativa.cl": "Cooperativa",
     "robotlabot.substack.com": "LaBot",
     "institutoferroviario.cl": "Instituto Ferroviario",
+    "pauta.cl": "Radio Pauta",
+    "uchile.cl": "Universidad de Chile",
+    "revistacapital.cl": "Revista Capital",
+    "df.cl": "Diario Financiero",
+    "dfmas.df.cl": "DF MAS",
+    "24horas.cl": "TVN / 24 Horas",
 }
 
 MEDIA_ALIASES = [
     "Chilevisión", "Chilevision", "Canal 13", "Teletrece", "T13", "TVN",
-    "Canal 24 Horas", "Canal 24 horas", "Meganoticias", "Megavisión", "Mega",
-    "La Tercera", "LUN", "El Mercurio", "El Mercurio de Valparaíso",
-    "Radio Bío Bío", "Radio Biobío", "Radio Biobio", "Biobío", "Biobio",
-    "Radio ADN", "ADN Radio", "Radio 13C", "Radio T13C", "Tele13 Radio",
-    "Súbela Radio", "CNN Chile", "CNN", "The Clinic", "El Dínamo",
-    "El Dinamo", "El Desconcierto", "Contrapoder", "Diario Usach",
-    "Diario USACH", "Doble Espacio", "FastCheck", "Fast Check",
-    "Revista Pedalea", "Latamobility", "Experiencia Tech", "LaBot",
-    "El Mostrador", "Turno",
+    "Canal 24 Horas", "Canal 24 horas", "24 Horas", "Meganoticias",
+    "Megavisión", "Mega", "La Tercera", "LUN", "El Mercurio",
+    "El Mercurio de Valparaíso", "Radio Bío Bío", "Radio Biobío",
+    "Radio Biobio", "Biobío", "Biobio", "Radio ADN", "ADN Radio",
+    "Radio 13C", "Radio T13C", "Tele13 Radio", "Súbela Radio",
+    "CNN Chile", "CNN", "The Clinic", "El Dínamo", "El Dinamo",
+    "El Desconcierto", "Contrapoder", "Diario Usach", "Diario USACH",
+    "Doble Espacio", "FastCheck", "Fast Check", "Revista Pedalea",
+    "Latamobility", "Experiencia Tech", "LaBot", "El Mostrador",
+    "Radio Pauta", "Pauta", "Revista Capital", "Diario Financiero",
+    "DF MAS", "Turno",
 ]
 
 SKIP_LINK_DOMAINS = {
     "blog.ariellopez.cl", "ariellopez.cl", "medium.com",
     "miro.medium.com", "x.com", "twitter.com", "bcn.cl",
     "patents.google.com", "archivos.lascondes.cl", "seia.sea.gob.cl",
-    "avo.cl",
+    "avo.cl", "linkedin.com",
 }
-
-STOP_HEADINGS = (
-    "get ariel", "written by", "more from", "recommended from",
-    "no responses", "responses", "about ariel",
-)
 
 @dataclass
 class Entry:
@@ -128,9 +129,14 @@ class Entry:
 
 
 def clean_text(s: str) -> str:
-    s = html.unescape(s or "")
-    s = re.sub(r"\[(.*?)\]\([^)]*\)", r"\1", s)
-    return re.sub(r"\s+", " ", s).strip()
+    return re.sub(r"\s+", " ", html.unescape(s or "")).strip()
+
+
+def post_id(url: str) -> str:
+    m = re.search(r"-([0-9a-f]{12})/?(?:\?.*)?$", url)
+    if not m:
+        raise ValueError(f"No se pudo extraer el post ID de {url}")
+    return m.group(1)
 
 
 def unwrap_url(url: str) -> str:
@@ -138,7 +144,7 @@ def unwrap_url(url: str) -> str:
         return ""
     url = html.unescape(url).strip()
     p = urlparse(url)
-    if p.netloc.endswith("medium.com") and p.path.startswith("/r/"):
+    if p.netloc.lower().endswith("medium.com") and p.path.startswith("/r/"):
         q = parse_qs(p.query)
         if q.get("url"):
             return unquote(q["url"][0])
@@ -152,31 +158,70 @@ def domain(url: str) -> str:
         return ""
 
 
-def fetch_markdown(url: str) -> str:
-    reader = "https://r.jina.ai/" + url
+def fetch_medium_post(url: str):
+    pid = post_id(url)
+    endpoint = f"https://medium.com/post/{pid}?format=json"
     headers = {
-        "User-Agent": "arieIIopez-profile-press-index/1.0",
-        "Accept": "text/plain,text/markdown;q=0.9,*/*;q=0.1",
+        "User-Agent": (
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/128.0 Safari/537.36"
+        ),
+        "Accept": "application/json,text/plain,*/*",
     }
-    r = requests.get(reader, headers=headers, timeout=75)
+    r = requests.get(endpoint, headers=headers, timeout=60, allow_redirects=True)
     r.raise_for_status()
-    text = r.text
-    if len(text) < 500:
-        raise RuntimeError(f"Jina Reader devolvió contenido demasiado corto ({len(text)} caracteres)")
-    return text
+    raw = r.text
+    pos = raw.find("{")
+    if pos < 0:
+        raise RuntimeError(
+            f"Medium JSON sin objeto JSON para post {pid}; status={r.status_code}; "
+            f"len={len(raw)}"
+        )
+    data = json.loads(raw[pos:])
+    value = data.get("payload", {}).get("value")
+    if not isinstance(value, dict):
+        raise RuntimeError(f"Medium JSON sin payload.value para post {pid}")
+    paragraphs = (
+        value.get("content", {})
+        .get("bodyModel", {})
+        .get("paragraphs", [])
+    )
+    if not paragraphs:
+        raise RuntimeError(f"Medium JSON sin párrafos para post {pid}")
+    return value, paragraphs, endpoint, len(raw)
 
 
-def parse_links(block: str) -> list[tuple[str, str]]:
-    out = []
-    # Markdown inline links. Se toleran etiquetas con saltos simples.
-    for m in re.finditer(r"\[([^\]]+)\]\((https?://[^)\s]+)\)", block, re.S):
-        out.append((clean_text(m.group(1)), unwrap_url(m.group(2))))
-    # URLs sueltas (útil para algunos videos).
-    for m in re.finditer(r"(?<!\()\bhttps?://[^\s<>)\]]+", block):
-        u = unwrap_url(m.group(0).rstrip(".,;"))
-        if u and not any(x[1] == u for x in out):
-            out.append(("", u))
-    return out
+def paragraph_links(p: dict):
+    found = []
+
+    def add(label, href):
+        href = unwrap_url(str(href or ""))
+        if href.startswith(("http://", "https://")) and not any(u == href for _, u in found):
+            found.append((clean_text(label), href))
+
+    add(p.get("text", ""), p.get("href"))
+
+    for m in p.get("markups") or []:
+        if isinstance(m, dict):
+            text = p.get("text", "")
+            start, end = m.get("start"), m.get("end")
+            label = ""
+            if isinstance(start, int) and isinstance(end, int):
+                label = text[start:end]
+            add(label, m.get("href"))
+
+    mm = p.get("mixtapeMetadata") or {}
+    if isinstance(mm, dict):
+        add(p.get("text", ""), mm.get("href"))
+
+    iframe = p.get("iframe") or {}
+    if isinstance(iframe, dict):
+        res = iframe.get("mediaResource") or {}
+        if isinstance(res, dict):
+            add(p.get("text", ""), res.get("href"))
+            add(p.get("text", ""), res.get("iframeSrc"))
+
+    return found
 
 
 def parse_date(text: str, year: int):
@@ -196,6 +241,7 @@ def parse_date(text: str, year: int):
     if m:
         d, mo = int(m.group(1)), int(m.group(2))
         return f"{year:04d}-{mo:02d}-{d:02d}", m.group(0)
+
     return f"{year:04d}", ""
 
 
@@ -207,6 +253,7 @@ def canonical_media(name: str) -> str:
         "T13": "Canal 13",
         "Canal 24 horas": "TVN / 24 Horas",
         "Canal 24 Horas": "TVN / 24 Horas",
+        "24 Horas": "TVN / 24 Horas",
         "Megavisión": "Mega",
         "Biobío": "Radio Bío Bío",
         "Biobio": "Radio Bío Bío",
@@ -216,27 +263,25 @@ def canonical_media(name: str) -> str:
         "Radio 13C": "Radio T13C",
         "El Dinamo": "El Dínamo",
         "FastCheck": "Fast Check",
+        "Pauta": "Radio Pauta",
     }
     return mapping.get(n, n)
 
 
-def infer_media(block: str, links: list[tuple[str, str]]) -> str:
-    text = clean_text(block)
-
-    # 1) Pie explícito del tipo "Canal 13 | 20.09.2026".
-    for line in block.splitlines():
+def infer_media(text: str, links: list[tuple[str, str]]) -> str:
+    # Pie explícito: "Canal 13 | 20.09.2026".
+    for line in text.splitlines():
         line = clean_text(line)
         if "|" in line and len(line) < 120:
             left = clean_text(line.split("|", 1)[0])
             if 2 <= len(left) <= 55 and not left.lower().startswith(("fuente", "pág", "pagina")):
                 return canonical_media(left)
 
-    # 2) Nombre de medio mencionado en el texto.
+    combined = clean_text(text)
     for alias in MEDIA_ALIASES:
-        if re.search(rf"(?<!\w){re.escape(alias)}(?!\w)", text, re.I):
+        if re.search(rf"(?<!\w){re.escape(alias)}(?!\w)", combined, re.I):
             return canonical_media(alias)
 
-    # 3) Dominio periodístico reconocido.
     for _, u in links:
         d = domain(u)
         if d in MEDIA_BY_DOMAIN:
@@ -255,69 +300,66 @@ def choose_original_link(links: list[tuple[str, str]]) -> tuple[str, str]:
             continue
         candidates.append((label, u, d))
 
+    # Prioridad 1: la nota original en un medio reconocido.
+    for _, u, d in candidates:
+        if d in MEDIA_BY_DOMAIN and d not in {"youtube.com", "youtu.be"}:
+            return u, "original"
+
+    # Prioridad 2: video de YouTube documentado en el mismo recorte.
     for _, u, d in candidates:
         if d in {"youtube.com", "youtu.be"}:
             return u, "youtube"
 
-    for _, u, d in candidates:
-        if d in MEDIA_BY_DOMAIN:
-            return u, "original"
-
+    # Prioridad 3: primer enlace externo, siempre conservando su naturaleza
+    # explícita en el CSV para una futura auditoría manual.
     if candidates:
-        return candidates[0][1], "original"
+        return candidates[0][1], "externo_documentado"
+
     return "", "sin_url_documentada"
 
 
-def detect_expected(md: str, year: int):
-    # Busca cerca del título de la página; evita números de otros años.
-    marker = re.search(rf"(?im)^#\s+En la prensa {year}\s*$", md)
-    sample = md[marker.end():marker.end()+1500] if marker else md[:2500]
-    m = re.search(r"\b(\d{1,3})\s+Recortes de prensa", sample, re.I)
+def detect_expected(paragraphs, year):
+    text = "\n".join(clean_text(p.get("text", "")) for p in paragraphs[:12])
+    m = re.search(r"\b(\d{1,3})\s+Recortes de prensa", text, re.I)
     if m:
         return int(m.group(1))
     return EXPECTED_KNOWN.get(year)
 
 
 def extract_year(year: int, url: str):
-    md = fetch_markdown(url)
-    marker = re.search(rf"(?im)^#\s+En la prensa {year}\s*$", md)
-    if not marker:
-        raise RuntimeError(f"No se encontró el título 'En la prensa {year}' en el Markdown")
+    value, paragraphs, endpoint, raw_len = fetch_medium_post(url)
 
-    body = md[marker.end():]
-    # Los recortes se publican como encabezados H3.
-    matches = list(re.finditer(r"(?m)^###\s+(.+?)\s*$", body))
+    # En el modelo JSON de Medium los subtítulos de cada recorte están marcados
+    # como H3. Si Medium cambia la representación, el diagnóstico conserva la
+    # distribución de tipos y el año queda "por revisar", nunca se inventan datos.
+    heading_idx = [
+        i for i, p in enumerate(paragraphs)
+        if str(p.get("type", "")).upper() == "H3" and clean_text(p.get("text", ""))
+    ]
+
     entries = []
+    for pos, i in enumerate(heading_idx):
+        title = clean_text(paragraphs[i].get("text", ""))
+        j = heading_idx[pos + 1] if pos + 1 < len(heading_idx) else len(paragraphs)
+        block_pars = paragraphs[i + 1:j]
 
-    for i, m in enumerate(matches):
-        title = clean_text(m.group(1))
-        low = title.lower()
-        if any(low.startswith(x) for x in STOP_HEADINGS):
-            break
+        lines = [clean_text(p.get("text", "")) for p in block_pars if clean_text(p.get("text", ""))]
+        block_text = "\n".join(lines)
+        links = []
+        for p in block_pars:
+            links.extend(paragraph_links(p))
 
-        end = matches[i + 1].start() if i + 1 < len(matches) else len(body)
-        block = body[m.end():end]
-
-        # Cortar si ya entramos en contenido editorial/recomendaciones de Medium.
-        if re.search(r"(?im)^##\s+(Written by|More from|Recommended from|No responses)", block):
-            block = re.split(
-                r"(?im)^##\s+(?:Written by|More from|Recommended from|No responses)",
-                block,
-                maxsplit=1,
-            )[0]
-
-        iso, date_txt = parse_date(block, year)
-        links = parse_links(block)
-
-        # Conservador: si no hay fecha ni lenguaje de prensa, probablemente no es recorte.
+        # Evita encabezados editoriales no vinculados con el archivo de prensa.
+        iso, date_txt = parse_date(block_text, year)
         if iso == str(year) and not re.search(
-            r"entrevista|reportaje|cobertura|nota|radio|canal|diario|revista|lun|mercurio",
-            block,
+            r"entrevista|reportaje|cobertura|nota|radio|canal|diario|revista|"
+            r"lun|mercurio|televisión|television|prensa",
+            block_text,
             re.I,
         ):
             continue
 
-        media = infer_media(block, links)
+        media = infer_media(block_text, links)
         link, link_type = choose_original_link(links)
         entries.append(
             Entry(
@@ -336,9 +378,23 @@ def extract_year(year: int, url: str):
     dedup = {}
     for e in entries:
         dedup[(e.anio, e.titulo.casefold())] = e
+    entries = list(dedup.values())
 
-    expected = detect_expected(md, year)
-    return list(dedup.values()), len(md), len(matches), expected
+    types = Counter(str(p.get("type", "")) for p in paragraphs)
+    expected = detect_expected(paragraphs, year)
+    return entries, {
+        "url": url,
+        "medium_post_id": post_id(url),
+        "medium_endpoint": endpoint,
+        "title": value.get("title"),
+        "paragraphs": len(paragraphs),
+        "paragraph_types": dict(types),
+        "h3_headings": len(heading_idx),
+        "records": len(entries),
+        "expected": expected,
+        "raw_chars": raw_len,
+        "complete": expected is not None and len(entries) == expected,
+    }, expected
 
 
 def write_outputs(entries: list[Entry], diagnostics: dict, expected: dict):
@@ -361,16 +417,16 @@ def write_outputs(entries: list[Entry], diagnostics: dict, expected: dict):
     lines = [
         "# Archivo de entrevistas y apariciones en prensa",
         "",
-        "Catálogo generado desde las páginas anuales de prensa de "
-        "[blog.ariellopez.cl](https://blog.ariellopez.cl/).",
+        "Catálogo histórico de entrevistas y apariciones en prensa documentadas por "
+        "Ariel López en las páginas anuales de blog.ariellopez.cl.",
         "",
-        "El índice se mantiene fuera del README del perfil. Cada registro conserva "
-        "fecha, medio, título y, cuando está documentado en la fuente, enlace a la "
-        "nota original o al video.",
+        "Este archivo está separado del README del perfil. Cada registro conserva "
+        "fecha, medio, título y, cuando está documentado en la publicación original, "
+        "el enlace a la noticia o al video.",
         "",
         f"- Registros indexados: {len(entries)}",
         f"- Con enlace original/video documentado: {linked}",
-        f"- Sin URL original documentada en el blog: {len(entries) - linked}",
+        f"- Sin URL original documentada: {len(entries) - linked}",
         "",
         "## Cobertura por año",
         "",
@@ -381,10 +437,11 @@ def write_outputs(entries: list[Entry], diagnostics: dict, expected: dict):
     for year in sorted(PAGES, reverse=True):
         n = counts.get(year, 0)
         exp = expected.get(year)
-        ok = "completo" if exp is not None and n == exp else ("por revisar" if exp else "sin total declarado")
+        complete = exp is not None and n == exp
+        status = "completo" if complete else ("por revisar" if exp is not None else "sin total declarado")
         exp_txt = str(exp) if exp is not None else "—"
         lines.append(
-            f"| {year} | {n} | {exp_txt} | {ok} | "
+            f"| {year} | {n} | {exp_txt} | {status} | "
             f"[En la prensa {year}]({PAGES[year]}) |"
         )
 
@@ -420,17 +477,16 @@ def write_outputs(entries: list[Entry], diagnostics: dict, expected: dict):
     lines += [
         "## Criterio de indexación",
         "",
-        "- La fuente primaria del catálogo son las páginas anuales mantenidas por Ariel López.",
-        "- Jina Reader se usa únicamente como capa de lectura cuando Medium impide el acceso automatizado directo.",
-        "- El año de la página se usa como año canónico para corregir errores tipográficos evidentes en fechas internas.",
-        "- Se priorizan enlaces a YouTube cuando el video está explícitamente documentado.",
-        "- Los enlaces auxiliares (normas, fuentes técnicas, redes sociales o material de apoyo) no se confunden con la noticia original.",
+        "- La fuente de verdad del inventario son las páginas anuales mantenidas por Ariel López.",
+        "- El contenido se recupera desde el modelo estructurado de la publicación de Medium usando su ID estable.",
+        "- El año de la página es el año canónico del registro; esto evita propagar errores tipográficos de año dentro de un recorte.",
+        "- Se prioriza el enlace a la noticia original; cuando no existe y el recorte documenta un video de YouTube, se conserva ese video.",
+        "- Enlaces técnicos o auxiliares no se presentan como si fueran la noticia original.",
         "- El CSV es la versión estructurada y reutilizable del catálogo.",
         "",
         "## Actualización",
         "",
-        "El archivo se regenera automáticamente cuando cambia el indexador o la lista de fuentes. "
-        "También puede ejecutarse localmente con:",
+        "El archivo puede regenerarse con:",
         "",
         "```bash",
         "python scripts/index_prensa.py",
@@ -458,32 +514,27 @@ def main():
     all_entries = []
     diagnostics = {}
     expected = {}
-    errors = {}
 
     for year, url in PAGES.items():
         try:
-            entries, md_chars, headings, exp = extract_year(year, url)
+            entries, diag, exp = extract_year(year, url)
             all_entries.extend(entries)
+            diagnostics[str(year)] = diag
             expected[year] = exp
+            print(
+                f"{year}: {len(entries)} registros; esperado={exp}; "
+                f"H3={diag.get('h3_headings')}; types={diag.get('paragraph_types')}"
+            )
+        except Exception as exc:
+            expected[year] = EXPECTED_KNOWN.get(year)
             diagnostics[str(year)] = {
                 "url": url,
-                "records": len(entries),
-                "markdown_chars": md_chars,
-                "candidate_headings": headings,
-                "expected": exp,
-                "complete": exp is not None and len(entries) == exp,
+                "medium_post_id": post_id(url),
+                "error": repr(exc),
             }
-            print(f"{year}: {len(entries)} registros; esperado={exp}; headings={headings}")
-        except Exception as exc:
-            errors[str(year)] = repr(exc)
-            expected[year] = EXPECTED_KNOWN.get(year)
-            diagnostics[str(year)] = {"url": url, "error": repr(exc)}
             print(f"ERROR {year}: {exc}", file=sys.stderr)
 
     write_outputs(all_entries, diagnostics, expected)
-
-    if errors:
-        print("Páginas con error:", json.dumps(errors, ensure_ascii=False), file=sys.stderr)
 
 
 if __name__ == "__main__":
