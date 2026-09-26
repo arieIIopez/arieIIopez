@@ -1,39 +1,43 @@
 {
   "updated_at": "2026-09-26",
-  "methodology": "curated_annual_pages_plus_reconstruction_from_original_outlets",
-  "total_records": 271,
-  "total_curated": 250,
-  "total_reconstructed": 21,
+  "methodology": "curated_annual_pages_plus_author_markdown_plus_external_discoveries",
+  "total_records": 280,
+  "total_curated": 264,
+  "total_reconstructed": 11,
+  "total_external_discoveries": 5,
   "counts_by_year": {
     "2020": 46,
-    "2021": 10,
+    "2021": 19,
     "2022": 11,
     "2023": 30,
     "2024": 36,
     "2025": 50,
     "2026": 88
   },
-  "declared_by_source": {
+  "blog_counts_by_year": {
     "2020": 46,
-    "2021": null,
+    "2021": 14,
     "2022": null,
     "2023": 30,
     "2024": 36,
     "2025": 50,
     "2026": 88
   },
-  "complete_years": [
+  "complete_blog_years": [
     2026,
     2025,
     2024,
     2023,
+    2021,
     2020
   ],
   "reconstructed_partial_years": [
-    2022,
-    2021
+    2022
   ],
-  "limitation_2021_2022": "The annual Medium bodies remain unavailable to automated readers. Recovered rows are verified against original outlet pages, institutional copies or preserved audiovisual files, but completeness cannot yet be asserted.",
-  "link_policy": "Prefer the original outlet URL. If unavailable, search for the exact accompanying YouTube/video URL. If no exact video is verifiable, retain an identified institutional copy or documentary mirror; never invent a URL.",
+  "external_discoveries_by_year": {
+    "2021": 5
+  },
+  "limitation_2022": "The annual Medium body for 2022 remains unavailable to automated readers. Recovered rows are verified against original outlet pages, institutional copies or preserved audiovisual files, but completeness cannot yet be asserted.",
+  "link_policy": "Prefer the original outlet URL. If unavailable, search for the exact accompanying YouTube/video URL. If no exact video is verifiable, retain an identified institutional copy or leave the link blank; never substitute auxiliary links or invent a URL.",
   "root_readme_modified": false
 }
