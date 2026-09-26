@@ -54,38 +54,6 @@ Open computer-vision platform for observing, measuring and auditing mobility and
 
 Its objective is to transform video into reproducible trajectories and mobility events, moving beyond simple object detection. The project emphasizes privacy by design, traceability, multi-object tracking, spatial rules and scientific validation against manual observations.
 
-### CIFU — Ciudad Futura
-
-Computational platform for urban integration, analysis, simulation and territorial scenarios.
-
-CIFU studies how transport projects, policies and investments propagate beyond their immediate intervention area, affecting accessibility, travel patterns, activities, population, land use, infrastructure and territorial inequalities.
-
-It acts as an integration layer connecting mobility, population, urban structure, regulation, environmental information and infrastructure to evaluate both individual projects and alternative futures for the city.
-
-### TRX — Mobility observatory
-
-A data and analytical platform for reconstructing the historical and operational memory of mobility in Santiago.
-
-TRX integrates multiple temporal scales — from operational events and hourly observations to monthly and long-term series — while preserving provenance, definitions, units, spatial entities and data quality.
-
-Its scope includes public transport demand, bus operations, Metro accessibility, fares, economic and demographic context, infrastructure, environment and other variables needed to understand how the metropolitan mobility system evolves over time.
-
-### biblio_mtt — Transport knowledge infrastructure
-
-A computational library and reproducible evidence factory for transport and mobility studies.
-
-The project transforms thousands of documents and technical resources from Chile's transport sector into structured, searchable and auditable knowledge. It identifies datasets, models, spreadsheets, GIS layers, traffic counts and other reusable technical assets contained inside studies that are often difficult to discover through conventional document repositories.
-
-The longer-term objective is not merely to catalogue documents, but to determine when observations from different studies are scientifically comparable and can support longitudinal or cross-sectional research.
-
-### biblio_sea — Environmental assessment knowledge infrastructure
-
-A reproducible and auditable computational library built from public information produced through Chile's Environmental Impact Assessment System (SEIA).
-
-It structures project records, environmental assessment files, official documents, spatial information and provenance, initially focusing on the Santiago Metropolitan Region.
-
-The project provides a bridge between environmental assessment evidence and urban and transport research, allowing infrastructure projects to be studied together with their territorial, environmental and regulatory context.
-
 ## Methods & tools
 
 `Python` · `GIS / QGIS` · `GTFS` · `OpenStreetMap` · `Mapbox` · `H3` · `Docker` · `GitHub Actions` · `AnyLogic` · `Aimsun` · `Vissim` · `Computer Vision` · `Drones` · `Spatial Analysis` · `Transport Modelling`
