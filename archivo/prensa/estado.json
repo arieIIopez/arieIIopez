@@ -1,14 +1,13 @@
 {
   "updated_at": "2026-09-26",
   "methodology": "curated_annual_pages_plus_author_markdown_plus_external_discoveries",
-  "total_records": 280,
-  "total_curated": 264,
-  "total_reconstructed": 11,
-  "total_external_discoveries": 5,
+  "total_records": 299,
+  "total_curated": 288,
+  "total_external_discoveries": 11,
   "counts_by_year": {
     "2020": 46,
     "2021": 19,
-    "2022": 11,
+    "2022": 30,
     "2023": 30,
     "2024": 36,
     "2025": 50,
@@ -17,7 +16,7 @@
   "blog_counts_by_year": {
     "2020": 46,
     "2021": 14,
-    "2022": null,
+    "2022": 24,
     "2023": 30,
     "2024": 36,
     "2025": 50,
@@ -28,16 +27,14 @@
     2025,
     2024,
     2023,
+    2022,
     2021,
     2020
   ],
-  "reconstructed_partial_years": [
-    2022
-  ],
   "external_discoveries_by_year": {
-    "2021": 5
+    "2021": 5,
+    "2022": 6
   },
-  "limitation_2022": "The annual Medium body for 2022 remains unavailable to automated readers. Recovered rows are verified against original outlet pages, institutional copies or preserved audiovisual files, but completeness cannot yet be asserted.",
-  "link_policy": "Prefer the original outlet URL. If unavailable, search for the exact accompanying YouTube/video URL. If no exact video is verifiable, retain an identified institutional copy or leave the link blank; never substitute auxiliary links or invent a URL.",
+  "link_policy": "Prefer the original outlet URL. If unavailable, use the exact accompanying YouTube/video URL. If unavailable, retain an identified institutional copy; otherwise leave blank. Never substitute auxiliary links or invent a URL.",
   "root_readme_modified": false
 }
