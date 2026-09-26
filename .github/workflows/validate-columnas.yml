@@ -1,0 +1,27 @@
+name: Validate opinion columns archive
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "archivo/columnas/columnas.csv"
+      - "scripts/validar_columnas.py"
+      - ".github/workflows/validate-columnas.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate curated opinion columns archive
+        run: python scripts/validar_columnas.py
