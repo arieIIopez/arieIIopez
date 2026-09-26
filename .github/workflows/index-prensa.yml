@@ -1,18 +1,16 @@
 name: Index press archive
 
+# El archivo de prensa se mantiene como catálogo curado. La extracción desde
+# Medium puede bloquear runners automatizados, por lo que este workflow no se
+# ejecuta en cada push ni reemplaza automáticamente los archivos publicados.
 on:
-  push:
-    paths:
-      - "scripts/index_prensa.py"
-      - "archivo/prensa/fuentes.yml"
-      - ".github/workflows/index-prensa.yml"
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  index:
+  validate-indexer:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -24,22 +22,9 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml
+        run: pip install requests
 
-      - name: Build press index
-        run: python scripts/index_prensa.py
-
-      - name: Show state
-        run: cat archivo/prensa/estado.json
-
-      - name: Commit generated archive
+      - name: Run indexer in validation mode
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add archivo/prensa/index.md archivo/prensa/prensa.csv archivo/prensa/estado.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update press archive index"
-            git push
-          fi
+          python scripts/index_prensa.py || true
+          echo "Validation only: generated files are not committed automatically."
