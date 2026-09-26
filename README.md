@@ -34,7 +34,7 @@ My research interests are centered on how people actually experience transport s
 
 A significant part of my work focuses on **Metro stations and passenger experience**, including platforms, escalators, accessibility, pedestrian behaviour, boarding and alighting processes, and the relationship between technical design and everyday mobility.
 
-I also work on cycling mobility as both a researcher and an engineer, linking empirical research with the design and implementation of cycling infrastructure, traffic-calmed environments and public policy. I am co-author of Chilean Ministry of Transport manuals used to guide and regulate the design of cycleways and traffic-calmed zones, and I teach in the ([Diploma in Cycleway Design](https://diplomado.ciclovias.cl)) at Pontificia Universidad Católica de Valparaíso (PUCV).
+I also work on cycling mobility as both a researcher and an engineer, linking empirical research with the design and implementation of cycling infrastructure, traffic-calmed environments and public policy. I am co-author of Chilean Ministry of Transport manuals used to guide and regulate the design of cycleways and traffic-calmed zones, and I teach in the [Diploma in Cycleway Design](https://diplomado.ciclovias.cl) at Pontificia Universidad Católica de Valparaíso (PUCV).
 
 I also develop computational tools and knowledge infrastructures to observe and understand mobility using **geospatial data, simulation, computer vision, real-time transport data and reproducible research workflows**.
 
