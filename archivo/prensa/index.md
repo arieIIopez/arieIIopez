@@ -312,7 +312,7 @@ Fuente anual: [En la prensa 2020](https://blog.ariellopez.cl/en-la-prensa-2020-e
 | 2020-12-01 | La Tercera | Metro tuvo 26 millones de pasajeros en noviembre, la cifra más alta de la pandemia | Sin URL original documentada |
 | 2020-11-27 | Meganoticias | Motociclista muere tras grave colisión | Sin URL original documentada |
 | 2020-11-15 | The Clinic | Especialistas y organizaciones encienden las alertas por alarmante cifra en pandemia | [original](https://www.theclinic.cl/2020/11/13/nomasciclistasmuertos-especialistas-y-organizaciones-encienden-las-alertas-por-alarmante-cifra-en-pandemia/) |
-| 2020-11-13 | El Dínamo | Las cinco razones tras el dramático aumento de ciclistas fallecidos durante este año | Sin URL original documentada |
+| 2020-11-13 | El Dínamo | Las cinco razones tras el dramático aumento de ciclistas fallecidos durante este año | [original](https://www.eldinamo.cl/pais/2020/11/13/aumento-de-ciclistas-fallecidos-durante-este-ano-expertos/) |
 | 2020-11-11 | Meganoticias | Un año oscuro para los ciclistas | Sin URL original documentada |
 | 2020-11-03 | La Tercera | Aumenta número de ciclistas fallecidos en accidentes de tránsito en pandemia | Sin URL original documentada |
 | 2020-10-02 | La Tercera | Desconfinamiento: Suben tiempos de traslado en la Región Metropolitana | Sin URL original documentada |
@@ -327,7 +327,7 @@ Fuente anual: [En la prensa 2020](https://blog.ariellopez.cl/en-la-prensa-2020-e
 | 2020-06-04 | El Mercurio | La dispar distribución de ciclovías frente al aumento de usuarios durante las crisis | Sin URL original documentada |
 | 2020-05-20 | La Tercera | Viajes en el transporte público registran la mayor baja de la crisis | [original](https://www.latercera.com/nacional/noticia/viajes-en-el-transporte-publico-registran-la-mayor-baja-de-la-crisis/2SKMYFF4KBEX3MM62QKKZLU2RM/) |
 | 2020-05-06 | El Mostrador | Estallido social y pandemia propician que uso de la bicicleta comience a ganarle terreno al automóvil | [original](https://www.elmostrador.cl/cultura/2020/05/06/estallido-social-y-pandemia-propician-que-uso-de-la-bicicleta-comience-a-ganarle-terreno-al-automovil/) |
-| 2020-05-06 | LUN | Novedoso sujetador de vasos impide que se derramen líquidos de la bicicleta | Sin URL original documentada |
+| 2020-05-06 | LUN | Novedoso sujetador de vasos impide que se derramen líquidos de la bicicleta | [original](http://lun.com/Pages/NewsDetail.aspx?dt=2020-05-06&PaginaId=26&bodyid=0) |
 | 2020-05-05 | La Tercera | Baquedano: comercio valora apertura de accesos | Sin URL original documentada |
 | 2020-04-25 | El Mercurio | Paseo Bandera, convertido en estacionamiento irregular | Sin URL original documentada |
 | 2020-04-01 | La Tercera | Transporte en su semana negra: viajes disminuyen un 81,6% en Santiago | Sin URL original documentada |
