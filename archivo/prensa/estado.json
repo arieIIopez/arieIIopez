@@ -1,61 +1,36 @@
 {
-  "generated_at_utc": "2026-09-26T16:44:16Z",
-  "total": 0,
-  "with_link": 0,
-  "without_link": 0,
+  "updated_at": "2026-09-26",
+  "methodology": "curated_from_annual_blog_pages",
+  "total_curated": 250,
   "counts_by_year": {
-    "2026": 0,
-    "2025": 0,
-    "2024": 0,
-    "2023": 0,
-    "2022": 0,
-    "2021": 0,
-    "2020": 0
-  },
-  "expected_counts": {
-    "2026": 88,
-    "2025": null,
-    "2024": 36,
-    "2023": 30,
-    "2022": null,
+    "2020": 46,
     "2021": null,
-    "2020": 46
+    "2022": null,
+    "2023": 30,
+    "2024": 36,
+    "2025": 50,
+    "2026": 88
   },
-  "diagnostics": {
-    "2026": {
-      "url": "https://blog.ariellopez.cl/en-la-prensa-2026-ab565e1372b4",
-      "medium_post_id": "ab565e1372b4",
-      "error": "HTTPError('403 Client Error: Forbidden for url: https://medium.com/post/ab565e1372b4?format=json')"
-    },
-    "2025": {
-      "url": "https://blog.ariellopez.cl/en-la-prensa-2025-e0bdc343bba6",
-      "medium_post_id": "e0bdc343bba6",
-      "error": "HTTPError('403 Client Error: Forbidden for url: https://medium.com/post/e0bdc343bba6?format=json')"
-    },
-    "2024": {
-      "url": "https://blog.ariellopez.cl/en-la-prensa-2024-ee71aa3b0fdf",
-      "medium_post_id": "ee71aa3b0fdf",
-      "error": "HTTPError('403 Client Error: Forbidden for url: https://medium.com/post/ee71aa3b0fdf?format=json')"
-    },
-    "2023": {
-      "url": "https://blog.ariellopez.cl/en-la-prensa-e39e770d85d2",
-      "medium_post_id": "e39e770d85d2",
-      "error": "HTTPError('403 Client Error: Forbidden for url: https://medium.com/post/e39e770d85d2?format=json')"
-    },
-    "2022": {
-      "url": "https://blog.ariellopez.cl/en-la-prensa-2022-aebe4412f9d5",
-      "medium_post_id": "aebe4412f9d5",
-      "error": "HTTPError('403 Client Error: Forbidden for url: https://medium.com/post/aebe4412f9d5?format=json')"
-    },
-    "2021": {
-      "url": "https://blog.ariellopez.cl/en-la-prensa-2021-7192a2541e1e",
-      "medium_post_id": "7192a2541e1e",
-      "error": "HTTPError('403 Client Error: Forbidden for url: https://medium.com/post/7192a2541e1e?format=json')"
-    },
-    "2020": {
-      "url": "https://blog.ariellopez.cl/en-la-prensa-2020-e95ebbc5518c",
-      "medium_post_id": "e95ebbc5518c",
-      "error": "HTTPError('403 Client Error: Forbidden for url: https://medium.com/post/e95ebbc5518c?format=json')"
-    }
-  }
+  "declared_by_source": {
+    "2020": 46,
+    "2021": null,
+    "2022": null,
+    "2023": 30,
+    "2024": 36,
+    "2025": 50,
+    "2026": 88
+  },
+  "complete_years": [
+    2026,
+    2025,
+    2024,
+    2023,
+    2020
+  ],
+  "pending_years": [
+    2022,
+    2021
+  ],
+  "pending_reason": "The annual Medium URLs for 2021 and 2022 currently expose only the Medium shell, without article body. No records were invented from partial search results.",
+  "root_readme_modified": false
 }
