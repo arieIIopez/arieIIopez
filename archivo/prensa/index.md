@@ -12,11 +12,11 @@ Este archivo está deliberadamente separado del README del perfil. La unidad de 
 | 2025 | 50 | 50 | Completo |
 | 2024 | 36 | 36 | Completo |
 | 2023 | 30 | 30 | Completo |
-| 2022 | 9 | — | Reconstrucción parcial desde medios originales |
-| 2021 | 6 | — | Reconstrucción parcial desde medios originales |
+| 2022 | 11 | — | Reconstrucción parcial desde medios originales |
+| 2021 | 10 | — | Reconstrucción parcial desde medios originales |
 | 2020 | 46 | 46 | Completo |
 
-**Total registrado: 265 apariciones (250 curadas desde los índices anuales + 15 reconstruidas desde fuentes originales).**
+**Total registrado: 271 apariciones (250 curadas desde los índices anuales + 21 reconstruidas desde fuentes originales).**
 
 Los años 2021 y 2022 siguen sin poder verificarse de forma exhaustiva contra sus páginas anuales, porque Medium actualmente no expone el cuerpo de esos artículos. Sin embargo, se reconstruyó una parte del archivo a partir de publicaciones originales conservadas por los medios. Estos registros se marcan como `reconstruido` y no se presentan como un inventario completo de esos dos años.
 
@@ -264,7 +264,7 @@ Fuente anual: [En la prensa 2023](https://blog.ariellopez.cl/en-la-prensa-e39e77
 
 ## 2022
 
-Fuente anual: [En la prensa 2022](https://blog.ariellopez.cl/en-la-prensa-2022-aebe4412f9d5). La página anual no expone actualmente su cuerpo completo; los siguientes registros fueron reconstruidos desde publicaciones originales y archivos audiovisuales verificables.
+Fuente anual: [En la prensa 2022](https://blog.ariellopez.cl/en-la-prensa-2022-aebe4412f9d5). La página anual no expone actualmente su cuerpo completo; los siguientes registros fueron reconstruidos desde publicaciones originales, copias institucionales o archivos audiovisuales verificables.
 
 | Fecha | Medio | Título | Enlace |
 |---|---|---|---|
@@ -274,28 +274,32 @@ Fuente anual: [En la prensa 2022](https://blog.ariellopez.cl/en-la-prensa-2022-a
 | 2022-05-05 | Radio Bío Bío | Ocupa la vereda y complica a peatones: experto denuncia instalación de reja del mall Plaza Vespucio | [original](https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2022/05/05/amp/ocupa-la-vereda-y-complica-a-peatones-experto-denuncia-instalacion-de-reja-del-mall-plaza-vespucio.shtml) |
 | 2022-04-25 | The Clinic | VIDEO. Acusan que Muni de La Florida liderada por Carter decidió cerrar vereda con rejas: adjuntaron metraje del peligroso camino que quedó | [original](https://www.theclinic.cl/2022/04/25/muni-la-florida-liderada-carter-vereda-rejas/) |
 | 2022-03-15 | Revista Pedalea | El ministro de las ciudades intermodales | [original](https://revistapedalea.com/el-ministro-de-las-ciudades-intermodales/) |
+| 2022-03-07 | LUN | ¿Por qué hay una larga fila de autos en una ciclovía de Ñuñoa? | [copia](https://isci.cl/por-que-hay-una-larga-fila-de-autos-en-una-ciclovia-de-nunoa/) |
 | 2022-02-07 | Revista Pedalea | El bot que evidencia que el transporte público excede la velocidad máxima | [original](https://revistapedalea.com/el-bot-que-evidencia-que-el-transporte-publico-excede-la-velocidad-maxima/) |
 | 2022-02-05 | Cooperativa | El 65% de buses del Transantiago excedió el límite de velocidad la última semana | [original](https://www.cooperativa.cl/noticias/site/artic/20220205/pags-amp/20220205105711.html) |
+| 2022-02-04 | The Clinic | Qué ciudad busca el gobierno de Boric: Expertos evalúan a los nuevos ministros Montes, Muñoz y García | [original](https://www.theclinic.cl/2022/02/04/ciudad-boric-expertos-evaluan-ministros-montes-munoz-garcia/) |
 | 2022-01-10 | Revista Pedalea | Ariel López: “Los automovilistas saben que no los están fiscalizando” | [original](https://revistapedalea.com/ariel-lopez-mientras-mas-personas-usan-la-bicicleta-la-calle-se-vuelve-mas-segura-para-todos/) |
 
-> Estado: reconstrucción parcial. Puede haber otras apariciones aún no recuperadas del índice anual.
-
+> Estado: reconstrucción parcial. Puede haber otras apariciones aún no recuperadas del índice anual. Cuando el enlace original no está disponible, se intenta primero recuperar el video de YouTube asociado; si tampoco existe una copia verificable en YouTube, se conserva una copia institucional o espejo documental identificado.
 
 ## 2021
 
-Fuente anual: [En la prensa 2021](https://blog.ariellopez.cl/en-la-prensa-2021-7192a2541e1e). La página anual no expone actualmente su cuerpo completo; los siguientes registros fueron reconstruidos desde publicaciones originales y archivos audiovisuales verificables.
+Fuente anual: [En la prensa 2021](https://blog.ariellopez.cl/en-la-prensa-2021-7192a2541e1e). La página anual no expone actualmente su cuerpo completo; los siguientes registros fueron reconstruidos desde publicaciones originales, copias institucionales o archivos audiovisuales verificables.
 
 | Fecha | Medio | Título | Enlace |
 |---|---|---|---|
 | 2021-12-30 | Universidad de Chile | La ley está pensada desde la perspectiva que las calles son para los vehículos y los peatones ni siquiera se consideran | [original](https://uchile.cl/noticias/182993/la-convivencia-vial-en-ciudades-pensadas-prioritariamente-para-autos) |
 | 2021-12-23 | Radio Bío Bío | Experto en transportes advierte que Andrés Bello se ha vuelto una vía peligrosa desde hace décadas | [original](https://www.biobiochile.cl/noticias/opinion/entrevistas/2021/12/23/expero-en-transportes-advierte-que-andres-bello-se-ha-vuelto-una-via-peligrosa-desde-hace-decadas.shtml) |
+| 2021-12-22 | Vergara 240 / UDP | Muertes de ciclistas: Los puntos críticos de la Ley de Convivencia Vial | [original](https://vergara240.udp.cl/muertes-ciclistas-chile-ley-de-convivencia-vial/) |
 | 2021-11-13 | Radio Pauta | Las ciclosendas: la solución de emergencia para abordar la falta de ciclovías | [original](https://www.pauta.cl/actualidad/2021/11/13/la-solucion-de-emergencia-para-ciclistas-con-falta-de-ciclovias.html) |
 | 2021-10-22 | Meganoticias | Semáforo con luz verde en Las Condes apenas duraba 10 segundos: Ingeniero logró que lo reprogramaran | [original](https://www.meganoticias.cl/nacional/355894-semaforo-verde-10-segundos-las-condes-ingeniero-logro-un-cambio-22-10-2021.html) |
 | 2021-09-27 | Revista Pedalea | Conoce los beneficios y desventajas del nuevo “modo bicicleta” de Google Maps en Chile | [original](https://revistapedalea.com/conoce-los-beneficios-y-desventajas-del-nuevo-modo-bicicleta-de-google-maps-en-chile/) |
+| 2021-08-14 | El Mercurio | Expertos debaten sobre el impacto del proyecto de autopista Costanera Central | [copia](https://www.dii.uchile.cl/wp-content/uploads/2021/08/14-EL-MERCURIO-Expertos-debaten-sobre-el-impacto-del-proyecto-de-autopista-Costanera-Central.pdf) |
 | 2021-06-27 | Revista Pedalea | #VeredaNoEsCiclovia: Ciudadanía organizada dice no a la infraestructura deficiente | [original](https://revistapedalea.com/veredanoesciclovia-ciudadania-organizada-dice-no-a-la-infraestructura-deficiente/) |
+| 2021-06-25 | La Tercera | Metro reanuda servicio tras interrupción de Línea 4A por falla en estación La Cisterna | [original](https://www.latercera.com/nacional/noticia/metro-presenta-servicio-interrumpido-en-linea-4a-por-falla-en-estacion-la-cisterna/TZRBHJ253NAPXIHMFRV63FXYBU/) |
+| 2021-01-12 | La Tercera | Muertes en accidentes muestran baja histórica, pero suben ciclistas fallecidos | [original](https://www.latercera.com/nacional/noticia/muertes-en-accidentes-muestran-baja-historica-pero-suben-ciclistas-fallecidos/ZUIR7DYZ25BENGEYVCRND4VCEA/) |
 
-> Estado: reconstrucción parcial. Puede haber otras apariciones aún no recuperadas del índice anual.
-
+> Estado: reconstrucción parcial. Puede haber otras apariciones aún no recuperadas del índice anual. Cuando el enlace original no está disponible, se intenta primero recuperar el video de YouTube asociado; si tampoco existe una copia verificable en YouTube, se conserva una copia institucional o espejo documental identificado.
 
 ## 2020
 
