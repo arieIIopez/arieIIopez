@@ -14,7 +14,7 @@ I have nearly two decades of professional experience and have studied and visite
 - **Public transport data** — GTFS, real-time monitoring, service performance and operational analytics.
 - **Urban accessibility** — spatial analysis, territorial indicators and accessibility to opportunities.
 - **Computer vision & sensing** — AI, video analytics, drones and automated observation of mobility.
-- **Street design & road safety** — cycling, pedestrian mobility, traffic calming and safer urban environments.
+- **Cycling mobility, street design & road safety** — I approach cycling both as a researcher and transport engineer, working on cycleway design, network planning, traffic calming, pedestrian mobility and safer urban environments.
 - **Transport policy** — applied research connecting technical evidence with planning and public decision-making.
 
 ## Selected experience
@@ -23,6 +23,8 @@ I have nearly two decades of professional experience and have studied and visite
 - Former lecturer in Transport Engineering at **UTEM, UNAB and PUCV**.
 - Specialized training in **urban development and transport infrastructure in Beijing** and **CBTC railway control systems in Shanghai**.
 - Research and professional work on Metro systems, public transport, urban accessibility, cycling and road safety.
+- **Co-author of Chilean Ministry of Transport manuals for the design of cycleways and traffic-calmed zones**, contributing technical criteria used in the planning and design of cycling infrastructure and low-speed urban environments.
+- Lecturer in the **Diploma in Cycleway Design at Pontificia Universidad Católica de Valparaíso (PUCV)** — [diplomado.ciclovias.cl](https://diplomado.ciclovias.cl).
 - **SOCHITRAN 2021 Award** for the emergency cycleway project developed with Map8 and Muévete.
 - Technical and judicial expert work in transport engineering and road crash analysis.
 
@@ -31,6 +33,8 @@ I have nearly two decades of professional experience and have studied and visite
 My research interests are centered on how people actually experience transport systems: how infrastructure, operations, information, urban form and individual behaviour interact during a journey.
 
 A significant part of my work focuses on **Metro stations and passenger experience**, including platforms, escalators, accessibility, pedestrian behaviour, boarding and alighting processes, and the relationship between technical design and everyday mobility.
+
+I also work on **cycling mobility as both a researcher and an engineer**, linking empirical research with the design and implementation of cycling infrastructure, traffic-calmed environments and public policy. I am co-author of Chilean Ministry of Transport manuals used to guide and regulate the design of cycleways and traffic-calmed zones, and I teach in the **Diploma in Cycleway Design at Pontificia Universidad Católica de Valparaíso (PUCV)** ([diplomado.ciclovias.cl](https://diplomado.ciclovias.cl)).
 
 I also develop computational tools and knowledge infrastructures to observe and understand mobility using **geospatial data, simulation, computer vision, real-time transport data and reproducible research workflows**.
 
@@ -103,6 +107,8 @@ I am interested in research collaborations, transport and mobility projects, app
 Soy ingeniero en transporte y tránsito, magíster en Urbanismo e investigador en movilidad. Mi trabajo se desarrolla entre la **ingeniería de transporte, los sistemas Metro y ferroviarios, la planificación urbana, el análisis territorial, los datos y las nuevas tecnologías**.
 
 He estudiado y recorrido más de **40 sistemas de Metro en 22 países de cuatro continentes**. Investigo especialmente la relación entre pasajeros, infraestructura y operación, y desarrollo herramientas basadas en datos, simulación, SIG, visión artificial y sensores para estudiar cómo funcionan realmente los sistemas de movilidad y las ciudades.
+
+También abordo la **movilidad ciclista como investigador e ingeniero**, vinculando investigación, diseño de infraestructura y política pública. Soy **coautor de manuales del Ministerio de Transportes y Telecomunicaciones de Chile para el diseño de ciclovías y zonas de tránsito calmado**, y participo como docente en el **Diplomado de Diseño de Ciclovías de la Pontificia Universidad Católica de Valparaíso (PUCV)**: [diplomado.ciclovias.cl](https://diplomado.ciclovias.cl).
 
 Una parte creciente de mi trabajo consiste en construir **infraestructura de conocimiento reproducible**: sistemas que permiten pasar desde documentos, datos y observaciones dispersas hacia evidencia trazable que pueda utilizarse para investigación, planificación y política pública.
 
