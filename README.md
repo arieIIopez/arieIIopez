@@ -96,7 +96,7 @@ I am interested in research collaborations, transport and mobility projects, app
 
 Santiago, Chile
 
-[Website](https://ariellopez.cl) · [Articles](https://blog.ariellopez.cl) · [LinkedIn](https://www.linkedin.com/in/arielopez/) · [X / @arieIIopez](https://x.com/arieIIopez) · [ResearchGate](https://www.researchgate.net/profile/Ariel-Lopez-4) · [Email](mailto:ariellopez@ug.uchile.cl)
+[Website](https://ariellopez.cl) · [Articles](https://blog.ariellopez.cl) · [LinkedIn](https://www.linkedin.com/in/arielopez/) · [Twitter / @arieIIopez](https://x.com/arieIIopez) · [ResearchGate](https://www.researchgate.net/profile/Ariel-Lopez-4) · [Email](mailto:ariellopez@ug.uchile.cl)
 
 ---
 
@@ -116,4 +116,4 @@ Mi interés está en conectar la investigación con problemas concretos: mejor t
 
 #### Enlaces
 
-[Web](https://ariellopez.cl) · [Artículos](https://blog.ariellopez.cl) · [LinkedIn](https://www.linkedin.com/in/arielopez/) · [X](https://x.com/arieIIopez) · [ResearchGate](https://www.researchgate.net/profile/Ariel-Lopez-4) · [Correo](mailto:ariellopez@ug.uchile.cl)
+[Web](https://ariellopez.cl) · [Artículos](https://blog.ariellopez.cl) · [LinkedIn](https://www.linkedin.com/in/arielopez/) · [Twitter](https://x.com/arieIIopez) · [ResearchGate](https://www.researchgate.net/profile/Ariel-Lopez-4) · [Correo](mailto:ariellopez@ug.uchile.cl)
