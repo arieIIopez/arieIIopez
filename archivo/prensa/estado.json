@@ -38,9 +38,11 @@
   "link_policy": "Prefer the original outlet URL. If unavailable, use the exact accompanying YouTube/video URL. If unavailable, retain an identified institutional copy; otherwise leave blank. Never substitute auxiliary links or invent a URL.",
   "root_readme_modified": false,
   "author_markdown_reconciled_years": [
+    2024,
     2023,
     2022,
     2021
   ],
-  "notes_2023": "30/30 apariciones reconciliadas contra copia Markdown del autor; se recuperaron enlaces adicionales, incluidos dos videos exactos de YouTube."
+  "notes_2023": "30/30 apariciones reconciliadas contra copia Markdown del autor; se recuperaron enlaces adicionales, incluidos dos videos exactos de YouTube.",
+  "notes_2024": "36/36 apariciones efectivas reconciliadas contra copia Markdown del autor. Algunos encabezados agrupan múltiples medios (3 coberturas de AVO y 8 coberturas del episodio vial del 4 de abril). Se recuperaron el audio original de Radio ADN y una copia institucional CEDEUS para El Mercurio."
 }
