@@ -227,7 +227,7 @@ Fuente anual: [En la prensa 2024](https://blog.ariellopez.cl/en-la-prensa-2024-e
 
 ## 2023
 
-Fuente anual: [En la prensa 2023](https://blog.ariellopez.cl/en-la-prensa-e39e770d85d2).
+Fuente anual: [En la prensa 2023](https://blog.ariellopez.cl/en-la-prensa-e39e770d85d2). El contenido fue reconciliado contra una copia Markdown suministrada por el autor: 30/30 apariciones.
 
 | Fecha | Medio | Título | Enlace |
 |---|---|---|---|
@@ -235,9 +235,9 @@ Fuente anual: [En la prensa 2023](https://blog.ariellopez.cl/en-la-prensa-e39e77
 | 2023-10-15 | El Ciudadano | ¿Es mejor colocarse a la derecha o a ambos lados de las escaleras mecánicas del Metro?: Investigadores chilenos tienen la respuesta | [original](https://www.elciudadano.com/ciencia-tecnologia/es-mejor-colocarse-a-la-derecha-o-a-ambos-lados-de-las-escaleras-mecanicas-del-metro-investigadores-chilenos-tienen-la-respuesta/10/15/) |
 | 2023-10-04 | TVN | Las dudas que salpican a la concesionaria | Sin URL original documentada |
 | 2023-10-02 | Canal 13 | Autopista está fuera de norma | Sin URL original documentada |
-| 2023-09-29 | TVN / 24 Horas | Tramo de AVO afectado por filtraciones de agua se mantendrá cerrado | Sin URL original documentada |
-| 2023-09-28 | Canal 13 | Ordenan cierre de tramo de AVO | Sin URL original documentada |
-| 2023-09-28 | Canal 13 | Cierran salida en AVO por riesgos para usuarios | Sin URL original documentada |
+| 2023-09-29 | TVN / 24 Horas | Tramo de AVO afectado por filtraciones de agua se mantendrá cerrado | [original](https://www.24horas.cl/programas/manana-informativa/experto-reparacion-avo-problemas-agua-norma-mop) |
+| 2023-09-28 | Canal 13 | Ordenan cierre de tramo de AVO | [original](https://www.t13.cl/noticia/nacional/ingeniero-filtraciones-vespucio-oriente-tunel-no-cumpliendo-normas-mop-29-9-2023) |
+| 2023-09-28 | Canal 13 | Cierran salida en AVO por riesgos para usuarios | [video](https://www.t13.cl/videos/nacional/cierran-salida-avo-por-riesgos-para-usuarios-por-ahora-no-habra-rebajas-costos-28-9-2023) |
 | 2023-09-28 | Canal 13 | Filtraciones en Autopista Vespucio Oriente | Sin URL original documentada |
 | 2023-09-28 | LUN | Concesionaria debió cerrar un acceso, Autopista AVO recomienda manejar a 50 km/h en zonas con filtraciones | Sin URL original documentada |
 | 2023-09-28 | Radio Bío Bío | “Debió no haberse construido”: Experto explica acumulación de agua en Autopista Vespucio Oriente | [original](https://www.biobiochile.cl/biobiotv/programas/expreso-bio-bio/2023/09/28/debio-no-haberse-construido-experto-explica-acumulacion-de-agua-en-autopista-vespucio-oriente.shtml) |
@@ -248,19 +248,19 @@ Fuente anual: [En la prensa 2023](https://blog.ariellopez.cl/en-la-prensa-e39e77
 | 2023-09-06 | El Mercurio / Emol | Fin de la reversibilidad de la Costanera Andrés Bello: Los profundos cambios en Santiago que gatillaron la histórica medida | [original](https://www.emol.com/noticias/Nacional/2023/09/06/1106403/andres-bellocardenal-reversibilidad.html) |
 | 2023-09-06 | LUN | Impactantes videos de conductores que no respetan los cruces ferroviarios | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=6&bodyid=0&dt=2023-09-06) |
 | 2023-07-16 | Revista Pedalea | Bicicletas eléctricas: todo lo que debes saber sobre esta tendencia al alza | [original](https://revistapedalea.com/bicicletas-electricas-todo-lo-que-debes-saber-sobre-esta-tendencia-al-alza/) |
-| 2023-07-14 | Radio Bío Bío | Autopista al sur: Ruta 5 Santiago-Chillán contabiliza 7.226 accidentes y 392 muertos en cuatro años | Sin URL original documentada |
+| 2023-07-14 | Radio Bío Bío | Autopista al sur: Ruta 5 Santiago-Chillán contabiliza 7.226 accidentes y 392 muertos en cuatro años | [original](https://www.biobiochile.cl/especial/bbcl-investiga/noticias/reportajes/2023/07/14/autopista-al-sur-ruta-5-santiago-chillan-contabiliza-7-226-accidentes-y-392-muertos-en-cuatro-anos.shtml) |
 | 2023-06-19 | La Tercera | Nataniel Cox: el peligro de los cruces peatonales no autorizados en plena Alameda | [original](https://www.latercera.com/tendencias/noticia/nataniel-cox-el-peligro-de-los-cruces-peatonales-no-autorizados-en-plena-alameda/QGAQMXD2TBHIBKGZKH23V7F2G4/) |
 | 2023-06-14 | LUN | Dos ingenieros explican como deben cruzar los peatones en forma segunra en Alameda con Nataniel | [original](https://www.lun.com/Pages/NewsDetail.aspx?BodyID=0&NewsID=512675&PaginaId=27&dt=2023-06-14) |
 | 2023-04-08 | Canal 13 | Pasajeros se suben a tren de Metro que circula con puerta abierta | Sin URL original documentada |
 | 2023-04-03 | La Tercera | Gobierno crea Unidad de Movilidad Activa y espera construir 800 km de ciclovías fuera de Santiago | [original](https://www.latercera.com/nacional/noticia/gobierno-crea-unidad-de-movilidad-activa-y-espera-construir-800-kilometros-de-ciclovias-fuera-de-santiago/EEGFE4QFCRHFJHEKWDT2YJ62TE/) |
 | 2023-03-28 | La Tercera | Expertos proyectan aglomeraciones en futura estación de Metro con acceso sólo por ascensores | [original](https://www.latercera.com/nacional/noticia/expertos-proyectan-aglomeraciones-en-futura-estacion-de-metro-con-acceso-solo-por-ascensores/JYBST3E6RRBGTHOOXS5YX24VKY/) |
-| 2023-03-26 | Canal 13 | Estación del Metro de Santiago únicamente con ascensores | Sin URL original documentada |
+| 2023-03-26 | Canal 13 | Estación del Metro de Santiago únicamente con ascensores | [video](https://www.youtube.com/watch?v=8NubwgkNL6g) |
 | 2023-03-20 | El Mercurio / Emol | De qué se trata, beneficiarios y críticas a la nueva ley que rebaja hasta en un 80% las multas por no pago de TAG | [original](https://www.emol.com/noticias/Economia/2023/03/20/1089848/el-beneficio-para-deudores-tag.html) |
-| 2023-02-11 | Canal 13 | Controversia por tragaluces en Autopista Central | Sin URL original documentada |
-| 2023-01-29 | El Mercurio | Sólo el 5,9% de las calles del Gran Santiago tiene niveles “excelentes” | Sin URL original documentada |
+| 2023-02-11 | Canal 13 | Controversia por tragaluces en Autopista Central | [video](https://www.youtube.com/watch?v=IK6pkaOqgM0) |
+| 2023-01-29 | El Mercurio / Emol | Sólo el 5,9% de las calles del Gran Santiago tiene niveles “excelentes” | [original](https://www.emol.com/noticias/Nacional/2023/01/29/1085247/calles-santiago-niveles-estudio-calidad.html) |
 | 2023-01-24 | El Mercurio / Emol | ¿Por Vespucio o llegar hasta estación Del Sol?: Las propuesta para instalar el Metro en Lo Espejo | [original](https://www.emol.com/noticias/Nacional/2023/01/24/1084792/opciones-metro-para-lo-espejo.html) |
 | 2023-01-10 | Radio Bío Bío | La pandemia en silencio: cifra de muertos en siniestros viales sigue aumentando año a año | [original](https://www.biobiochile.cl/especial/bbcl-investiga/noticias/reportajes/2023/01/10/la-pandemia-en-silencio-cifra-de-muertos-en-siniestros-viales-sigue-aumentando-ano-a-ano.shtml) |
-| 2023-01-08 | El Mercurio | Andrés Bello, Santa Rosa y Pajaritos: expertos anticipan las calles que deberían tener cámaras de control de velocidad | Sin URL original documentada |
+| 2023-01-08 | El Mercurio | Andrés Bello, Santa Rosa y Pajaritos: expertos anticipan las calles que deberían tener cámaras de control de velocidad | [copia](https://www.cedeus.cl/blog/2023/01/09/de-aprobarse-el-proyecto-cati-andres-bello-santa-rosa-y-pajaritos-expertos-anticipan-las-calles-que-deberian-tener-camaras-de-control-de-velocidad/) |
 
 ## 2022
 
@@ -406,4 +406,4 @@ Fuente anual: [En la prensa 2020](https://blog.ariellopez.cl/en-la-prensa-2020-e
 
 El catálogo distingue el registro documental de la interpretación. En particular, algunos años contienen errores tipográficos de fecha o títulos, y algunos encabezados reúnen varias coberturas. Esos casos se normalizan sin ocultarlos: la versión CSV conserva una columna `nota` para documentar la decisión.
 
-La actualización automática desde Medium quedó desactivada porque los runners de GitHub reciben respuestas 403. El workflow sólo valida el catálogo. Los años 2021 y 2022 fueron reconciliados contra copias Markdown aportadas por el autor. El estado `hallazgo_externo` identifica apariciones verificadas que no figuran en el índice anual del blog.
+La actualización automática desde Medium quedó desactivada porque los runners de GitHub reciben respuestas 403. El workflow sólo valida el catálogo. Los años 2021, 2022 y 2023 fueron reconciliados contra copias Markdown aportadas por el autor. El estado `hallazgo_externo` identifica apariciones verificadas que no figuran en el índice anual del blog.
