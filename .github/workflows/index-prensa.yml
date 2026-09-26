@@ -1,16 +1,18 @@
-name: Index press archive
+name: Validate press archive
 
-# El archivo de prensa se mantiene como catálogo curado. La extracción desde
-# Medium puede bloquear runners automatizados, por lo que este workflow no se
-# ejecuta en cada push ni reemplaza automáticamente los archivos publicados.
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "archivo/prensa/prensa.csv"
+      - "scripts/index_prensa.py"
+      - ".github/workflows/index-prensa.yml"
 
 permissions:
   contents: read
 
 jobs:
-  validate-indexer:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -21,10 +23,5 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run indexer in validation mode
-        run: |
-          python scripts/index_prensa.py || true
-          echo "Validation only: generated files are not committed automatically."
+      - name: Validate curated press archive
+        run: python scripts/index_prensa.py
