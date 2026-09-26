@@ -36,5 +36,11 @@
     "2022": 6
   },
   "link_policy": "Prefer the original outlet URL. If unavailable, use the exact accompanying YouTube/video URL. If unavailable, retain an identified institutional copy; otherwise leave blank. Never substitute auxiliary links or invent a URL.",
-  "root_readme_modified": false
+  "root_readme_modified": false,
+  "author_markdown_reconciled_years": [
+    2023,
+    2022,
+    2021
+  ],
+  "notes_2023": "30/30 apariciones reconciliadas contra copia Markdown del autor; se recuperaron enlaces adicionales, incluidos dos videos exactos de YouTube."
 }
