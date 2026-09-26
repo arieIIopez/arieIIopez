@@ -12,13 +12,13 @@ Este archivo está deliberadamente separado del README del perfil. La unidad de 
 | 2025 | 50 | 50 | Completo |
 | 2024 | 36 | 36 | Completo |
 | 2023 | 30 | 30 | Completo |
-| 2022 | — | — | Pendiente: Medium no expone actualmente el cuerpo de la página |
-| 2021 | — | — | Pendiente: Medium no expone actualmente el cuerpo de la página |
+| 2022 | 9 | — | Reconstrucción parcial desde medios originales |
+| 2021 | 6 | — | Reconstrucción parcial desde medios originales |
 | 2020 | 46 | 46 | Completo |
 
-**Total curado y verificable: 250 apariciones.**
+**Total registrado: 265 apariciones (250 curadas desde los índices anuales + 15 reconstruidas desde fuentes originales).**
 
-Los años 2021 y 2022 no se completan con inferencias ni búsquedas parciales: los enlaces anuales existen, pero actualmente devuelven sólo la envolvente de Medium sin el contenido del artículo. Se mantienen como una brecha documental explícita hasta recuperar la fuente.
+Los años 2021 y 2022 siguen sin poder verificarse de forma exhaustiva contra sus páginas anuales, porque Medium actualmente no expone el cuerpo de esos artículos. Sin embargo, se reconstruyó una parte del archivo a partir de publicaciones originales conservadas por los medios. Estos registros se marcan como `reconstruido` y no se presentan como un inventario completo de esos dos años.
 
 ## Criterio
 
@@ -264,11 +264,38 @@ Fuente anual: [En la prensa 2023](https://blog.ariellopez.cl/en-la-prensa-e39e77
 
 ## 2022
 
-Fuente anual: [En la prensa 2022](https://blog.ariellopez.cl/en-la-prensa-2022-aebe4412f9d5). Contenido no recuperable actualmente desde Medium; pendiente de reconstrucción desde una copia fuente o archivo web.
+Fuente anual: [En la prensa 2022](https://blog.ariellopez.cl/en-la-prensa-2022-aebe4412f9d5). La página anual no expone actualmente su cuerpo completo; los siguientes registros fueron reconstruidos desde publicaciones originales y archivos audiovisuales verificables.
+
+| Fecha | Medio | Título | Enlace |
+|---|---|---|---|
+| 2022-11-25 | The Clinic | Cuenta de diseños hostiles armó polémica por los asientos del Metro de Santiago | [original](https://www.theclinic.cl/2022/11/25/disenos-hostiles-asientos-metro-de-santiago/amp/) |
+| 2022-08-20 | El Mercurio / Emol | Municipios alistan servicio de transporte gratuito para el plebiscito, a la espera de instrucciones de Contraloría | [original](https://www.emol.com/noticias/Nacional/2022/08/20/1070362/cronica-constitucional-el-mercurio.html) |
+| 2022-07-20 | Chilevisión | Acusan a la falta de limitación de las vías como una de las causas de un fatal accidente de tránsito en Quillota | [video](https://noticias.utem.cl/wp-content/uploads/2022/10/Ariel_Lopez-CHV-20-07.mp4) |
+| 2022-05-05 | Radio Bío Bío | Ocupa la vereda y complica a peatones: experto denuncia instalación de reja del mall Plaza Vespucio | [original](https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2022/05/05/amp/ocupa-la-vereda-y-complica-a-peatones-experto-denuncia-instalacion-de-reja-del-mall-plaza-vespucio.shtml) |
+| 2022-04-25 | The Clinic | VIDEO. Acusan que Muni de La Florida liderada por Carter decidió cerrar vereda con rejas: adjuntaron metraje del peligroso camino que quedó | [original](https://www.theclinic.cl/2022/04/25/muni-la-florida-liderada-carter-vereda-rejas/) |
+| 2022-03-15 | Revista Pedalea | El ministro de las ciudades intermodales | [original](https://revistapedalea.com/el-ministro-de-las-ciudades-intermodales/) |
+| 2022-02-07 | Revista Pedalea | El bot que evidencia que el transporte público excede la velocidad máxima | [original](https://revistapedalea.com/el-bot-que-evidencia-que-el-transporte-publico-excede-la-velocidad-maxima/) |
+| 2022-02-05 | Cooperativa | El 65% de buses del Transantiago excedió el límite de velocidad la última semana | [original](https://www.cooperativa.cl/noticias/site/artic/20220205/pags-amp/20220205105711.html) |
+| 2022-01-10 | Revista Pedalea | Ariel López: “Los automovilistas saben que no los están fiscalizando” | [original](https://revistapedalea.com/ariel-lopez-mientras-mas-personas-usan-la-bicicleta-la-calle-se-vuelve-mas-segura-para-todos/) |
+
+> Estado: reconstrucción parcial. Puede haber otras apariciones aún no recuperadas del índice anual.
+
 
 ## 2021
 
-Fuente anual: [En la prensa 2021](https://blog.ariellopez.cl/en-la-prensa-2021-7192a2541e1e). Contenido no recuperable actualmente desde Medium; pendiente de reconstrucción desde una copia fuente o archivo web.
+Fuente anual: [En la prensa 2021](https://blog.ariellopez.cl/en-la-prensa-2021-7192a2541e1e). La página anual no expone actualmente su cuerpo completo; los siguientes registros fueron reconstruidos desde publicaciones originales y archivos audiovisuales verificables.
+
+| Fecha | Medio | Título | Enlace |
+|---|---|---|---|
+| 2021-12-30 | Universidad de Chile | La ley está pensada desde la perspectiva que las calles son para los vehículos y los peatones ni siquiera se consideran | [original](https://uchile.cl/noticias/182993/la-convivencia-vial-en-ciudades-pensadas-prioritariamente-para-autos) |
+| 2021-12-23 | Radio Bío Bío | Experto en transportes advierte que Andrés Bello se ha vuelto una vía peligrosa desde hace décadas | [original](https://www.biobiochile.cl/noticias/opinion/entrevistas/2021/12/23/expero-en-transportes-advierte-que-andres-bello-se-ha-vuelto-una-via-peligrosa-desde-hace-decadas.shtml) |
+| 2021-11-13 | Radio Pauta | Las ciclosendas: la solución de emergencia para abordar la falta de ciclovías | [original](https://www.pauta.cl/actualidad/2021/11/13/la-solucion-de-emergencia-para-ciclistas-con-falta-de-ciclovias.html) |
+| 2021-10-22 | Meganoticias | Semáforo con luz verde en Las Condes apenas duraba 10 segundos: Ingeniero logró que lo reprogramaran | [original](https://www.meganoticias.cl/nacional/355894-semaforo-verde-10-segundos-las-condes-ingeniero-logro-un-cambio-22-10-2021.html) |
+| 2021-09-27 | Revista Pedalea | Conoce los beneficios y desventajas del nuevo “modo bicicleta” de Google Maps en Chile | [original](https://revistapedalea.com/conoce-los-beneficios-y-desventajas-del-nuevo-modo-bicicleta-de-google-maps-en-chile/) |
+| 2021-06-27 | Revista Pedalea | #VeredaNoEsCiclovia: Ciudadanía organizada dice no a la infraestructura deficiente | [original](https://revistapedalea.com/veredanoesciclovia-ciudadania-organizada-dice-no-a-la-infraestructura-deficiente/) |
+
+> Estado: reconstrucción parcial. Puede haber otras apariciones aún no recuperadas del índice anual.
+
 
 ## 2020
 
@@ -327,4 +354,4 @@ Fuente anual: [En la prensa 2020](https://blog.ariellopez.cl/en-la-prensa-2020-e
 
 El catálogo distingue el registro documental de la interpretación. En particular, algunos años contienen errores tipográficos de fecha o títulos, y algunos encabezados reúnen varias coberturas. Esos casos se normalizan sin ocultarlos: la versión CSV conserva una columna `nota` para documentar la decisión.
 
-La actualización automática desde Medium quedó desactivada porque los runners de GitHub reciben respuestas 403. El workflow existente se mantiene únicamente como validación manual y no puede sobrescribir este catálogo curado.
+La actualización automática desde Medium quedó desactivada porque los runners de GitHub reciben respuestas 403. El workflow sólo valida el catálogo. Para 2021 y 2022 se admite el estado `reconstruido`: indica que el registro fue recuperado desde el medio original o un archivo audiovisual verificable, pero que todavía no ha podido reconciliarse uno a uno contra la página anual de Medium.
