@@ -1,11 +1,13 @@
 {
   "updated_at": "2026-09-26",
-  "methodology": "curated_from_annual_blog_pages",
+  "methodology": "curated_annual_pages_plus_reconstruction_from_original_outlets",
+  "total_records": 265,
   "total_curated": 250,
+  "total_reconstructed": 15,
   "counts_by_year": {
     "2020": 46,
-    "2021": null,
-    "2022": null,
+    "2021": 6,
+    "2022": 9,
     "2023": 30,
     "2024": 36,
     "2025": 50,
@@ -27,10 +29,11 @@
     2023,
     2020
   ],
-  "pending_years": [
+  "reconstructed_partial_years": [
     2022,
     2021
   ],
-  "pending_reason": "The annual Medium URLs for 2021 and 2022 currently expose only the Medium shell, without article body. No records were invented from partial search results.",
+  "limitation_2021_2022": "The annual Medium bodies are currently unavailable to automated readers. Recovered rows are verified against original outlet pages or preserved audiovisual files, but completeness cannot yet be asserted.",
+  "link_policy": "Prefer the original outlet URL. If unavailable, use an accompanying YouTube/video URL when it can be verified. Never invent a URL.",
   "root_readme_modified": false
 }
