@@ -1,12 +1,12 @@
 # Archivo de entrevistas y apariciones en prensa
 
-Catálogo generado desde las páginas anuales de prensa de [blog.ariellopez.cl](https://blog.ariellopez.cl/).
+Catálogo histórico de entrevistas y apariciones en prensa documentadas por Ariel López en las páginas anuales de blog.ariellopez.cl.
 
-El índice se mantiene fuera del README del perfil. Cada registro conserva fecha, medio, título y, cuando está documentado en la fuente, enlace a la nota original o al video.
+Este archivo está separado del README del perfil. Cada registro conserva fecha, medio, título y, cuando está documentado en la publicación original, el enlace a la noticia o al video.
 
 - Registros indexados: 0
 - Con enlace original/video documentado: 0
-- Sin URL original documentada en el blog: 0
+- Sin URL original documentada: 0
 
 ## Cobertura por año
 
@@ -61,16 +61,16 @@ El índice se mantiene fuera del README del perfil. Cada registro conserva fecha
 
 ## Criterio de indexación
 
-- La fuente primaria del catálogo son las páginas anuales mantenidas por Ariel López.
-- Jina Reader se usa únicamente como capa de lectura cuando Medium impide el acceso automatizado directo.
-- El año de la página se usa como año canónico para corregir errores tipográficos evidentes en fechas internas.
-- Se priorizan enlaces a YouTube cuando el video está explícitamente documentado.
-- Los enlaces auxiliares (normas, fuentes técnicas, redes sociales o material de apoyo) no se confunden con la noticia original.
+- La fuente de verdad del inventario son las páginas anuales mantenidas por Ariel López.
+- El contenido se recupera desde el modelo estructurado de la publicación de Medium usando su ID estable.
+- El año de la página es el año canónico del registro; esto evita propagar errores tipográficos de año dentro de un recorte.
+- Se prioriza el enlace a la noticia original; cuando no existe y el recorte documenta un video de YouTube, se conserva ese video.
+- Enlaces técnicos o auxiliares no se presentan como si fueran la noticia original.
 - El CSV es la versión estructurada y reutilizable del catálogo.
 
 ## Actualización
 
-El archivo se regenera automáticamente cuando cambia el indexador o la lista de fuentes. También puede ejecutarse localmente con:
+El archivo puede regenerarse con:
 
 ```bash
 python scripts/index_prensa.py
