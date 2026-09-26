@@ -1,0 +1,37 @@
+{
+  "updated_at": "2026-09-26",
+  "source_index": "https://blog.ariellopez.cl/columnas-de-opini%C3%B3n-244852c050ce",
+  "methodology": "curated_and_reconciled_with_original_outlets",
+  "total_verified": 34,
+  "date_precision": {
+    "day": 29,
+    "month": 4,
+    "year": 1
+  },
+  "counts_by_year": {
+    "2016": 2,
+    "2020": 1,
+    "2021": 1,
+    "2022": 1,
+    "2023": 6,
+    "2024": 7,
+    "2025": 9,
+    "2026": 7
+  },
+  "counts_by_outlet": {
+    "Cooperativa": 18,
+    "Contrapoder": 5,
+    "SOCHITRAN": 5,
+    "La Tercera": 4,
+    "BioBioChile": 1,
+    "El Mercurio de Valparaíso": 1
+  },
+  "counts_by_type": {
+    "columna": 28,
+    "newsletter_columna": 4,
+    "carta_opinion": 2
+  },
+  "exhaustive": false,
+  "limitation": "The Medium index page supplied by the author is currently not fully exposed to automated readers. Records were reconciled against author archives and original outlet pages; no missing items were invented.",
+  "root_readme_modified": false
+}
