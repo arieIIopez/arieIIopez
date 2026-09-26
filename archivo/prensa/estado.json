@@ -1,13 +1,13 @@
 {
   "updated_at": "2026-09-26",
   "methodology": "curated_annual_pages_plus_reconstruction_from_original_outlets",
-  "total_records": 265,
+  "total_records": 271,
   "total_curated": 250,
-  "total_reconstructed": 15,
+  "total_reconstructed": 21,
   "counts_by_year": {
     "2020": 46,
-    "2021": 6,
-    "2022": 9,
+    "2021": 10,
+    "2022": 11,
     "2023": 30,
     "2024": 36,
     "2025": 50,
@@ -33,7 +33,7 @@
     2022,
     2021
   ],
-  "limitation_2021_2022": "The annual Medium bodies are currently unavailable to automated readers. Recovered rows are verified against original outlet pages or preserved audiovisual files, but completeness cannot yet be asserted.",
-  "link_policy": "Prefer the original outlet URL. If unavailable, use an accompanying YouTube/video URL when it can be verified. Never invent a URL.",
+  "limitation_2021_2022": "The annual Medium bodies remain unavailable to automated readers. Recovered rows are verified against original outlet pages, institutional copies or preserved audiovisual files, but completeness cannot yet be asserted.",
+  "link_policy": "Prefer the original outlet URL. If unavailable, search for the exact accompanying YouTube/video URL. If no exact video is verifiable, retain an identified institutional copy or documentary mirror; never invent a URL.",
   "root_readme_modified": false
 }
