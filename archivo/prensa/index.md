@@ -184,7 +184,7 @@ Fuente anual: [En la prensa 2025](https://blog.ariellopez.cl/en-la-prensa-2025-e
 
 ## 2024
 
-Fuente anual: [En la prensa 2024](https://blog.ariellopez.cl/en-la-prensa-2024-ee71aa3b0fdf).
+Fuente anual: [En la prensa 2024](https://blog.ariellopez.cl/en-la-prensa-2024-ee71aa3b0fdf). El contenido fue reconciliado contra una copia Markdown suministrada por el autor: 36/36 apariciones efectivas.
 
 | Fecha | Medio | Título | Enlace |
 |---|---|---|---|
@@ -201,13 +201,13 @@ Fuente anual: [En la prensa 2024](https://blog.ariellopez.cl/en-la-prensa-2024-e
 | 2024-07-31 | Radio Pauta | Scooters eléctricos: Un problema de educación vial y una ley ambigua | [original](https://www.pauta.cl/ciudad/ciudad-pauta/2024/07/31/scooters-electricos-un-problema-de-educacion-vial-y-una-ley-ambigua.html) |
 | 2024-07-16 | El Mercurio | Japón construirá sistema subterráneo de transporte para carga pequeña | [original](https://digital.elmercurio.com/2024/07/16/DCST-B/NM4EVOCO) |
 | 2024-07-12 | La Tercera | Agua en las vías, ‘arcos eléctricos’ y aglomeraciones: las principales dificultades en el funcionamiento de Metro en 2024 | [original](https://www.latercera.com/nacional/noticia/agua-en-las-vias-arcos-electricos-y-aglomeraciones-las-principales-dificultades-en-el-funcionamiento-de-metro-en-2024/L2V5MBQ3R5HFNH4FGEEJQK5KUA/) |
-| 2024-07-05 | El Mercurio | Disímil balance por el fin de la reversibilidad en Av. Andrés Bello | Sin URL original documentada |
+| 2024-07-05 | El Mercurio | Disímil balance por el fin de la reversibilidad en Av. Andrés Bello | [copia](https://www.cedeus.cl/disimil-balance-por-el-fin-de-la-reversibilidad-en-av-andres-bello/) |
 | 2024-06-29 | Mega | Continúan las filtraciones de agua en AVO por segundo año consecutivo | Sin URL original documentada |
 | 2024-06-29 | Meganoticias | Continúan las filtraciones de agua en AVO por segundo año consecutivo | Sin URL original documentada |
 | 2024-06-29 | TVN | Continúan las filtraciones de agua en AVO por segundo año consecutivo | Sin URL original documentada |
 | 2024-06-22 | LUN | Las 38 causales de salud con que le pueden negar o reducir la licencia de conducir | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=19&bodyid=0&dt=2024-06-22) |
 | 2024-06-21 | Radio Bío Bío | Concón: autoridades informan que diámetro del socavón en Camino Internacional no ha aumentado | [original](https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2024/06/21/concon-autoridades-informan-que-diametro-del-socavon-en-camino-internacional-no-ha-aumentado.shtml) |
-| 2024-06-04 | Radio ADN | Entrevista en Radio ADN sobre ciclovías y patinetas | Sin URL original documentada |
+| 2024-06-04 | Radio ADN | Entrevista en Radio ADN sobre ciclovías y patinetas | [original](https://adnradio.cl/audio/adn_paisadn_20240604_100000_110000/) |
 | 2024-05-13 | LUN | Las esquinas donde estarán las estaciones de la línea 8 del Metro | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=13&bodyid=0&dt=2024-05-13) |
 | 2024-05-08 | LUN | Parece meme, pero ocurrió en Santiago: cómo se destraba el candado vehicular | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=24&bodyid=0&dt=2024-05-08) |
 | 2024-04-29 | LUN | Para conductores ansiosos: prueban semáforos con cuenta regresiva para el cambio de color | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=20&bodyid=0&dt=2024-04-30) |
@@ -406,4 +406,4 @@ Fuente anual: [En la prensa 2020](https://blog.ariellopez.cl/en-la-prensa-2020-e
 
 El catálogo distingue el registro documental de la interpretación. En particular, algunos años contienen errores tipográficos de fecha o títulos, y algunos encabezados reúnen varias coberturas. Esos casos se normalizan sin ocultarlos: la versión CSV conserva una columna `nota` para documentar la decisión.
 
-La actualización automática desde Medium quedó desactivada porque los runners de GitHub reciben respuestas 403. El workflow sólo valida el catálogo. Los años 2021, 2022 y 2023 fueron reconciliados contra copias Markdown aportadas por el autor. El estado `hallazgo_externo` identifica apariciones verificadas que no figuran en el índice anual del blog.
+La actualización automática desde Medium quedó desactivada porque los runners de GitHub reciben respuestas 403. El workflow sólo valida el catálogo. Los años 2021, 2022, 2023 y 2024 fueron reconciliados contra copias Markdown aportadas por el autor. El estado `hallazgo_externo` identifica apariciones verificadas que no figuran en el índice anual del blog.
