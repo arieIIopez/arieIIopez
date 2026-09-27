@@ -27,12 +27,12 @@ jobs:
         run: python scripts/index_prensa.py
       - name: Commit generated catalog changes
         run: |
-          if git diff --quiet -- archivo/prensa/prensa.csv archivo/prensa/youtube_playlist.csv archivo/prensa/youtube_match_report.md; then
+          if git diff --quiet -- archivo/prensa/prensa.csv archivo/prensa/index.md archivo/prensa/youtube_playlist.csv archivo/prensa/youtube_match_report.md; then
             echo "No changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add archivo/prensa/prensa.csv archivo/prensa/youtube_playlist.csv archivo/prensa/youtube_match_report.md
+          git add archivo/prensa/prensa.csv archivo/prensa/index.md archivo/prensa/youtube_playlist.csv archivo/prensa/youtube_match_report.md
           git commit -m "Sync press archive with YouTube playlist"
           git push
