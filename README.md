@@ -1,4 +1,4 @@
-# Ariel López — Mobility, Transport & Urban Systems
+# Ariel López - Mobility, Transport & Urban Systems
 
 Transport and traffic engineer, urbanist and researcher based in Santiago, Chile.
 
