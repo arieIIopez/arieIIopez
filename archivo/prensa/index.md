@@ -18,7 +18,7 @@ Este archivo está deliberadamente separado del README del perfil. La unidad de 
 
 **Total registrado: 300 apariciones (288 documentadas y curadas desde los índices del blog + 12 hallazgos externos).**
 
-Los años 2021 y 2022 siguen sin poder verificarse de forma exhaustiva contra sus páginas anuales, porque Medium actualmente no expone el cuerpo de esos artículos. Sin embargo, se reconstruyó una parte del archivo a partir de publicaciones originales conservadas por los medios. Estos registros se marcan como `reconstruido` y no se presentan como un inventario completo de esos dos años.
+Los años 2021 y 2022 inicialmente no podían verificarse de forma exhaustiva porque Medium no exponía el cuerpo de esas páginas. Posteriormente fueron reconciliados contra copias Markdown suministradas por el autor. Las apariciones verificadas que no figuran en el índice anual se conservan por separado como `hallazgo_externo`, sin alterar el conteo original del blog.
 
 ## Criterio
 
