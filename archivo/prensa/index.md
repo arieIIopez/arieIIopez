@@ -29,6 +29,21 @@ Los años 2021 y 2022 inicialmente no podían verificarse de forma exhaustiva po
 - Categoría: `entrevista`, `cobertura` o `columna_opinion`. Esto permitirá separar después las columnas del archivo de entrevistas.
 - El CSV [`prensa.csv`](prensa.csv) es la versión estructurada y reutilizable.
 
+## Auditoría audiovisual de YouTube
+
+La playlist de prensa del canal se incorporó como fuente complementaria para recuperar enlaces y detectar apariciones que no estaban claramente resueltas en los índices anuales.
+
+- Videos enumerados en la playlist: **105**.
+- Mapeos curados ya versionados contra el catálogo: **37**.
+- Videos que aún requieren revisión individual: **33**.
+- La prioridad de enlace se mantiene: medio original → video propio/verificado → copia institucional.
+- Los videos que parecen corresponder a una fila existente no reemplazan el enlace original del medio; se conservan como evidencia audiovisual complementaria.
+- La cola de revisión está en [`youtube_candidates_review.md`](youtube_candidates_review.md) y [`youtube_candidates_review.csv`](youtube_candidates_review.csv).
+- El inventario completo del cruce está en [`youtube_playlist.csv`](youtube_playlist.csv) y el reporte automático en [`youtube_match_report.md`](youtube_match_report.md).
+
+La extracción de metadata individual de YouTube desde GitHub Actions fue bloqueada por las protecciones anti-bot de YouTube, por lo que no se asignan fechas inferidas a los candidatos pendientes. Sólo se incorporarán al catálogo principal cuando fecha y medio puedan verificarse por otra fuente.
+
+
 
 ## 2026
 
