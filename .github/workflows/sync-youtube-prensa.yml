@@ -7,6 +7,10 @@ on:
       - "scripts/sync_youtube_prensa.py"
       - ".github/workflows/sync-youtube-prensa.yml"
 
+concurrency:
+  group: sync-youtube-prensa
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -35,4 +39,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add archivo/prensa/prensa.csv archivo/prensa/index.md archivo/prensa/youtube_playlist.csv archivo/prensa/youtube_match_report.md
           git commit -m "Sync press archive with YouTube playlist"
+          git pull --rebase origin main
           git push
