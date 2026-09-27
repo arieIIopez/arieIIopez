@@ -1,0 +1,41 @@
+name: Enrich unmatched YouTube press videos
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/enrich_youtube_candidates.py"
+      - ".github/workflows/enrich-youtube-prensa.yml"
+
+concurrency:
+  group: enrich-youtube-prensa
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install yt-dlp
+        run: python -m pip install --disable-pip-version-check yt-dlp
+      - name: Enrich unmatched videos
+        run: python scripts/enrich_youtube_candidates.py
+      - name: Commit enrichment
+        run: |
+          if git diff --quiet -- archivo/prensa/youtube_unmatched_enriched.csv; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archivo/prensa/youtube_unmatched_enriched.csv
+          git commit -m "Enrich unmatched YouTube press candidates"
+          git pull --rebase origin main
+          git push
