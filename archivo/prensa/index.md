@@ -36,14 +36,14 @@ Fuente anual: [En la prensa 2026](https://blog.ariellopez.cl/en-la-prensa-2026-a
 
 | Fecha | Medio | Título | Enlace |
 |---|---|---|---|
-| 2026-09-23 | Chilevisión | Lanzan plan piloto de agentes anti evasión | Sin URL original/video verificable |
+| 2026-09-23 | Chilevisión | Lanzan plan piloto de agentes anti evasión | [video](https://www.youtube.com/watch?v=LvtEtiMhpFw) |
 | 2026-09-21 | Canal 13 | Menos días, pero más muertes en accidentes de tránsito durante las Fiestas Patrias | [video](https://www.t13.cl/videos/nacional/balance-fiestas-patrias-menos-dias-pero-mas-muertes-accidentes-21-9-2026) |
-| 2026-09-21 | Chilevisión | Agentes antievasión deberán validar su utilidad | Sin URL original documentada |
-| 2026-09-20 | Canal 13 | Gobierno negocia con concesionarias para bajar el TAG | Sin URL original documentada |
+| 2026-09-21 | Chilevisión | Agentes antievasión deberán validar su utilidad | [video](https://www.youtube.com/watch?v=VabJoemqkmQ) |
+| 2026-09-20 | Canal 13 | Gobierno negocia con concesionarias para bajar el TAG | [video](https://www.youtube.com/watch?v=qFsSvMTg-n0) |
 | 2026-09-08 | La Tercera | De Grange promete seguir impulsando la electromovilidad en cuenta pública del MTT y expertos cuestionan sus anuncios | [original](https://www.latercera.com/nacional/noticia/de-grange-promete-seguir-impulsando-la-electromovilidad-en-cuenta-publica-del-mtt-y-expertos-cuestionan-sus-anuncios/) |
-| 2026-09-03 | Canal 13 | ¿Se pudo evitar la tragedia del Metro? | Sin URL original documentada |
-| 2026-09-02 | Chilevisión | Conflicto sobre ruedas merece más de una vuelta | Sin URL original documentada |
-| 2026-08-23 | Chilevisión | Algunas estaciones llevan meses sin ascensor | Sin URL original documentada |
+| 2026-09-03 | Canal 13 | ¿Se pudo evitar la tragedia del Metro? | [video](https://www.youtube.com/watch?v=98e0AedpRQo) |
+| 2026-09-02 | Chilevisión | Conflicto sobre ruedas merece más de una vuelta | [video](https://www.youtube.com/watch?v=9uX5UyUwJnU) |
+| 2026-08-23 | Chilevisión | Algunas estaciones llevan meses sin ascensor | [video](https://www.youtube.com/watch?v=BCJpRefGsIs) |
 | 2026-08-20 | Canal 13 | Quedó atrapada en puerta y micro la arrolló | [video](https://www.t13.cl/videos/nacional/adulta-mayor-quedo-atrapada-puerta-micro-arrollo-quilicura-20-8-2026) |
 | 2026-08-14 | La Tercera | A 40 años de la restricción vehicular en Chile: 2026 registra 116 mil citaciones por circular en días indebidos | [original](https://www.latercera.com/nacional/noticia/a-40-anos-de-la-restriccion-vehicular-en-chile-2026-registra-116-mil-citaciones-por-circular-en-dias-indebidos/) |
 | 2026-08-04 | El Mercurio | Fallas en trenes más antiguos del Metro hacen crecer dudas sobre su vida útil y mantención | Sin URL original documentada |
@@ -52,74 +52,74 @@ Fuente anual: [En la prensa 2026](https://blog.ariellopez.cl/en-la-prensa-2026-a
 | 2026-07-31 | El Dínamo | ¿Falla más que antes el Metro de Santiago? Las cifras y lo que hay detrás de los incidentes que afectan a miles de usuarios | [original](https://www.eldinamo.cl/pais/2026/08/01/falla-mas-que-antes-el-metro-de-santiago-las-cifras-y-lo-que-hay-detras-de-los-incidentes-que-afectan-a-miles-de-usuarios/) |
 | 2026-07-29 | CNN Chile | Incendio en Metro abre debate sobre renovación de trenes | [video](https://www.youtube.com/watch?v=62EmAiDJwak) |
 | 2026-07-29 | La Tercera | Línea de transmisión: el proyecto eléctrico que tendrá a la Avenida Andrés Bello con cortes de tránsito por más de un año | [original](https://www.latercera.com/nacional/noticia/linea-de-transmision-el-proyecto-electrico-que-tendra-a-la-avenida-andres-bello-con-cortes-de-transito-por-mas-de-un-ano/) |
-| 2026-07-28 | Canal 13 | ¿Qué provocó el incendio en el Metro? | Sin URL original documentada |
+| 2026-07-28 | Canal 13 | ¿Qué provocó el incendio en el Metro? | [video](https://www.youtube.com/watch?v=p5LH7RFvLzM) |
 | 2026-07-28 | Latamobility | Chile: Restricciones presupuestarias impulsan la reconversión de buses como alternativa al modelo tradicional de renovación de flotas | [original](https://latamobility.com/chilea-reconversion-buses-alternativa-flotas/) |
 | 2026-06-24 | Radio Bío Bío | ¿Prohibir scooter en Chile como se hizo en España? | Sin URL original documentada |
-| 2026-06-23 | Experiencia Tech | El desafío de una movilidad inteligente | Sin URL original documentada |
+| 2026-06-23 | Experiencia Tech | El desafío de una movilidad inteligente | [video](https://www.youtube.com/watch?v=qiSEBsXfSZM) |
 | 2026-06-22 | Canal 13 | Manejó a 264 km/h y quedó en libertad | [video](https://www.t13.cl/videos/nacional/tiene-antecedentes-pestado-ebriedad-desde-2009-hombre-manejo-264-km-quedo-libre-22-6-2026) |
-| 2026-06-12 | Radio 13C | Contraloría rechazó las modificaciones a la Ley Uber propuestas por el ministro de transportes | Sin URL original documentada |
+| 2026-06-12 | Radio 13C | Contraloría rechazó las modificaciones a la Ley Uber propuestas por el ministro de transportes | [video](https://www.youtube.com/watch?v=Ne8okX43Tps) |
 | 2026-06-10 | TVN | ¿Hay menos frecuencia de buses en Santiago? | [original](https://www.tvn.cl/programas/buenos-dias-a-todos/actualidad/experto-en-transporte-explica-las-razones-de-la-aparente-baja-en-frecuencia-video) |
 | 2026-06-08 | Contrapoder | Registro del Congreso revela que exdiputado y actual director nacional de Migraciones gastó casi $10 millones en combustible | [original](https://contrapoderchile.cl/registro-del-congreso-revela-que-exdiputado-y-actual-director-nacional-de-migraciones-gasto-casi-10-millones-en-combustible/) |
 | 2026-06-05 | La Tercera | Grandes filas y aglomeraciones en horario peak: ¿por qué Metro tiene pocas boleterías habilitadas? | [original](https://www.latercera.com/nacional/noticia/grandes-filas-y-aglomeraciones-en-horario-peak-por-que-metro-tiene-pocas-boleterias-habilitadas/) |
-| 2026-06-03 | Turno | ¿Ha bajado la frecuencia de las micros? | Sin URL original documentada |
-| 2026-06-02 | Canal 13 | Tacos eternos, la pesadilla de Chicureo | Sin URL original documentada |
+| 2026-06-03 | Turno | ¿Ha bajado la frecuencia de las micros? | [video](https://www.youtube.com/watch?v=ZaK4vA_PBaU) |
+| 2026-06-02 | Canal 13 | Tacos eternos, la pesadilla de Chicureo | [video](https://www.youtube.com/watch?v=Gq86xSXwfds) |
 | 2026-06-01 | Publimetro | Endurecen sanciones contra quienes evadan el transporte público: infractores arriesgan perder acceso a pasaporte y estadios | [original](https://www.publimetro.cl/noticias/2026/06/01/endurecen-sanciones-contra-quienes-evadan-el-transporte-publico-infractores-arriesgan-perder-acceso-a-pasaporte-y-estadios/) |
-| 2026-05-31 | Chilevisión | Evasiones: Contraloría aprueba duras sanciones | Sin URL original documentada |
+| 2026-05-31 | Chilevisión | Evasiones: Contraloría aprueba duras sanciones | [video](https://www.youtube.com/watch?v=hVc75yWFvW8) |
 | 2026-05-29 | El Desconcierto | Ministerio de Transportes en el dardo del gobierno para posible fusión de cartera con Obras Públicas | [original](https://eldesconcierto.cl/actualidad/ministerio-transportes-el-dardo-del-gobierno-posible-fusion-cartera-obras-publicas-n5459191) |
 | 2026-05-29 | La Tercera | Tacos kilométricos, tag costoso y triple de población truncan la promesa idílica de una vida tranquila en Chicureo | [original](https://www.latercera.com/nacional/noticia/tacos-kilometricos-tag-costoso-y-alta-densidad-truncan-la-promesa-idilica-de-una-vida-tranquila-en-chicureo/) |
-| 2026-05-28 | Chilevisión | Pasajeros de Buin y Talagante pasan 5 horas en el transporte público | Sin URL original documentada |
+| 2026-05-28 | Chilevisión | Pasajeros de Buin y Talagante pasan 5 horas en el transporte público | [video](https://www.youtube.com/watch?v=P7KINSF0leM) |
 | 2026-05-21 | La Tercera | La posibilidad de potenciar el MOP junto al MTT es muy virtuosa: las primeras definiciones del biministro De Grange | [original](https://www.latercera.com/nacional/noticia/la-posibilidad-de-potenciar-el-mop-junto-al-mtt-es-muy-virtuosa-las-primeras-definiciones-del-biministro-de-grange/) |
 | 2026-05-18 | La Tercera | Transportes busca extender la vigencia del Certificado de Homologación de autos nuevos en 12 meses | [original](https://www.latercera.com/nacional/noticia/transportes-busca-extender-la-vigencia-del-certificado-de-homologacion-de-autos-nuevos-en-12-meses/) |
-| 2026-05-17 | El Desconcierto | Experto revela recortes en micros y fallas ocultas en metro | Sin URL original documentada |
-| 2026-05-15 | Radio La Metro | La accesibilidad no se mide en porcentajes de dispositivos dañados, porque un ascensor es parte de una trayectoria, un ascensor dañado corta el trayecto completo | Sin URL original documentada |
+| 2026-05-17 | El Desconcierto | Experto revela recortes en micros y fallas ocultas en metro | [video](https://www.youtube.com/watch?v=KI6vFrEK8U0) |
+| 2026-05-15 | Radio La Metro | La accesibilidad no se mide en porcentajes de dispositivos dañados, porque un ascensor es parte de una trayectoria, un ascensor dañado corta el trayecto completo | [video](https://www.youtube.com/watch?v=rK62xVOsdHE) |
 | 2026-05-15 | The Clinic | Recorte de más de $56 mil millones en Transporte enciende alertas por posibles impactos en buses regionales y electromovilidad | [original](https://www.theclinic.cl/2026/05/15/recorte-de-mas-de-56-mil-millones-en-transporte-enciende-alertas-por-posibles-impactos-en-buses-regionales-y-electromovilidad/) |
 | 2026-05-15 | TVN | Metro: récord de escaleras mecánicas y ascensores malos | [video](https://www.tvn.cl/programas/buenos-dias-a-todos/actualidad/record-de-escaleras-mecanicas-y-ascensores-malos-en-estaciones-del-metro-video) |
-| 2026-05-13 | Radio ADN | Aumento de flujo y de fallas en el Metro de Santiago | Sin URL original documentada |
+| 2026-05-13 | Radio ADN | Aumento de flujo y de fallas en el Metro de Santiago | [video](https://www.youtube.com/watch?v=Jb0as9jQhwg) |
 | 2026-05-13 | Radio Bío Bío | Metro reconoce aumento en problemas con ascensores y escaleras mecánicas y anuncia más técnicos | [original](https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/05/13/metro-reconoce-aumento-en-problemas-con-ascensores-y-escaleras-mecanicas-y-anuncia-mas-tecnicos.shtml) |
 | 2026-05-13 | Radio Bío Bío | Aumentan las fallas de escaleras y ascensores en el Metro de Santiago | Sin URL original documentada |
-| 2026-05-12 | Chilevisión | Metro, reportan récord de fallas en abril | Sin URL original documentada |
+| 2026-05-12 | Chilevisión | Metro, reportan récord de fallas en abril | [video](https://www.youtube.com/watch?v=2KSeM42Nmuw) |
 | 2026-05-12 | Doble Espacio | No hay menos buses, pero hay más pasajeros: el alza del combustible golpea al transporte público | [original](https://doble-espacio.uchile.cl/golpea-al-transporte-publico-buses-red/) |
-| 2026-05-12 | Mega | 1 de cada 3 estaciones del Metro de Santiago presenta falla | Sin URL original documentada |
-| 2026-05-12 | Meganoticias | Récord de fallas en estaciones de Metro | Sin URL original documentada |
+| 2026-05-12 | Mega | 1 de cada 3 estaciones del Metro de Santiago presenta falla | [video](https://www.youtube.com/watch?v=ePOvWnUbPoc) |
+| 2026-05-12 | Meganoticias | Récord de fallas en estaciones de Metro | [video](https://www.youtube.com/watch?v=nrhPDMfspWY) |
 | 2026-05-11 | CNN Chile | Reportan cifra récord de escaleras mecánicas y ascensores dañados en el Metro de Santiago: Línea 5 es la más afectada | [original](https://www.cnnchile.com/pais/reportan-cifra-record-de-escaleras-mecanicas-y-ascensores-danados-en-el-metro-de-santiago-linea-5-es-la-mas-afectada/) |
 | 2026-05-11 | Diario USACH | Más de 40 equipos fuera de servicio: Denuncian aumento de desperfectos en el Metro de Santiago | [original](https://www.diariousach.cl/mas-de-40-equipos-fuera-de-servicio-denuncian-aumento-de-desperfectos-en) |
 | 2026-05-11 | La Tercera | Récord de escaleras mecánicas y ascensores malos: la compleja situación que enfrenta el Metro de Santiago | [original](https://www.latercera.com/nacional/noticia/record-de-escaleras-mecanicas-y-ascensores-malos-la-compleja-situacion-que-enfrenta-metro-de-santiago/) |
-| 2026-05-10 | Canal 13 | Santiaguinos se niegan a dejar el auto | Sin URL original documentada |
+| 2026-05-10 | Canal 13 | Santiaguinos se niegan a dejar el auto | [video](https://www.youtube.com/watch?v=rcHPTWyjTpI) |
 | 2026-05-08 | LUN | Pedro Carcuro aclara agresión en Uber: “Me da miedo que les pueda pasar a otras personas” | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=14&bodyid=0&dt=2026-05-08) |
 | 2026-05-07 | Fast Check | Ariel López, experto en transporte público: “Tenemos empresas que sacan menos buses de los que deberían sacar” | Sin URL original documentada |
-| 2026-05-06 | Canal 13 | Hay menos micros y el Metro está más lleno? | Sin URL original documentada |
+| 2026-05-06 | Canal 13 | Hay menos micros y el Metro está más lleno? | [video](https://www.youtube.com/watch?v=RJI_peC7eqI) |
 | 2026-05-06 | La Tercera | El desafío hoy es el déficit habitaciona: las ciclovías pasan al fondo de las prioridades para el gobierno de Kast | [original](https://www.latercera.com/nacional/noticia/el-desafio-hoy-es-el-deficit-habitacional-como-las-ciclovias-pasaron-al-fondo-de-las-prioridades-para-el-gobierno-de-kast/) |
-| 2026-05-04 | Radio ADN | Aumento de flujo de pasajeros en el transporte público tras el aumento del precio de los combustibles | Sin URL original documentada |
-| 2026-05-01 | Canal 13 | Gobierno ajusta sistema de transporte | Sin URL original documentada |
+| 2026-05-04 | Radio ADN | Aumento de flujo de pasajeros en el transporte público tras el aumento del precio de los combustibles | [video](https://www.youtube.com/watch?v=2lUPQiq9jNE) |
+| 2026-05-01 | Canal 13 | Gobierno ajusta sistema de transporte | [video](https://www.youtube.com/watch?v=RwBmZkIP4Lo) |
 | 2026-04-30 | Teletrece | Fallas en escaleras mecánicas y ascensores del Metro | [video](https://www.t13.cl/videos/nacional/fallas-mecanicas-escaleras-ascensores-metro-30-04-2026) |
-| 2026-04-29 | Chilevisión | Mayor falla de escaleras mecánicas en un año | Sin URL original documentada |
+| 2026-04-29 | Chilevisión | Mayor falla de escaleras mecánicas en un año | [video](https://www.youtube.com/watch?v=3pOlMiqAvdE) |
 | 2026-04-29 | El Desconcierto | Metro de Santiago y sus problemas de accesibilidad: denuncian récord de escaleras mecánicas y ascensores malos | [original](https://eldesconcierto.cl/actualidad/metro-santiago-y-sus-problemas-accesibilidad-denuncian-record-escaleras-mecanicas-ascensores-malos-n5458447?utm_medium=Social&utm_source=Twitter&utm_term=Autofeed) |
 | 2026-04-28 | Radio Bío Bío | Reglamento de apps de transporte divide opinión de expertos mientras taxis acusan competencia desigual | [original](https://www.biobiochile.cl/noticias/nacional/chile/2026/04/28/ley-uber-reglamento-de-apps-de-transporte-divide-opiniones-taxis-acusan-desregulacion-y-competencia-desigual.shtml) |
 | 2026-04-27 | Radio T13C | Nivelar para abajo: el nuevo reglamento de Ley Uber | [original](https://radio13c.cl/show/corresponsales/episode/corresponsales-26272345) |
-| 2026-04-22 | Radio Bío Bío | ¿Menor flujo de buses en Santiago? | Sin URL original documentada |
-| 2026-04-20 | Chilevisión | Gobierno evalúa bajar tarifa del TAG | Sin URL original documentada |
-| 2026-04-19 | Chilevisión | Paraderos llenos: menos micros o más pasajeros | Sin URL original documentada |
+| 2026-04-22 | Radio Bío Bío | ¿Menor flujo de buses en Santiago? | [video](https://www.youtube.com/watch?v=fllMdTBe5Bo) |
+| 2026-04-20 | Chilevisión | Gobierno evalúa bajar tarifa del TAG | [video](https://www.youtube.com/watch?v=A_F88IWgBLU) |
+| 2026-04-19 | Chilevisión | Paraderos llenos: menos micros o más pasajeros | [video](https://www.youtube.com/watch?v=ibpdDmZKBF8) |
 | 2026-04-15 | Contrapoder | El estudio que desmiente al Ministerio de Transportes y confirma que hay menos buses en circulación | [original](https://contrapoderchile.cl/el-estudio-que-desmiente-al-ministerio-de-transportes-y-confirma-que-hay-menos-buses-en-circulacion/) |
-| 2026-04-12 | Meganoticias | ¿Fin de los buses “oruga” por las noches? | Sin URL original documentada |
+| 2026-04-12 | Meganoticias | ¿Fin de los buses “oruga” por las noches? | [video](https://www.youtube.com/watch?v=z46NLS0mGhc) |
 | 2026-04-10 | LaBot | De Grange y la Ley Uber: ¿un ministro comprometido? | [original](https://robotlabot.substack.com/p/de-grange-y-la-ley-uber-un-ministro) |
 | 2026-04-10 | Teletrece | Filas en paraderos ¿hay menos micros en Santiago? | [original](https://www.t13.cl/videos/nacional/filas-paraderos-hay-menos-micros-santiago-10-4-2026) |
 | 2026-04-09 | Radio Bío Bío | Expectativa vs realidad: video revela cómo está quedando la vía “semipeatonal” de calle Bandera | [original](https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/04/09/expectativa-vs-realidad-video-revela-como-esta-quedando-la-via-semipeatonal-de-calle-bandera.shtml) |
 | 2026-04-03 | El Desconcierto | Menos micros fines de semana, noche y sin “orugas”: el recorte del ministro Louis de Grange para recorridos de buses en RM | [original](https://eldesconcierto.cl/reportajes/menos-micros-fines-semana-noche-y-orugas-el-recorte-del-ministro-louis-grange-recorridos-buses-rm-n5457738) |
 | 2026-03-24 | Radio ADN | Un bus eléctrico es un 60% más eficiente que uno a diésel | [original](https://www.adnradio.cl/2026/03/24/magister-en-urbanismo-de-la-u-de-chile-un-bus-electrico-es-un-60-mas-eficiente-que-uno-a-diesel/) |
-| 2026-03-23 | Chilevisión | El transporte público es más barato que el automóvil | Sin URL original documentada |
-| 2026-03-23 | Súbela Radio | ¿Qué implican las reformas del MEPCO en nuestro bolsillo? | Sin URL original documentada |
-| 2026-03-22 | TVN | Gobierno descarta reducción de buses operativos de flota Red | Sin URL original documentada |
+| 2026-03-23 | Chilevisión | El transporte público es más barato que el automóvil | [video](https://www.youtube.com/watch?v=_2EMhZGeBgM) |
+| 2026-03-23 | Súbela Radio | ¿Qué implican las reformas del MEPCO en nuestro bolsillo? | [video](https://www.youtube.com/watch?v=qXWV-oAsgg4) |
+| 2026-03-22 | TVN | Gobierno descarta reducción de buses operativos de flota Red | [video](https://www.youtube.com/watch?v=hp2iE6qCOek) |
 | 2026-03-17 | LUN | Por qué las autopistas están obligadas a brindar seguridad a los usuarios | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=2&bodyid=0&dt=2026-03-18) |
-| 2026-03-04 | Canal 13 | Asfaltaron la calle y taparon los desagües | Sin URL original documentada |
+| 2026-03-04 | Canal 13 | Asfaltaron la calle y taparon los desagües | [video](https://www.youtube.com/watch?v=iUWwHhZIM3Y) |
 | 2026-03-04 | Radio Bío Bío | Ley Uber: De Grange solicita a Muñoz no publicar reglamento antes del cambio de mando | [original](https://www.biobiochile.cl/noticias/nacional/chile/2026/03/04/ley-uber-de-grange-solicita-a-munoz-no-publicar-reglamento-antes-del-cambio-de-mando.shtml) |
 | 2026-03-03 | Radio Bío Bío | Denuncian que reasfaltado de calle Bandera tapó desagües de lluvia: Serviu responde | [original](https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/03/03/denuncian-que-reasfaltado-de-calle-bandera-tapo-desagues-de-lluvia-serviu-responde.shtml) |
 | 2026-02-23 | Sabes.cl | “No está mal ubicado, solo que las condiciones del caso de Coronel no son las normales”: Experto explica ubicación de polémico paradero de la Ruta 160 | [original](https://sabes.cl/2026/02/23/no-esta-mal-ubicado-solo-que-las-condiciones-del-caso-de-coronel-no-son-las-normales-experto-explica-ubicacion-de-polemico-paradero-de-la-ruta-160/) |
 | 2026-02-20 | Radio Bío Bío | Gremios y expertos llaman a reforzar fiscalización de camiones de carga ante tragedia en Renca | [original](https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/02/20/gremios-y-expertos-llaman-a-reforzar-fiscalizacion-de-camiones-de-carga-ante-tragedia-en-renca.shtml) |
 | 2026-02-18 | Radio Bío Bío | Propuesta de futuro ministro de Transportes de vans como colectivos abre debate sobre modernización | [original](https://www.biobiochile.cl/noticias/nacional/chile/2026/02/18/propuesta-de-futuro-ministro-de-transportes-de-vans-como-colectivos-abre-debate-sobre-modernizacion.shtml) |
 | 2026-02-10 | Canal 13 | Usuario se graba abriendo puertas de vagones del Metro de Santiago | [original](https://www.t13.cl/noticia/nacional/tiktoker-peligrosa-maniobra-graba-puertas-metro-10-02-2026) |
-| 2026-02-04 | Teletrece | Buscan a ciclista que huyó tras atropellar a mujer | Sin URL original documentada |
-| 2026-01-29 | Chilevisión | Turistas sorprendidos por respeto vial | Sin URL original documentada |
-| 2026-01-28 | Chilevisión | Usuarios en alerta por intenso calor en el Metro | Sin URL original documentada |
+| 2026-02-04 | Teletrece | Buscan a ciclista que huyó tras atropellar a mujer | [video](https://www.youtube.com/watch?v=tO7NVNrAp14) |
+| 2026-01-29 | Chilevisión | Turistas sorprendidos por respeto vial | [video](https://www.youtube.com/watch?v=Qecg6VEBtqI) |
+| 2026-01-28 | Chilevisión | Usuarios en alerta por intenso calor en el Metro | [video](https://www.youtube.com/watch?v=oIzXFLzT1KE) |
 | 2026-01-18 | LUN | Diseñadora paga 30.000 por estacionar afuera de su casa y le pasaron dos partes | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=6&bodyid=0&dt=2026-01-18) |
 | 2026-01-16 | Canal 13 | Tuneladora del Metro falló y no avanzó más | [original](https://www.t13.cl/noticia/nacional/tuneladora-del-metro-santiago-fallo-no-avanzo-mas-cuanto-se-podria-atrasar-16-1-2026) |
 | 2026-01-14 | The Clinic | Expertos advierten que inauguración de línea 7 podría verse retrasada, tras término de contrato entre Metro y empresa tuneladora | [original](https://www.theclinic.cl/2026/01/14/expertos-advierten-que-inauguracion-de-linea-7-podria-verse-retrasada-tras-termino-de-contrato-entre-metro-y-empresa-tuneladora/) |
@@ -144,12 +144,12 @@ Fuente anual: [En la prensa 2025](https://blog.ariellopez.cl/en-la-prensa-2025-e
 |---|---|---|---|
 | 2025-12-27 | Chilevisión | Conductor de scooter muere tras ser colisionado por automovilista en estado de ebriedad | [video](https://www.youtube.com/watch?v=sXHqtI5C3EA) |
 | 2025-12-26 | Chilevisión | ¿Qué artículos se pueden subir a un tren? Guardias de EFE arrebatan regalo de navidad a una pasajera en el Biotren | Sin URL original documentada |
-| 2025-12-26 | Meganoticias | ¿Qué artículos se pueden subir a un tren? Guardias de EFE arrebatan regalo de navidad a una pasajera en el Biotren | Sin URL original documentada |
+| 2025-12-26 | Meganoticias | ¿Qué artículos se pueden subir a un tren? Guardias de EFE arrebatan regalo de navidad a una pasajera en el Biotren | [video](https://www.youtube.com/watch?v=lw-MUEorJZg) |
 | 2025-12-17 | Canal 13 | Denuncian aire caliente en los andenes del Metro | [video](https://www.youtube.com/watch?v=g7RCFzoM6bY) |
 | 2025-11-06 | The Clinic | Gobierno anuncia tren que unirá Ñuble y Concepción en 90 minutos y será más lento que viajar en bus: “Lo están condenando a morir antes de nacer” | [original](https://www.theclinic.cl/2025/11/06/expertos-debaten-sobre-tiempos-de-traslado-del-tren-chillan-concepcion-lo-estan-condenando-a-morir-antes-de-nacer/) |
-| 2025-11-05 | Chilevisión | Señal de tránsito que permite pasar el semáforo con luz roja ilegalmente | Sin URL original documentada |
+| 2025-11-05 | Chilevisión | Señal de tránsito que permite pasar el semáforo con luz roja ilegalmente | [video](https://www.youtube.com/watch?v=8A1s-Z9nRXw) |
 | 2025-11-02 | Canal 13 | Vuelven los buses articulados: ahora son eléctricos | [video](https://www.youtube.com/watch?v=3naViTajGPM) |
-| 2025-10-14 | Chilevisión | Metro de Santiago bajo la lupa: aumentan fallas internas | Sin URL original documentada |
+| 2025-10-14 | Chilevisión | Metro de Santiago bajo la lupa: aumentan fallas internas | [video](https://www.youtube.com/watch?v=sn5ho1ex2lU) |
 | 2025-10-13 | Chilevisión | Así es el nuevo cruce entre Vespucio y Ruta 68 | Sin URL original documentada |
 | 2025-10-13 | LUN | Nuevo enlace tipo turbina en Vespucio con Ruta 68 | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=15&SupplementId=0&dt=2025-10-13) |
 | 2025-10-11 | The Clinic | Caminantes en las vías del Metro: las querellas, millonarios costos y protocolos detrás de un fenómeno masivo que refleja la crisis de salud mental en Chile | [original](https://www.theclinic.cl/2025/10/11/caminantes-en-las-vias-del-metro-las-querellas-millonarios-costos-y-protocolos-detras-de-un-fenomeno-masivo-que-refleja-la-crisis-de-salud-mental-en-chile/) |
@@ -162,7 +162,7 @@ Fuente anual: [En la prensa 2025](https://blog.ariellopez.cl/en-la-prensa-2025-e
 | 2025-08-11 | LUN | Venezolanos que viven en Chile eligieron qué les gusta más del país: puras flores para el transporte público nacional | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=17&bodyid=0&dt=2025-08-11) |
 | 2025-08-08 | Chilevisión | Vehículos mal estacionados impiden el paso de bomberos | [video](https://www.youtube.com/watch?v=zxNVfifgpdU) |
 | 2025-08-08 | El Mercurio de Valparaíso | Proponen ciclovía por Paseo Wheelwright y avenida España | [original](https://www.mercuriovalpo.cl/impresa/2025/08/08/full/cuerpo-principal/7/) |
-| 2025-07-31 | Chilevisión | Tobalaba al límite: Acusan colapso en andén | Sin URL original documentada |
+| 2025-07-31 | Chilevisión | Tobalaba al límite: Acusan colapso en andén | [video](https://www.youtube.com/watch?v=xKTBmdeA4yA) |
 | 2025-07-28 | The Clinic | El error de diseño que condenó a la estación Tobalaba al colapso: la falla estructural en los andenes que Metro no anticipó y que sigue sin solución | [original](https://www.theclinic.cl/2025/07/28/el-error-de-diseno-que-condeno-a-la-estacion-tobalaba-al-colapso-la-falla-estructural-en-los-andenes-que-metro-no-anticipo-y-que-sigue-sin-solucion/) |
 | 2025-06-21 | The Clinic | 50 años del Metro: ¿Y si retomamos la “elegancia”? | [original](https://www.theclinic.cl/2025/06/21/50-anos-del-metro-y-si-retomamos-la-elegancia/) |
 | 2025-06-19 | El Ciudadano | Karol Cariola y las multas del TAG: Ingeniero en transporte aclara que por ley cualquier persona puede pedir una rebaja del 80% | [original](https://www.elciudadano.com/chile/karol-cariola-y-las-multas-del-tag-ingeniero-en-transporte-aclara-que-por-ley-cualquier-persona-puede-pedir-una-rebaja-del-80/06/19/) |
@@ -171,27 +171,27 @@ Fuente anual: [En la prensa 2025](https://blog.ariellopez.cl/en-la-prensa-2025-e
 | 2025-05-28 | LUN | Metro culpa a las lluvias por el caos en la Línea 1 este martes | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=2&bodyid=0&dt=2025-05-28) |
 | 2025-05-12 | LUN | Claudio Bravo increpó a conductor que lo chocó: “Bájate ahora, vení alcoholizado” | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=2&bodyid=0&dt=2025-05-12) |
 | 2025-05-07 | LUN | Ingeniero alerta de la doble contaminación de las sopladoras de hojas | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=6&bodyid=0&dt=2025-05-07) |
-| 2025-05-01 | Chilevisión | Medidas de autocuidado peatonal para prevenir accidentes | Sin URL original documentada |
-| 2025-05-01 | Chilevisión | Dos mujeres mueren atropelladas por bus Red Movilidad | Sin URL original documentada |
+| 2025-05-01 | Chilevisión | Medidas de autocuidado peatonal para prevenir accidentes | [video](https://www.youtube.com/watch?v=wo7keUXeX8k) |
+| 2025-05-01 | Chilevisión | Dos mujeres mueren atropelladas por bus Red Movilidad | [video](https://www.youtube.com/watch?v=yclmLliDe5I) |
 | 2025-04-20 | LUN | Especialistas en transportes cuestionan maniobrabilidad de los buses oruga | [original](https://www.lun.com/Pages/NewsDetail.aspx?BodyId=0&PaginaId=5&dt=2025-04-20) |
-| 2025-04-19 | Canal 13 | Quedó atrapada y fue arrastrada por la micro | Sin URL original documentada |
+| 2025-04-19 | Canal 13 | Quedó atrapada y fue arrastrada por la micro | [video](https://www.youtube.com/watch?v=dIADb_pXgx0) |
 | 2025-04-10 | Universidad de Chile | Ariel López: “El problema en Chile es que no se planifica a largo plazo” | [original](https://uchile.cl/noticias/227093/ariel-lopez-alumni-uchile-la-movilidad-es-un-derecho-social-) |
 | 2025-04-09 | LUN | Llegó la primera cabina del Teleférico Bicentenario: caben diez personas cómodamente sentadas | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=2&bodyid=0&dt=2025-04-09) |
 | 2025-04-07 | The Clinic | Falla en un neumático generó el colapso de Metro que generó caos en Santiago: especialista acusa falta de mantenimiento de los trenes | [original](https://www.theclinic.cl/2025/04/07/falla-en-un-neumatico-genero-el-colapso-de-metro-que-genero-caos-en-santiago-especialista-acusa-falta-de-mantenimiento-de-los-trenes/) |
-| 2025-04-04 | Chilevisión | Ascensores de Metro sin servicio hace un año | Sin URL original documentada |
+| 2025-04-04 | Chilevisión | Ascensores de Metro sin servicio hace un año | [video](https://www.youtube.com/watch?v=MaU_9CpTnP4) |
 | 2025-03-24 | LUN | Trifulca por cartel hechizo de baja velocidad en Peñaflor: ¿se puede solicitar tránsito lento a la municipalidad? | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=11&bodyid=0&dt=2025-03-25) |
 | 2025-03-24 | Revista Pedalea | Las mejoras que trae la nueva Guía de Diseño Vial Ciclo-Inclusivo | [original](https://revistapedalea.com/las-mejoras-que-trae-la-nueva-guia-de-diseno-vial-ciclo-inclusivo/) |
 | 2025-03-20 | LUN | Jugada polémica: micro hace añicos el techo de un paradero y deja a los pasajeros con tiritones | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=2&bodyid=0&dt=2025-03-20) |
 | 2025-03-18 | Revista Pedalea | Ciclistas de Melipilla en pie de lucha tras eliminación de ciclovía en calle Libertad | [original](https://revistapedalea.com/ciclistas-de-melipilla-en-pie-de-lucha-tras-eliminacion-de-ciclovia-en-calle-libertad/) |
-| 2025-03-12 | Chilevisión | Tarifas de saturación en autopistas urbanas | Sin URL original documentada |
+| 2025-03-12 | Chilevisión | Tarifas de saturación en autopistas urbanas | [video](https://www.youtube.com/watch?v=shWGLIKIx9g) |
 | 2025-03-11 | LUN | Ahora podrá renovar licencia de conducir en cualquier municipio | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=6&bodyid=0&dt=2025-03-11) |
 | 2025-03-08 | LUN | Caminar o no caminar | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=23&bodyid=0&dt=2025-03-08) |
 | 2025-03-03 | LUN | Cómo moverse mejor y qué considerar en el tránsito este amenazante primer lunes de marzo | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=18&bodyid=0&dt=2025-03-03) |
 | 2025-02-20 | LUN | Análisis físico-técnico al costalazo que se pegó un ciclista en el Marga Marga | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=6&bodyid=0&dt=2025-02-20) |
-| 2025-02-11 | Meganoticias | Alerta por accidentes en peajes | Sin URL original documentada |
+| 2025-02-11 | Meganoticias | Alerta por accidentes en peajes | [video](https://www.youtube.com/watch?v=GyRzst7C2Fg) |
 | 2025-01-31 | LUN | Es en 3D: debuta buscador para encontrar el último sismo ocurrido en suelo chileno | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=2&bodyid=0&dt=2025-01-31) |
 | 2025-01-18 | LUN | Greenlight, la inteligencia artificial que busca mejorar la coordinación de los semáforos en Santiago | [original](https://images.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=6&bodyid=0&dt=2025-01-18) |
-| 2025-01-09 | Radio Bío Bío | Descarrilamiento en L2 del Metro de Santiago | Sin URL original documentada |
+| 2025-01-09 | Radio Bío Bío | Descarrilamiento en L2 del Metro de Santiago | [video](https://www.youtube.com/watch?v=WNm7xF17vWo) |
 
 ### Hallazgos externos no incluidos en el blog 2025
 
@@ -214,7 +214,7 @@ Fuente anual: [En la prensa 2024](https://blog.ariellopez.cl/en-la-prensa-2024-e
 | 2024-10-03 | Consejo de Políticas de Infraestructura (CPI) | Tren Santiago-Valparaíso, por Camila Balbontín y Ariel López | [original](https://www.infraestructurapublica.cl/tren-santiago-valparaiso-por-camila-balbontin-y-ariel-lopez/) |
 | 2024-10-02 | El Mercurio de Valparaíso | Tren Santiago-Valparaíso, por Camila Balbontín y Ariel López | [original](https://www.mercuriovalpo.cl/impresa/2024/10/02/full/cuerpo-principal/8/) |
 | 2024-09-21 | LUN | Cambio de pista sin señalizar: es la segunda mayor causa de accidentes de tránsito | Sin URL original documentada |
-| 2024-09-08 | Meganoticias | Tarifa de saturación en la mira | Sin URL original documentada |
+| 2024-09-08 | Meganoticias | Tarifa de saturación en la mira | [video](https://www.youtube.com/watch?v=MDo4-dxOj_Q) |
 | 2024-09-07 | LUN | Ingeniero contabilizó todos los puntos donde hubo atropellos el 2023 | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=6&bodyid=0&dt=2024-09-07) |
 | 2024-09-03 | LUN | La historia del paso peatonal que deja a los autos machucados en Quilicura | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=4&bodyid=0&dt=2024-09-03) |
 | 2024-08-31 | LUN | Expertos analizan qué pasó con el camión sin conductor que chocó en el camino La Pólvora | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=8&bodyid=0&dt=2024-08-31) |
@@ -223,9 +223,9 @@ Fuente anual: [En la prensa 2024](https://blog.ariellopez.cl/en-la-prensa-2024-e
 | 2024-07-16 | El Mercurio | Japón construirá sistema subterráneo de transporte para carga pequeña | [original](https://digital.elmercurio.com/2024/07/16/DCST-B/NM4EVOCO) |
 | 2024-07-12 | La Tercera | Agua en las vías, ‘arcos eléctricos’ y aglomeraciones: las principales dificultades en el funcionamiento de Metro en 2024 | [original](https://www.latercera.com/nacional/noticia/agua-en-las-vias-arcos-electricos-y-aglomeraciones-las-principales-dificultades-en-el-funcionamiento-de-metro-en-2024/L2V5MBQ3R5HFNH4FGEEJQK5KUA/) |
 | 2024-07-05 | El Mercurio | Disímil balance por el fin de la reversibilidad en Av. Andrés Bello | [copia](https://www.cedeus.cl/disimil-balance-por-el-fin-de-la-reversibilidad-en-av-andres-bello/) |
-| 2024-06-29 | Mega | Continúan las filtraciones de agua en AVO por segundo año consecutivo | Sin URL original documentada |
-| 2024-06-29 | Meganoticias | Continúan las filtraciones de agua en AVO por segundo año consecutivo | Sin URL original documentada |
-| 2024-06-29 | TVN | Continúan las filtraciones de agua en AVO por segundo año consecutivo | Sin URL original documentada |
+| 2024-06-29 | Mega | Continúan las filtraciones de agua en AVO por segundo año consecutivo | [video](https://www.youtube.com/watch?v=YkNxjkA2KPQ) |
+| 2024-06-29 | Meganoticias | Continúan las filtraciones de agua en AVO por segundo año consecutivo | [video](https://www.youtube.com/watch?v=OHkdD9J4ylg) |
+| 2024-06-29 | TVN | Continúan las filtraciones de agua en AVO por segundo año consecutivo | [video](https://www.youtube.com/watch?v=ZJ1JOduGubA) |
 | 2024-06-22 | LUN | Las 38 causales de salud con que le pueden negar o reducir la licencia de conducir | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=19&bodyid=0&dt=2024-06-22) |
 | 2024-06-21 | Radio Bío Bío | Concón: autoridades informan que diámetro del socavón en Camino Internacional no ha aumentado | [original](https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2024/06/21/concon-autoridades-informan-que-diametro-del-socavon-en-camino-internacional-no-ha-aumentado.shtml) |
 | 2024-06-04 | Radio ADN | Entrevista en Radio ADN sobre ciclovías y patinetas | [original](https://adnradio.cl/audio/adn_paisadn_20240604_100000_110000/) |
@@ -240,7 +240,7 @@ Fuente anual: [En la prensa 2024](https://blog.ariellopez.cl/en-la-prensa-2024-e
 | 2024-04-04 | Radio Futuro | Circuló contra el tránsito y me agrede por decírselo | [original](https://www.futuro.cl/2024/04/te-voy-a-hacer-mierda-el-auto-tengo-cancer-mujer-que-iba-contra-el-transito-pierde-el-control-y-arremete-contra-un-conductor/) |
 | 2024-04-04 | Radio Imagina | Circuló contra el tránsito y me agrede por decírselo | [original](https://www.radioimagina.cl/2024/04/tengo-cancer-crisis-de-asma-y-me-estai-hue-la-insolita-explicacion-de-mujer-que-iba-contra-el-transito-y-que-termino-con-la-agresion-hacia-un-conductor/) |
 | 2024-04-04 | Radio Pudahuel | Circuló contra el tránsito y me agrede por decírselo | [original](https://www.pudahuel.cl/videos/2024/04/dia-de-furia-mujer-que-iba-en-contra-del-transito-se-hace-viral-tras-agredir-a-otro-conductor-no-me-interesa-romper-el-auto-tengo-cancer-y-me-estai-hue/) |
-| 2024-03-17 | Radio ADN | Buses de 2 pisos operan en Santiago hace más de una década | Sin URL original documentada |
+| 2024-03-17 | Radio ADN | Buses de 2 pisos operan en Santiago hace más de una década | [video](https://www.youtube.com/watch?v=_Vx1l5C178M) |
 | 2024-03-15 | La Tercera | ¿Dónde están los buses de dos pisos?: la razón detrás de la desaparición de la novedad de los Panamericanos | [original](https://www.latercera.com/la-tercera-pm/noticia/donde-estan-los-buses-de-dos-pisos-la-razon-detras-de-por-que-las-maquinas-desaparecieron-de-las-calles-de-santiago/ZI6STNNZFJFFJLZGTD65ZPIMWY/) |
 | 2024-03-13 | La Cuarta | Pudo evitarse: el análisis de un ingeniero en transporte por escolar que falleció atropellada | [original](https://www.lacuarta.com/cronica/noticia/pudo-evitarse-el-analisis-de-un-ingeniero-en-transporte-por-escolar-que-fallecio-atropellada/AJIHLGIP4ZG7RHYAR5DQFYYREA/) |
 | 2024-02-03 | LUN | Comienzan desvíos por la construcción de AVO2: Durarán 4 años y 10 meses | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=2&bodyid=0&dt=2024-02-03) |
@@ -254,18 +254,18 @@ Fuente anual: [En la prensa 2023](https://blog.ariellopez.cl/en-la-prensa-e39e77
 |---|---|---|---|
 | 2023-11-23 | La Tercera | Demanda colectiva, filtraciones y pavimento deformado: los problemas interminables de AVO 1 | [original](https://www.latercera.com/la-tercera-pm/noticia/demanda-colectiva-filtraciones-y-pavimento-deformado-los-problemas-intermibables-de-avo-1/CQUIO6GRJNGB3PREM7LMDR77KI/) |
 | 2023-10-15 | El Ciudadano | ¿Es mejor colocarse a la derecha o a ambos lados de las escaleras mecánicas del Metro?: Investigadores chilenos tienen la respuesta | [original](https://www.elciudadano.com/ciencia-tecnologia/es-mejor-colocarse-a-la-derecha-o-a-ambos-lados-de-las-escaleras-mecanicas-del-metro-investigadores-chilenos-tienen-la-respuesta/10/15/) |
-| 2023-10-04 | TVN | Las dudas que salpican a la concesionaria | Sin URL original documentada |
+| 2023-10-04 | TVN | Las dudas que salpican a la concesionaria | [video](https://www.youtube.com/watch?v=zxLaFZoc9kQ) |
 | 2023-10-02 | Canal 13 | Autopista está fuera de norma | Sin URL original documentada |
 | 2023-09-29 | TVN / 24 Horas | Tramo de AVO afectado por filtraciones de agua se mantendrá cerrado | [original](https://www.24horas.cl/programas/manana-informativa/experto-reparacion-avo-problemas-agua-norma-mop) |
 | 2023-09-28 | Canal 13 | Ordenan cierre de tramo de AVO | [original](https://www.t13.cl/noticia/nacional/ingeniero-filtraciones-vespucio-oriente-tunel-no-cumpliendo-normas-mop-29-9-2023) |
 | 2023-09-28 | Canal 13 | Cierran salida en AVO por riesgos para usuarios | [video](https://www.t13.cl/videos/nacional/cierran-salida-avo-por-riesgos-para-usuarios-por-ahora-no-habra-rebajas-costos-28-9-2023) |
-| 2023-09-28 | Canal 13 | Filtraciones en Autopista Vespucio Oriente | Sin URL original documentada |
+| 2023-09-28 | Canal 13 | Filtraciones en Autopista Vespucio Oriente | [video](https://www.youtube.com/watch?v=Ok277EqeA64) |
 | 2023-09-28 | LUN | Concesionaria debió cerrar un acceso, Autopista AVO recomienda manejar a 50 km/h en zonas con filtraciones | Sin URL original documentada |
 | 2023-09-28 | Radio Bío Bío | “Debió no haberse construido”: Experto explica acumulación de agua en Autopista Vespucio Oriente | [original](https://www.biobiochile.cl/biobiotv/programas/expreso-bio-bio/2023/09/28/debio-no-haberse-construido-experto-explica-acumulacion-de-agua-en-autopista-vespucio-oriente.shtml) |
 | 2023-09-27 | El Mercurio | Tren de levitación magnética: Nuevo maglev chino alcanza los 600 km/h | Sin URL original documentada |
 | 2023-09-18 | Canal 13 | AVO, especialistas advirtieron que no cumplía exigencias | Sin URL original documentada |
-| 2023-09-13 | Chilevisión | Por mal estado de las vías, motoristas en riesgo | Sin URL original documentada |
-| 2023-09-11 | Chilevisión | Mujer herida tras disparo a Metrotren Nos | Sin URL original documentada |
+| 2023-09-13 | Chilevisión | Por mal estado de las vías, motoristas en riesgo | [video](https://www.youtube.com/watch?v=57tCgT5581w) |
+| 2023-09-11 | Chilevisión | Mujer herida tras disparo a Metrotren Nos | [video](https://www.youtube.com/watch?v=x3vWbpOWQ18) |
 | 2023-09-06 | El Mercurio / Emol | Fin de la reversibilidad de la Costanera Andrés Bello: Los profundos cambios en Santiago que gatillaron la histórica medida | [original](https://www.emol.com/noticias/Nacional/2023/09/06/1106403/andres-bellocardenal-reversibilidad.html) |
 | 2023-09-06 | LUN | Impactantes videos de conductores que no respetan los cruces ferroviarios | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=6&bodyid=0&dt=2023-09-06) |
 | 2023-07-16 | Revista Pedalea | Bicicletas eléctricas: todo lo que debes saber sobre esta tendencia al alza | [original](https://revistapedalea.com/bicicletas-electricas-todo-lo-que-debes-saber-sobre-esta-tendencia-al-alza/) |
