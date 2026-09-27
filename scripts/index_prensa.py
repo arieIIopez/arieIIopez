@@ -25,7 +25,7 @@ REQUIRED_FIELDS = {
 }
 EXPECTED_CURATED = {2026:88, 2025:50, 2024:36, 2023:30, 2022:24, 2021:14, 2020:46}
 RECONSTRUCTED_MINIMUM = {}
-EXTERNAL_MINIMUM = {2022:6, 2021:5}
+EXTERNAL_MINIMUM = {2025:1, 2022:6, 2021:5}
 ALLOWED_CATEGORIES = {"entrevista","cobertura","columna_opinion"}
 ALLOWED_STATES = {"curado","reconstruido","hallazgo_externo"}
 
