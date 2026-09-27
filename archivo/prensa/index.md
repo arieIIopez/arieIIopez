@@ -8,7 +8,7 @@ Este archivo está deliberadamente separado del README del perfil. La unidad de 
 
 | Año | Registros indexados | Registros declarados en la fuente | Estado |
 |---:|---:|---:|---|
-| 2026 | 88 | 88 | Completo |
+| 2026 | 90 | 89 | Completo en blog + 1 hallazgo externo |
 | 2025 | 51 | 50 | Completo en blog + 1 hallazgo externo |
 | 2024 | 36 | 36 | Completo |
 | 2023 | 30 | 30 | Completo |
@@ -16,7 +16,7 @@ Este archivo está deliberadamente separado del README del perfil. La unidad de 
 | 2021 | 19 | 14 | Completo en blog + 5 hallazgos externos |
 | 2020 | 46 | 46 | Completo |
 
-**Total registrado: 300 apariciones (288 documentadas y curadas desde los índices del blog + 12 hallazgos externos).**
+**Total registrado: 302 apariciones (289 documentadas y curadas desde los índices del blog + 13 hallazgos externos).**
 
 Los años 2021 y 2022 inicialmente no podían verificarse de forma exhaustiva porque Medium no exponía el cuerpo de esas páginas. Posteriormente fueron reconciliados contra copias Markdown suministradas por el autor. Las apariciones verificadas que no figuran en el índice anual se conservan por separado como `hallazgo_externo`, sin alterar el conteo original del blog.
 
@@ -32,30 +32,31 @@ Los años 2021 y 2022 inicialmente no podían verificarse de forma exhaustiva po
 
 ## 2026
 
-Fuente anual: [En la prensa 2026](https://blog.ariellopez.cl/en-la-prensa-2026-ab565e1372b4).
+Fuente anual: [En la prensa 2026](https://blog.ariellopez.cl/en-la-prensa-2026-ab565e1372b4). El contenido fue reconciliado contra una copia de texto suministrada por el autor: 89/89 apariciones efectivas.
 
 | Fecha | Medio | Título | Enlace |
 |---|---|---|---|
-| 2026-09-21 | Canal 13 | Menos días, pero más muertes en accidentes de tránsito durante las Fiestas Patrias | Sin URL original documentada |
+| 2026-09-23 | Chilevisión | Lanzan plan piloto de agentes anti evasión | Sin URL original/video verificable |
+| 2026-09-21 | Canal 13 | Menos días, pero más muertes en accidentes de tránsito durante las Fiestas Patrias | [video](https://www.t13.cl/videos/nacional/balance-fiestas-patrias-menos-dias-pero-mas-muertes-accidentes-21-9-2026) |
 | 2026-09-21 | Chilevisión | Agentes antievasión deberán validar su utilidad | Sin URL original documentada |
 | 2026-09-20 | Canal 13 | Gobierno negocia con concesionarias para bajar el TAG | Sin URL original documentada |
 | 2026-09-08 | La Tercera | De Grange promete seguir impulsando la electromovilidad en cuenta pública del MTT y expertos cuestionan sus anuncios | [original](https://www.latercera.com/nacional/noticia/de-grange-promete-seguir-impulsando-la-electromovilidad-en-cuenta-publica-del-mtt-y-expertos-cuestionan-sus-anuncios/) |
 | 2026-09-03 | Canal 13 | ¿Se pudo evitar la tragedia del Metro? | Sin URL original documentada |
 | 2026-09-02 | Chilevisión | Conflicto sobre ruedas merece más de una vuelta | Sin URL original documentada |
 | 2026-08-23 | Chilevisión | Algunas estaciones llevan meses sin ascensor | Sin URL original documentada |
-| 2026-08-20 | Canal 13 | Quedó atrapada en puerta y micro la arrolló | Sin URL original documentada |
+| 2026-08-20 | Canal 13 | Quedó atrapada en puerta y micro la arrolló | [video](https://www.t13.cl/videos/nacional/adulta-mayor-quedo-atrapada-puerta-micro-arrollo-quilicura-20-8-2026) |
 | 2026-08-14 | La Tercera | A 40 años de la restricción vehicular en Chile: 2026 registra 116 mil citaciones por circular en días indebidos | [original](https://www.latercera.com/nacional/noticia/a-40-anos-de-la-restriccion-vehicular-en-chile-2026-registra-116-mil-citaciones-por-circular-en-dias-indebidos/) |
 | 2026-08-04 | El Mercurio | Fallas en trenes más antiguos del Metro hacen crecer dudas sobre su vida útil y mantención | Sin URL original documentada |
 | 2026-08-02 | Revista Pedalea | ¿Qué construir primero? EVA: la herramienta que pone orden al rompecabezas de 820 km. | [original](https://revistapedalea.com/que-construir-primero-eva-la-herramienta-que-pone-orden-al-rompecabezas-de-820-km/) |
 | 2026-08-01 | The Clinic | El incendio que expuso la otra deuda del Metro: la encapsulada sustancia prohibida que nunca salió de sus trenes más antiguos | [original](https://www.theclinic.cl/2026/08/01/el-incendio-que-expuso-la-otra-deuda-del-metro-la-sustancia-prohibida-que-nunca-salio-de-sus-trenes-mas-antiguos/) |
 | 2026-07-31 | El Dínamo | ¿Falla más que antes el Metro de Santiago? Las cifras y lo que hay detrás de los incidentes que afectan a miles de usuarios | [original](https://www.eldinamo.cl/pais/2026/08/01/falla-mas-que-antes-el-metro-de-santiago-las-cifras-y-lo-que-hay-detras-de-los-incidentes-que-afectan-a-miles-de-usuarios/) |
-| 2026-07-29 | CNN Chile | Incendio en Metro abre debate sobre renovación de trenes | Sin URL original documentada |
+| 2026-07-29 | CNN Chile | Incendio en Metro abre debate sobre renovación de trenes | [video](https://www.youtube.com/watch?v=62EmAiDJwak) |
 | 2026-07-29 | La Tercera | Línea de transmisión: el proyecto eléctrico que tendrá a la Avenida Andrés Bello con cortes de tránsito por más de un año | [original](https://www.latercera.com/nacional/noticia/linea-de-transmision-el-proyecto-electrico-que-tendra-a-la-avenida-andres-bello-con-cortes-de-transito-por-mas-de-un-ano/) |
 | 2026-07-28 | Canal 13 | ¿Qué provocó el incendio en el Metro? | Sin URL original documentada |
 | 2026-07-28 | Latamobility | Chile: Restricciones presupuestarias impulsan la reconversión de buses como alternativa al modelo tradicional de renovación de flotas | [original](https://latamobility.com/chilea-reconversion-buses-alternativa-flotas/) |
 | 2026-06-24 | Radio Bío Bío | ¿Prohibir scooter en Chile como se hizo en España? | Sin URL original documentada |
 | 2026-06-23 | Experiencia Tech | El desafío de una movilidad inteligente | Sin URL original documentada |
-| 2026-06-22 | Canal 13 | Manejó a 264 km/h y quedó en libertad | Sin URL original documentada |
+| 2026-06-22 | Canal 13 | Manejó a 264 km/h y quedó en libertad | [video](https://www.t13.cl/videos/nacional/tiene-antecedentes-pestado-ebriedad-desde-2009-hombre-manejo-264-km-quedo-libre-22-6-2026) |
 | 2026-06-12 | Radio 13C | Contraloría rechazó las modificaciones a la Ley Uber propuestas por el ministro de transportes | Sin URL original documentada |
 | 2026-06-10 | TVN | ¿Hay menos frecuencia de buses en Santiago? | [original](https://www.tvn.cl/programas/buenos-dias-a-todos/actualidad/experto-en-transporte-explica-las-razones-de-la-aparente-baja-en-frecuencia-video) |
 | 2026-06-08 | Contrapoder | Registro del Congreso revela que exdiputado y actual director nacional de Migraciones gastó casi $10 millones en combustible | [original](https://contrapoderchile.cl/registro-del-congreso-revela-que-exdiputado-y-actual-director-nacional-de-migraciones-gasto-casi-10-millones-en-combustible/) |
@@ -72,12 +73,12 @@ Fuente anual: [En la prensa 2026](https://blog.ariellopez.cl/en-la-prensa-2026-a
 | 2026-05-17 | El Desconcierto | Experto revela recortes en micros y fallas ocultas en metro | Sin URL original documentada |
 | 2026-05-15 | Radio La Metro | La accesibilidad no se mide en porcentajes de dispositivos dañados, porque un ascensor es parte de una trayectoria, un ascensor dañado corta el trayecto completo | Sin URL original documentada |
 | 2026-05-15 | The Clinic | Recorte de más de $56 mil millones en Transporte enciende alertas por posibles impactos en buses regionales y electromovilidad | [original](https://www.theclinic.cl/2026/05/15/recorte-de-mas-de-56-mil-millones-en-transporte-enciende-alertas-por-posibles-impactos-en-buses-regionales-y-electromovilidad/) |
-| 2026-05-15 | TVN | Metro: récord de escaleras mecánicas y ascensores malos | Sin URL original documentada |
+| 2026-05-15 | TVN | Metro: récord de escaleras mecánicas y ascensores malos | [video](https://www.tvn.cl/programas/buenos-dias-a-todos/actualidad/record-de-escaleras-mecanicas-y-ascensores-malos-en-estaciones-del-metro-video) |
 | 2026-05-13 | Radio ADN | Aumento de flujo y de fallas en el Metro de Santiago | Sin URL original documentada |
 | 2026-05-13 | Radio Bío Bío | Metro reconoce aumento en problemas con ascensores y escaleras mecánicas y anuncia más técnicos | [original](https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/05/13/metro-reconoce-aumento-en-problemas-con-ascensores-y-escaleras-mecanicas-y-anuncia-mas-tecnicos.shtml) |
 | 2026-05-13 | Radio Bío Bío | Aumentan las fallas de escaleras y ascensores en el Metro de Santiago | Sin URL original documentada |
 | 2026-05-12 | Chilevisión | Metro, reportan récord de fallas en abril | Sin URL original documentada |
-| 2026-05-12 | Doble Espacio | No hay menos buses, pero hay más pasajeros: el alza del combustible golpea al transporte público | Sin URL original documentada |
+| 2026-05-12 | Doble Espacio | No hay menos buses, pero hay más pasajeros: el alza del combustible golpea al transporte público | [original](https://doble-espacio.uchile.cl/golpea-al-transporte-publico-buses-red/) |
 | 2026-05-12 | Mega | 1 de cada 3 estaciones del Metro de Santiago presenta falla | Sin URL original documentada |
 | 2026-05-12 | Meganoticias | Récord de fallas en estaciones de Metro | Sin URL original documentada |
 | 2026-05-11 | CNN Chile | Reportan cifra récord de escaleras mecánicas y ascensores dañados en el Metro de Santiago: Línea 5 es la más afectada | [original](https://www.cnnchile.com/pais/reportan-cifra-record-de-escaleras-mecanicas-y-ascensores-danados-en-el-metro-de-santiago-linea-5-es-la-mas-afectada/) |
@@ -87,10 +88,10 @@ Fuente anual: [En la prensa 2026](https://blog.ariellopez.cl/en-la-prensa-2026-a
 | 2026-05-08 | LUN | Pedro Carcuro aclara agresión en Uber: “Me da miedo que les pueda pasar a otras personas” | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=14&bodyid=0&dt=2026-05-08) |
 | 2026-05-07 | Fast Check | Ariel López, experto en transporte público: “Tenemos empresas que sacan menos buses de los que deberían sacar” | Sin URL original documentada |
 | 2026-05-06 | Canal 13 | Hay menos micros y el Metro está más lleno? | Sin URL original documentada |
-| 2026-05-06 | La Tercera | El desafío hoy es el déficit habitaciona: las ciclovías pasan al fondo de las prioridades para el gobierno de Kast | Sin URL original documentada |
+| 2026-05-06 | La Tercera | El desafío hoy es el déficit habitaciona: las ciclovías pasan al fondo de las prioridades para el gobierno de Kast | [original](https://www.latercera.com/nacional/noticia/el-desafio-hoy-es-el-deficit-habitacional-como-las-ciclovias-pasaron-al-fondo-de-las-prioridades-para-el-gobierno-de-kast/) |
 | 2026-05-04 | Radio ADN | Aumento de flujo de pasajeros en el transporte público tras el aumento del precio de los combustibles | Sin URL original documentada |
 | 2026-05-01 | Canal 13 | Gobierno ajusta sistema de transporte | Sin URL original documentada |
-| 2026-04-30 | Teletrece | Fallas en escaleras mecánicas y ascensores del Metro | Sin URL original documentada |
+| 2026-04-30 | Teletrece | Fallas en escaleras mecánicas y ascensores del Metro | [video](https://www.t13.cl/videos/nacional/fallas-mecanicas-escaleras-ascensores-metro-30-04-2026) |
 | 2026-04-29 | Chilevisión | Mayor falla de escaleras mecánicas en un año | Sin URL original documentada |
 | 2026-04-29 | El Desconcierto | Metro de Santiago y sus problemas de accesibilidad: denuncian récord de escaleras mecánicas y ascensores malos | [original](https://eldesconcierto.cl/actualidad/metro-santiago-y-sus-problemas-accesibilidad-denuncian-record-escaleras-mecanicas-ascensores-malos-n5458447?utm_medium=Social&utm_source=Twitter&utm_term=Autofeed) |
 | 2026-04-28 | Radio Bío Bío | Reglamento de apps de transporte divide opinión de expertos mientras taxis acusan competencia desigual | [original](https://www.biobiochile.cl/noticias/nacional/chile/2026/04/28/ley-uber-reglamento-de-apps-de-transporte-divide-opiniones-taxis-acusan-desregulacion-y-competencia-desigual.shtml) |
@@ -115,15 +116,25 @@ Fuente anual: [En la prensa 2026](https://blog.ariellopez.cl/en-la-prensa-2026-a
 | 2026-02-23 | Sabes.cl | “No está mal ubicado, solo que las condiciones del caso de Coronel no son las normales”: Experto explica ubicación de polémico paradero de la Ruta 160 | [original](https://sabes.cl/2026/02/23/no-esta-mal-ubicado-solo-que-las-condiciones-del-caso-de-coronel-no-son-las-normales-experto-explica-ubicacion-de-polemico-paradero-de-la-ruta-160/) |
 | 2026-02-20 | Radio Bío Bío | Gremios y expertos llaman a reforzar fiscalización de camiones de carga ante tragedia en Renca | [original](https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/02/20/gremios-y-expertos-llaman-a-reforzar-fiscalizacion-de-camiones-de-carga-ante-tragedia-en-renca.shtml) |
 | 2026-02-18 | Radio Bío Bío | Propuesta de futuro ministro de Transportes de vans como colectivos abre debate sobre modernización | [original](https://www.biobiochile.cl/noticias/nacional/chile/2026/02/18/propuesta-de-futuro-ministro-de-transportes-de-vans-como-colectivos-abre-debate-sobre-modernizacion.shtml) |
-| 2026-02-10 | Canal 13 | Usuario se graba abriendo puertas de vagones del Metro de Santiago | Sin URL original documentada |
+| 2026-02-10 | Canal 13 | Usuario se graba abriendo puertas de vagones del Metro de Santiago | [original](https://www.t13.cl/noticia/nacional/tiktoker-peligrosa-maniobra-graba-puertas-metro-10-02-2026) |
 | 2026-02-04 | Teletrece | Buscan a ciclista que huyó tras atropellar a mujer | Sin URL original documentada |
 | 2026-01-29 | Chilevisión | Turistas sorprendidos por respeto vial | Sin URL original documentada |
 | 2026-01-28 | Chilevisión | Usuarios en alerta por intenso calor en el Metro | Sin URL original documentada |
 | 2026-01-18 | LUN | Diseñadora paga 30.000 por estacionar afuera de su casa y le pasaron dos partes | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=6&bodyid=0&dt=2026-01-18) |
-| 2026-01-16 | Canal 13 | Tuneladora del Metro falló y no avanzó más | Sin URL original documentada |
+| 2026-01-16 | Canal 13 | Tuneladora del Metro falló y no avanzó más | [original](https://www.t13.cl/noticia/nacional/tuneladora-del-metro-santiago-fallo-no-avanzo-mas-cuanto-se-podria-atrasar-16-1-2026) |
 | 2026-01-14 | The Clinic | Expertos advierten que inauguración de línea 7 podría verse retrasada, tras término de contrato entre Metro y empresa tuneladora | [original](https://www.theclinic.cl/2026/01/14/expertos-advierten-que-inauguracion-de-linea-7-podria-verse-retrasada-tras-termino-de-contrato-entre-metro-y-empresa-tuneladora/) |
 | 2026-01-07 | LUN | ¿Cierto que es un placer andr por las cajjes despejadas durante el verano en Santiago? | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=2&bodyid=0&dt=2026-01-07) |
 | 2026-01-05 | Radio Bío Bío | Kusanovic ve inviable aplicar “Ley Uber” antes del término del actual gobierno y cuestiona su sentido | [original](https://www.biobiochile.cl/noticias/nacional/chile/2026/01/05/kusanovic-ve-inviable-aplicar-la-ley-uber-antes-de-marzo-y-cuestiona-su-sentido.shtml) |
+
+### Hallazgos externos no incluidos en el blog 2026
+
+Esta aparición se encontró mediante búsqueda externa y no figura entre las 89 entradas de la copia suministrada por el autor. Se conserva por separado para ampliar el archivo sin alterar el inventario original del blog.
+
+| Fecha | Medio | Título | Enlace |
+|---|---|---|---|
+| 2026-07-29 | The Clinic | “Por reacciones inflamatorias”: Médico asegura que personas expuestas a humo con asbesto tras incendio de Metro deben quedar en seguimiento | [original](https://www.theclinic.cl/2026/07/29/por-reacciones-inflamatorias-medico-asegura-que-personas-expuestas-a-humo-con-asbesto-de-metro-deben-quedar-en-seguimiento/) |
+
+> Estado: 2026 queda cerrado respecto del índice entregado (89/89 apariciones). El hallazgo externo se etiqueta como `hallazgo_externo`.
 
 ## 2025
 
@@ -416,4 +427,4 @@ Fuente anual: [En la prensa 2020](https://blog.ariellopez.cl/en-la-prensa-2020-e
 
 El catálogo distingue el registro documental de la interpretación. En particular, algunos años contienen errores tipográficos de fecha o títulos, y algunos encabezados reúnen varias coberturas. Esos casos se normalizan sin ocultarlos: la versión CSV conserva una columna `nota` para documentar la decisión.
 
-La actualización automática desde Medium quedó desactivada porque los runners de GitHub reciben respuestas 403. El workflow sólo valida el catálogo. Los años 2021, 2022, 2023, 2024 y 2025 fueron reconciliados contra copias Markdown aportadas por el autor. El estado `hallazgo_externo` identifica apariciones verificadas que no figuran en el índice anual del blog.
+La actualización automática desde Medium quedó desactivada porque los runners de GitHub reciben respuestas 403. El workflow sólo valida el catálogo. Los años 2021, 2022, 2023, 2024, 2025 y 2026 fueron reconciliados contra copias de texto/Markdown aportadas por el autor. El estado `hallazgo_externo` identifica apariciones verificadas que no figuran en el índice anual del blog.
