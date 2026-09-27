@@ -8,7 +8,7 @@ Este archivo está deliberadamente separado del README del perfil. La unidad de 
 
 | Año | Registros indexados | Registros declarados en la fuente | Estado |
 |---:|---:|---:|---|
-| 2026 | 90 | 89 | Completo en blog + 1 hallazgo externo |
+| 2026 | 92 | 89 | Completo en blog + 3 hallazgos externos |
 | 2025 | 51 | 50 | Completo en blog + 1 hallazgo externo |
 | 2024 | 37 | 36 | Completo en blog + 1 hallazgo externo |
 | 2023 | 30 | 30 | Completo |
@@ -16,7 +16,7 @@ Este archivo está deliberadamente separado del README del perfil. La unidad de 
 | 2021 | 19 | 14 | Completo en blog + 5 hallazgos externos |
 | 2020 | 46 | 46 | Completo |
 
-**Total registrado: 303 apariciones (289 documentadas y curadas desde los índices del blog + 14 hallazgos externos).**
+**Total registrado: 305 apariciones (289 documentadas y curadas desde los índices del blog + 16 hallazgos externos).**
 
 Los años 2021 y 2022 inicialmente no podían verificarse de forma exhaustiva porque Medium no exponía el cuerpo de esas páginas. Posteriormente fueron reconciliados contra copias Markdown suministradas por el autor. Las apariciones verificadas que no figuran en el índice anual se conservan por separado como `hallazgo_externo`, sin alterar el conteo original del blog.
 
@@ -55,6 +55,7 @@ Fuente anual: [En la prensa 2026](https://blog.ariellopez.cl/en-la-prensa-2026-a
 | 2026-09-21 | Canal 13 | Menos días, pero más muertes en accidentes de tránsito durante las Fiestas Patrias | [video](https://www.t13.cl/videos/nacional/balance-fiestas-patrias-menos-dias-pero-mas-muertes-accidentes-21-9-2026) |
 | 2026-09-21 | Chilevisión | Agentes antievasión deberán validar su utilidad | [video](https://www.youtube.com/watch?v=VabJoemqkmQ) |
 | 2026-09-20 | Canal 13 | Gobierno negocia con concesionarias para bajar el TAG | [video](https://www.youtube.com/watch?v=qFsSvMTg-n0) |
+| 2026-09-04 | T13 | “Aquí eso no se hizo”: Experto expone deficiencia del Metro que propició muerte de pasajero en estación Pajaritos | [original](https://www.t13.cl/amp/noticia/nacional/aqui-eso-no-se-hizo-experto-expone-deficiencia-del-metro-propicio-muerte-4-9-2026) |
 | 2026-09-08 | La Tercera | De Grange promete seguir impulsando la electromovilidad en cuenta pública del MTT y expertos cuestionan sus anuncios | [original](https://www.latercera.com/nacional/noticia/de-grange-promete-seguir-impulsando-la-electromovilidad-en-cuenta-publica-del-mtt-y-expertos-cuestionan-sus-anuncios/) |
 | 2026-09-03 | Canal 13 | ¿Se pudo evitar la tragedia del Metro? | [video](https://www.youtube.com/watch?v=98e0AedpRQo) |
 | 2026-09-02 | Chilevisión | Conflicto sobre ruedas merece más de una vuelta | [video](https://www.youtube.com/watch?v=9uX5UyUwJnU) |
@@ -78,6 +79,7 @@ Fuente anual: [En la prensa 2026](https://blog.ariellopez.cl/en-la-prensa-2026-a
 | 2026-06-05 | La Tercera | Grandes filas y aglomeraciones en horario peak: ¿por qué Metro tiene pocas boleterías habilitadas? | [original](https://www.latercera.com/nacional/noticia/grandes-filas-y-aglomeraciones-en-horario-peak-por-que-metro-tiene-pocas-boleterias-habilitadas/) |
 | 2026-06-03 | Turno | ¿Ha bajado la frecuencia de las micros? | [video](https://www.youtube.com/watch?v=ZaK4vA_PBaU) |
 | 2026-06-02 | Canal 13 | Tacos eternos, la pesadilla de Chicureo | [video](https://www.youtube.com/watch?v=Gq86xSXwfds) |
+| 2026-06-01 | T13 | No podrán sacar pasaporte ni entrar a estadios: las nuevas sanciones para quienes evadan el transporte público | [original](https://www.t13.cl/noticia/nacional/no-podran-sacar-pasaporte-ni-entrar-estadios-las-nuevas-sanciones-para-quienes-1-6-2026) |
 | 2026-06-01 | Publimetro | Endurecen sanciones contra quienes evadan el transporte público: infractores arriesgan perder acceso a pasaporte y estadios | [original](https://www.publimetro.cl/noticias/2026/06/01/endurecen-sanciones-contra-quienes-evadan-el-transporte-publico-infractores-arriesgan-perder-acceso-a-pasaporte-y-estadios/) |
 | 2026-05-31 | Chilevisión | Evasiones: Contraloría aprueba duras sanciones | [video](https://www.youtube.com/watch?v=hVc75yWFvW8) |
 | 2026-05-29 | El Desconcierto | Ministerio de Transportes en el dardo del gobierno para posible fusión de cartera con Obras Públicas | [original](https://eldesconcierto.cl/actualidad/ministerio-transportes-el-dardo-del-gobierno-posible-fusion-cartera-obras-publicas-n5459191) |
