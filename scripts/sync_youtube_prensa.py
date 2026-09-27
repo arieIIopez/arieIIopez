@@ -31,6 +31,7 @@ PLAYLIST_URL = "https://www.youtube.com/playlist?list=PLAzCbyGKyDPBSXrZb5NctMaQw
 # Mapeos revisados manualmente a partir del título del video, el medio y el registro
 # anual ya documentado. Sólo se aplican si la fila de prensa aún no tiene enlace.
 MANUAL_VIDEO_MAP = {
+    ("2024-07-31","Radio Pauta","Una ley ambigua y falta de educación vial: los desafíos ante el creciente uso de scooters en Santiago"): "_Y-C4mD8yJA",
     ("2026-06-23","Experiencia Tech","El desafío de una movilidad inteligente"): "qiSEBsXfSZM",
     ("2026-06-03","Turno","¿Ha bajado la frecuencia de las micros?"): "ZaK4vA_PBaU",
     ("2026-05-31","Chilevisión","Evasiones: Contraloría aprueba duras sanciones"): "hVc75yWFvW8",
