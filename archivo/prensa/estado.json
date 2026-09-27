@@ -1,15 +1,15 @@
 {
   "updated_at": "2026-09-26",
   "methodology": "curated_annual_pages_plus_author_markdown_plus_external_discoveries",
-  "total_records": 302,
+  "total_records": 303,
   "total_curated": 289,
-  "total_external_discoveries": 13,
+  "total_external_discoveries": 14,
   "counts_by_year": {
     "2020": 46,
     "2021": 19,
     "2022": 30,
     "2023": 30,
-    "2024": 36,
+    "2024": 37,
     "2025": 51,
     "2026": 90
   },
@@ -34,6 +34,7 @@
   "external_discoveries_by_year": {
     "2021": 5,
     "2022": 6,
+    "2024": 1,
     "2025": 1,
     "2026": 1
   },
@@ -48,7 +49,17 @@
     2021
   ],
   "notes_2023": "30/30 apariciones reconciliadas contra copia Markdown del autor; se recuperaron enlaces adicionales, incluidos dos videos exactos de YouTube.",
-  "notes_2024": "36/36 apariciones efectivas reconciliadas contra copia Markdown del autor. Algunos encabezados agrupan múltiples medios (3 coberturas de AVO y 8 coberturas del episodio vial del 4 de abril). Se recuperaron el audio original de Radio ADN y una copia institucional CEDEUS para El Mercurio.",
+  "notes_2024": "36/36 apariciones efectivas reconciliadas contra copia Markdown del autor. Algunos encabezados agrupan múltiples medios (3 coberturas de AVO y 8 coberturas del episodio vial del 4 de abril). Se recuperaron el audio original de Radio ADN y una copia institucional CEDEUS para El Mercurio. Se añadió como hallazgo externo una entrevista de Radio Pauta del 31-07-2024 sobre scooters, confirmada por la publicación original y la playlist propia.",
   "notes_2025": "50/50 apariciones efectivas reconciliadas contra copia Markdown del autor. Se recuperaron cuatro videos exactos para registros audiovisuales sin URL original y se añadió un hallazgo externo de The Clinic del 09-06-2025 sobre accesibilidad del Metro.",
-  "notes_2026": "89/89 apariciones efectivas reconciliadas contra copia de texto suministrada por el autor. Se incorporó la entrada del 23-09-2026, se recuperaron diez enlaces originales/audiovisuales y se añadió un hallazgo externo de The Clinic del 29-07-2026."
+  "notes_2026": "89/89 apariciones efectivas reconciliadas contra copia de texto suministrada por el autor. Se incorporó la entrada del 23-09-2026, se recuperaron diez enlaces originales/audiovisuales y se añadió un hallazgo externo de The Clinic del 29-07-2026.",
+  "youtube_playlist": {
+    "url": "https://www.youtube.com/playlist?list=PLAzCbyGKyDPBSXrZb5NctMaQwpZPmpUMG",
+    "videos_enumerated": 105,
+    "linked_records": 63,
+    "remaining_records_without_link": 50,
+    "inventory": "archivo/prensa/youtube_playlist.csv",
+    "report": "archivo/prensa/youtube_match_report.md",
+    "sync_script": "scripts/sync_youtube_prensa.py",
+    "workflow": ".github/workflows/sync-youtube-prensa.yml"
+  }
 }
