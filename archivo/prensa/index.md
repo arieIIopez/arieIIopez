@@ -10,13 +10,13 @@ Este archivo está deliberadamente separado del README del perfil. La unidad de 
 |---:|---:|---:|---|
 | 2026 | 90 | 89 | Completo en blog + 1 hallazgo externo |
 | 2025 | 51 | 50 | Completo en blog + 1 hallazgo externo |
-| 2024 | 36 | 36 | Completo |
+| 2024 | 37 | 36 | Completo en blog + 1 hallazgo externo |
 | 2023 | 30 | 30 | Completo |
 | 2022 | 30 | 24 | Completo en blog + 6 hallazgos externos |
 | 2021 | 19 | 14 | Completo en blog + 5 hallazgos externos |
 | 2020 | 46 | 46 | Completo |
 
-**Total registrado: 302 apariciones (289 documentadas y curadas desde los índices del blog + 13 hallazgos externos).**
+**Total registrado: 303 apariciones (289 documentadas y curadas desde los índices del blog + 14 hallazgos externos).**
 
 Los años 2021 y 2022 inicialmente no podían verificarse de forma exhaustiva porque Medium no exponía el cuerpo de esas páginas. Posteriormente fueron reconciliados contra copias Markdown suministradas por el autor. Las apariciones verificadas que no figuran en el índice anual se conservan por separado como `hallazgo_externo`, sin alterar el conteo original del blog.
 
@@ -246,6 +246,16 @@ Fuente anual: [En la prensa 2024](https://blog.ariellopez.cl/en-la-prensa-2024-e
 | 2024-02-03 | LUN | Comienzan desvíos por la construcción de AVO2: Durarán 4 años y 10 meses | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=2&bodyid=0&dt=2024-02-03) |
 | 2024-01-28 | LUN | En Antofagasta instalan baldes plásticos en veredas para terminar con autos mal estacionados | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=2&bodyid=0&dt=2024-01-28) |
 
+### Hallazgos externos no incluidos en el blog 2024
+
+Esta aparición fue confirmada mediante búsqueda externa y no figura entre las 36 apariciones del índice anual 2024. Se conserva por separado para ampliar el archivo sin alterar el inventario original del blog.
+
+| Fecha | Medio | Título | Enlace |
+|---|---|---|---|
+| 2024-07-31 | Radio Pauta | Una ley ambigua y falta de educación vial: los desafíos ante el creciente uso de scooters en Santiago | [original](https://www.pauta.cl/ciudad/2024/07/31/una-ley-ambigua-y-falta-de-educacion-vial-los-desafios-que-evidencian-los-scooters-en-santiago.html) · [video](https://www.youtube.com/watch?v=_Y-C4mD8yJA) |
+
+> Estado: hallazgo externo verificado. La nota original identifica a Ariel López como entrevistado en Ciudad Pauta; el video correspondiente está preservado en la playlist de prensa.
+
 ## 2023
 
 Fuente anual: [En la prensa 2023](https://blog.ariellopez.cl/en-la-prensa-e39e770d85d2). El contenido fue reconciliado contra una copia Markdown suministrada por el autor: 30/30 apariciones.
@@ -422,6 +432,18 @@ Fuente anual: [En la prensa 2020](https://blog.ariellopez.cl/en-la-prensa-2020-e
 | 2020-01-03 | TVN | Ciclistas lideran cifras de accidentes fatales | Sin URL original documentada |
 | 2020-01-02 | Radio Bío Bío | Expertos estiman que la evasión en el Transantiago superó el 50% en la última parte del 2019 | [original](https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2020/01/02/expertos-estiman-que-la-evasion-en-el-transantiago-supero-el-50-en-la-ultima-parte-del-2019.shtml) |
 | 2020-01-01 | LUN | Trabajos para recuperar cruce del Paradero 14 de La Florida llevan 60% de avance | Sin URL original documentada |
+
+## Fuente audiovisual: YouTube
+
+La playlist de prensa del canal de Ariel López se usa como respaldo audiovisual canónico cuando la URL original del medio no está disponible. El inventario automatizado enumera **105 videos** y se cruza de forma reproducible contra `prensa.csv`.
+
+- Playlist: https://www.youtube.com/playlist?list=PLAzCbyGKyDPBSXrZb5NctMaQwpZPmpUMG
+- Inventario generado: `archivo/prensa/youtube_playlist.csv`
+- Reporte de cruce: `archivo/prensa/youtube_match_report.md`
+- Script: `scripts/sync_youtube_prensa.py`
+- Workflow: `.github/workflows/sync-youtube-prensa.yml`
+
+Los enlaces originales de los medios tienen prioridad y nunca son reemplazados por YouTube. Los videos se usan para completar registros sin URL original y para detectar posibles apariciones externas que luego requieren verificación.
 
 ## Notas de calidad de datos
 
