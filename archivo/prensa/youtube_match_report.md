@@ -3,10 +3,10 @@
 Playlist: https://www.youtube.com/playlist?list=PLAzCbyGKyDPBSXrZb5NctMaQwpZPmpUMG
 
 - Videos enumerados: **105**
-- Mapeos curados versionados: **36**
+- Mapeos curados versionados: **37**
 - Enlaces incorporados automáticamente por similitud: **0**
 - Coincidencias para revisión: **35**
-- Videos sin coincidencia suficiente: **34**
+- Videos sin coincidencia suficiente: **33**
 
 El cruce combina mapeos curados y coincidencia conservadora. Los enlaces originales de medios nunca son reemplazados por YouTube.
 
@@ -50,6 +50,7 @@ El cruce combina mapeos curados y coincidencia conservadora. Los enlaces origina
 | [Entrevista en Canal 13 por filtraciones de agua en Autopista Vespucio Oriente](https://www.youtube.com/watch?v=Ok277EqeA64) | — | 2023-09-28 | Canal 13 | Filtraciones en Autopista Vespucio Oriente | curado |
 | [Entrevista por mal estado del pavimento](https://www.youtube.com/watch?v=57tCgT5581w) | — | 2023-09-13 | Chilevisión | Por mal estado de las vías, motoristas en riesgo | curado |
 | [Entrevista por disparos contra Metrotren Nos](https://www.youtube.com/watch?v=x3vWbpOWQ18) | — | 2023-09-11 | Chilevisión | Mujer herida tras disparo a Metrotren Nos | curado |
+| [Entrevista en Radio Pauta respecto a los desafíos ante el creciente uso de scooters en Santiago](https://www.youtube.com/watch?v=_Y-C4mD8yJA) | — | 2024-07-31 | Radio Pauta | Una ley ambigua y falta de educación vial: los desafíos ante el creciente uso de scooters en Santiago | curado |
 
 ## Coincidencias automáticas incorporadas
 
@@ -123,7 +124,6 @@ El cruce combina mapeos curados y coincidencia conservadora. Los enlaces origina
 | [Entrevista en Mega por mala señalización en AVO](https://www.youtube.com/watch?v=3kBjdT_W1Ls) | — | 2025-04-04 | Chilevisión | Ascensores de Metro sin servicio hace un año | 0.527 |
 | [Chileans report driving complications due to errors in highway signage](https://www.youtube.com/watch?v=XC_g7fkwJlI) | — | 2024-02-03 | LUN | Comienzan desvíos por la construcción de AVO2: Durarán 4 años y 10 meses | 0.411 |
 | [LOS ROBOS DEL SIGLO, CAP.7 INGENIERO ARIEL LOPEZ](https://www.youtube.com/watch?v=oDi4uUIuvRQ) | — | 2024-10-03 | Consejo de Políticas de Infraestructura (CPI) | Tren Santiago-Valparaíso, por Camila Balbontín y Ariel López | 0.491 |
-| [Entrevista en Radio Pauta respecto a los desafíos ante el creciente uso de scooters en Santiago](https://www.youtube.com/watch?v=_Y-C4mD8yJA) | — | 2022-11-25 | The Clinic | Cuenta de diseños hostiles armó polémica por los asientos del Metro de Santiago | 0.471 |
 | [Nuevas filtraciones en túnel AVO: Expertos hacen lapidario análisis de la autopista](https://www.youtube.com/watch?v=rdHeqIFw_qI) | — | 2024-06-29 | Mega | Continúan las filtraciones de agua en AVO por segundo año consecutivo | 0.490 |
 | [Entrevista en Radio Biobio por proyecto de mejoramiento de la Av. España en Valparaíso](https://www.youtube.com/watch?v=-zvmYIR3JiA) | — | 2026-01-07 | LUN | ¿Cierto que es un placer andr por las cajjes despejadas durante el verano en Santiago? | 0.473 |
 | [Matinal Chilevisión con mujer contra el tránsito GAP](https://www.youtube.com/watch?v=UK5PgaqYTCA) | — | 2024-04-04 | Chilevisión | Circuló contra el tránsito y me agrede por decírselo | 0.561 |
