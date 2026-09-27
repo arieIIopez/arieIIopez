@@ -77,7 +77,7 @@ def media_bonus(media: str, video_text: str) -> float:
 
 def run_ytdlp() -> list[dict]:
     cmd = [
-        "yt-dlp", "--ignore-errors", "--skip-download", "--no-warnings",
+        "yt-dlp", "--ignore-errors", "--flat-playlist", "--no-warnings",
         "--dump-json", PLAYLIST_URL
     ]
     p = subprocess.run(cmd, cwd=ROOT, text=True, capture_output=True)
@@ -101,7 +101,7 @@ def run_ytdlp() -> list[dict]:
             "title": j.get("title") or "",
             "upload_date": j.get("upload_date") or "",
             "channel": j.get("channel") or j.get("uploader") or "",
-            "description": j.get("description") or "",
+            "description": "",
             "url": f"https://www.youtube.com/watch?v={vid}",
         })
     return entries
