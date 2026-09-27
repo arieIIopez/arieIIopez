@@ -9,14 +9,14 @@ Este archivo está deliberadamente separado del README del perfil. La unidad de 
 | Año | Registros indexados | Registros declarados en la fuente | Estado |
 |---:|---:|---:|---|
 | 2026 | 88 | 88 | Completo |
-| 2025 | 50 | 50 | Completo |
+| 2025 | 51 | 50 | Completo en blog + 1 hallazgo externo |
 | 2024 | 36 | 36 | Completo |
 | 2023 | 30 | 30 | Completo |
 | 2022 | 30 | 24 | Completo en blog + 6 hallazgos externos |
 | 2021 | 19 | 14 | Completo en blog + 5 hallazgos externos |
 | 2020 | 46 | 46 | Completo |
 
-**Total registrado: 299 apariciones (288 documentadas y curadas desde los índices del blog + 11 hallazgos externos).**
+**Total registrado: 300 apariciones (288 documentadas y curadas desde los índices del blog + 12 hallazgos externos).**
 
 Los años 2021 y 2022 siguen sin poder verificarse de forma exhaustiva contra sus páginas anuales, porque Medium actualmente no expone el cuerpo de esos artículos. Sin embargo, se reconstruyó una parte del archivo a partir de publicaciones originales conservadas por los medios. Estos registros se marcan como `reconstruido` y no se presentan como un inventario completo de esos dos años.
 
@@ -127,17 +127,17 @@ Fuente anual: [En la prensa 2026](https://blog.ariellopez.cl/en-la-prensa-2026-a
 
 ## 2025
 
-Fuente anual: [En la prensa 2025](https://blog.ariellopez.cl/en-la-prensa-2025-e0bdc343bba6).
+Fuente anual: [En la prensa 2025](https://blog.ariellopez.cl/en-la-prensa-2025-e0bdc343bba6). El contenido fue reconciliado contra una copia Markdown suministrada por el autor: 50/50 apariciones efectivas.
 
 | Fecha | Medio | Título | Enlace |
 |---|---|---|---|
-| 2025-12-27 | Chilevisión | Conductor de scooter muere tras ser colisionado por automovilista en estado de ebriedad | Sin URL original documentada |
+| 2025-12-27 | Chilevisión | Conductor de scooter muere tras ser colisionado por automovilista en estado de ebriedad | [video](https://www.youtube.com/watch?v=sXHqtI5C3EA) |
 | 2025-12-26 | Chilevisión | ¿Qué artículos se pueden subir a un tren? Guardias de EFE arrebatan regalo de navidad a una pasajera en el Biotren | Sin URL original documentada |
 | 2025-12-26 | Meganoticias | ¿Qué artículos se pueden subir a un tren? Guardias de EFE arrebatan regalo de navidad a una pasajera en el Biotren | Sin URL original documentada |
-| 2025-12-17 | Canal 13 | Denuncian aire caliente en los andenes del Metro | Sin URL original documentada |
+| 2025-12-17 | Canal 13 | Denuncian aire caliente en los andenes del Metro | [video](https://www.youtube.com/watch?v=g7RCFzoM6bY) |
 | 2025-11-06 | The Clinic | Gobierno anuncia tren que unirá Ñuble y Concepción en 90 minutos y será más lento que viajar en bus: “Lo están condenando a morir antes de nacer” | [original](https://www.theclinic.cl/2025/11/06/expertos-debaten-sobre-tiempos-de-traslado-del-tren-chillan-concepcion-lo-estan-condenando-a-morir-antes-de-nacer/) |
 | 2025-11-05 | Chilevisión | Señal de tránsito que permite pasar el semáforo con luz roja ilegalmente | Sin URL original documentada |
-| 2025-11-02 | Canal 13 | Vuelven los buses articulados: ahora son eléctricos | Sin URL original documentada |
+| 2025-11-02 | Canal 13 | Vuelven los buses articulados: ahora son eléctricos | [video](https://www.youtube.com/watch?v=3naViTajGPM) |
 | 2025-10-14 | Chilevisión | Metro de Santiago bajo la lupa: aumentan fallas internas | Sin URL original documentada |
 | 2025-10-13 | Chilevisión | Así es el nuevo cruce entre Vespucio y Ruta 68 | Sin URL original documentada |
 | 2025-10-13 | LUN | Nuevo enlace tipo turbina en Vespucio con Ruta 68 | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=15&SupplementId=0&dt=2025-10-13) |
@@ -149,7 +149,7 @@ Fuente anual: [En la prensa 2025](https://blog.ariellopez.cl/en-la-prensa-2025-e
 | 2025-09-05 | LUN | Señalética en las autopistas: “Muchas veces la información aparece demasiado cerca de la salida, con mensajes largos y poco claros” | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=8&bodyid=0&dt=2025-09-05) |
 | 2025-09-05 | The Clinic | “Se debe descontaminar”: La preocupante advertencia de experto tras incendio en estación San Joaquín por posible presencia de asbesto en el Metro | [original](https://www.theclinic.cl/2025/09/05/se-debe-descontaminar-la-preocupante-advertencia-de-experto-tras-incendio-en-estacion-san-joaquin-por-posible-presencia-de-asbesto-en-el-metro/) |
 | 2025-08-11 | LUN | Venezolanos que viven en Chile eligieron qué les gusta más del país: puras flores para el transporte público nacional | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=17&bodyid=0&dt=2025-08-11) |
-| 2025-08-08 | Chilevisión | Vehículos mal estacionados impiden el paso de bomberos | Sin URL original documentada |
+| 2025-08-08 | Chilevisión | Vehículos mal estacionados impiden el paso de bomberos | [video](https://www.youtube.com/watch?v=zxNVfifgpdU) |
 | 2025-08-08 | El Mercurio de Valparaíso | Proponen ciclovía por Paseo Wheelwright y avenida España | [original](https://www.mercuriovalpo.cl/impresa/2025/08/08/full/cuerpo-principal/7/) |
 | 2025-07-31 | Chilevisión | Tobalaba al límite: Acusan colapso en andén | Sin URL original documentada |
 | 2025-07-28 | The Clinic | El error de diseño que condenó a la estación Tobalaba al colapso: la falla estructural en los andenes que Metro no anticipó y que sigue sin solución | [original](https://www.theclinic.cl/2025/07/28/el-error-de-diseno-que-condeno-a-la-estacion-tobalaba-al-colapso-la-falla-estructural-en-los-andenes-que-metro-no-anticipo-y-que-sigue-sin-solucion/) |
@@ -181,6 +181,16 @@ Fuente anual: [En la prensa 2025](https://blog.ariellopez.cl/en-la-prensa-2025-e
 | 2025-01-31 | LUN | Es en 3D: debuta buscador para encontrar el último sismo ocurrido en suelo chileno | [original](https://www.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=2&bodyid=0&dt=2025-01-31) |
 | 2025-01-18 | LUN | Greenlight, la inteligencia artificial que busca mejorar la coordinación de los semáforos en Santiago | [original](https://images.lun.com/Pages/NewsDetail.aspx?EsAviso=0&PaginaId=6&bodyid=0&dt=2025-01-18) |
 | 2025-01-09 | Radio Bío Bío | Descarrilamiento en L2 del Metro de Santiago | Sin URL original documentada |
+
+### Hallazgos externos no incluidos en el blog 2025
+
+Esta aparición se encontró mediante búsqueda externa y no figura en la copia Markdown del índice anual. Se conserva por separado para ampliar el archivo sin alterar el inventario original del blog.
+
+| Fecha | Medio | Título | Enlace |
+|---|---|---|---|
+| 2025-06-09 | The Clinic | Influencer en silla de ruedas dejó de usar el metro por ascensores malos en la red: "No están siendo accesibles, nos están excluyendo" | [original](https://www.theclinic.cl/2025/06/09/influencer-en-silla-de-ruedas-dejo-de-usar-el-metro-por-ascensores-malos-en-la-red-no-estan-siendo-accesibles-nos-estan-excluyendo/) |
+
+> Estado: 2025 queda cerrado respecto del índice del blog (50/50 apariciones). El hallazgo externo se etiqueta como `hallazgo_externo`.
 
 ## 2024
 
@@ -406,4 +416,4 @@ Fuente anual: [En la prensa 2020](https://blog.ariellopez.cl/en-la-prensa-2020-e
 
 El catálogo distingue el registro documental de la interpretación. En particular, algunos años contienen errores tipográficos de fecha o títulos, y algunos encabezados reúnen varias coberturas. Esos casos se normalizan sin ocultarlos: la versión CSV conserva una columna `nota` para documentar la decisión.
 
-La actualización automática desde Medium quedó desactivada porque los runners de GitHub reciben respuestas 403. El workflow sólo valida el catálogo. Los años 2021, 2022, 2023 y 2024 fueron reconciliados contra copias Markdown aportadas por el autor. El estado `hallazgo_externo` identifica apariciones verificadas que no figuran en el índice anual del blog.
+La actualización automática desde Medium quedó desactivada porque los runners de GitHub reciben respuestas 403. El workflow sólo valida el catálogo. Los años 2021, 2022, 2023, 2024 y 2025 fueron reconciliados contra copias Markdown aportadas por el autor. El estado `hallazgo_externo` identifica apariciones verificadas que no figuran en el índice anual del blog.
